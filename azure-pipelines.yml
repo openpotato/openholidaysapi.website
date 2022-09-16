@@ -1,0 +1,77 @@
+pool:
+  vmImage: 'windows-2022'
+    
+variables:
+- group: 'github-config'
+
+steps:
+- task: UsePythonVersion@0
+  inputs:
+    versionSpec: '3.x'
+    addToPath: true
+    architecture: 'x64'
+- task: PowerShell@2
+  displayName: Install MkDocs
+  inputs:
+    targetType: 'inline'
+    script: |
+      pip install mkdocs mkdocs-material mkdocs-minify-plugin --disable-pip-version-check
+    failOnStderr: false
+    workingDirectory: '$(Build.SourcesDirectory)'
+- task: PowerShell@2
+  displayName: Build MkDocs project for DE
+  inputs:
+    targetType: 'inline'
+    script: |
+      mkdocs build -q
+    failOnStderr: true
+    workingDirectory: '$(Build.SourcesDirectory)/de'
+- task: PowerShell@2
+  displayName: Build MkDocs project for EN
+  inputs:
+    targetType: 'inline'
+    script: |
+      mkdocs build -q
+    failOnStderr: true
+    workingDirectory: '$(Build.SourcesDirectory)/en'
+- task: ArchiveFiles@2
+  displayName: 'Create Zip archive for DE'
+  inputs:
+    rootFolderOrFile: 'de/site'
+    includeRootFolder: false
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).de.zip'
+    replaceExistingArchive: true
+- task: ArchiveFiles@2
+  displayName: 'Create Zip archive for EN'
+  inputs:
+    rootFolderOrFile: 'en/site'
+    includeRootFolder: false
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/$(Build.BuildId).en.zip'
+    replaceExistingArchive: true
+- task: CopyFiles@2
+  displayName: 'Copy Maintenance Page'
+  inputs:
+    Contents: 'nginx-maintenance.html'
+    TargetFolder: '$(Build.ArtifactStagingDirectory)'
+    OverWrite: true
+- task: PublishBuildArtifacts@1
+  displayName: 'Publish build artifacts'
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'drop'
+    publishLocation: 'Container'
+- task: PowerShell@2
+  displayName: 'Push to GitHub'
+  condition: and(succeeded(), eq(variables['Build.SourceBranch'], 'refs/heads/main'))
+  inputs:
+    targetType: 'inline'
+    script: |
+      git remote add github https://$(PAT)@github.com/openpotato/openholidaysapi.website.git
+      git fetch github
+      git checkout .
+      git push github HEAD:main
+      git push --tags github HEAD:main
+    pwsh: true
+ 

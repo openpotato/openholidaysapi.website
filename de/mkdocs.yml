@@ -1,0 +1,75 @@
+# Project information
+site_name: OpenHolidays API
+site_description: 'Dokumentation des OpenHolidays API Projekts'
+site_author: 'STÜBER SYSTEMS GmbH'
+site_url: 'https://www.openholidaysapi.org/'
+
+# Copyright
+copyright: 
+  '&copy; 2022 STÜBER SYSTEMS GmbH : <a href="https://www.stueber.de/imprint.php">Impressum</a> : <a href="https://legal.stueber.de/privacy.php">Datenschutz</a>'
+
+# Repository
+repo_name: 'Auf GitHub'
+repo_url: 'https://github.com/openpotato/openholidaysapi.website'
+
+# Theming
+theme:
+  name: material
+  language: de
+  features:
+    - navigation.instant
+    - navigation.top
+  palette:
+    - scheme: default
+      primary: 'green'
+      accent: 'green'
+      toggle:
+        icon: material/brightness-7
+        name: In den Dunkelmodus wechseln
+    - scheme: slate
+      primary: 'green'
+      accent: 'green'
+      toggle:
+        icon: material/brightness-4
+        name: In den Hellmodus wechseln
+  font: false
+  favicon: 'assets/logos/favicon.ico'
+  logo: 'assets/logos/logo.svg'
+  include_search_page: false
+  search_index_only: true
+  static_templates:
+    - 404.html
+
+# Multi language
+extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Deutsch
+      lang: de
+
+# Customization
+extra_css:
+  - assets/css/custom.css
+
+# Plugins
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+# Navigation
+nav:
+  - Einführung: index.md
+  - Datenquellen: sources.md
+  - Änderungslog: change-log.md
+  - API: api.md
