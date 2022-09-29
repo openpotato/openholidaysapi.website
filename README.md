@@ -20,27 +20,27 @@ This is the documentation for the OpenHolidays API project. The documentation is
 
 This repository is a Git repository. To clone the repository to a local commputer you will need a Git client. Either install [Git for Windows](https://gitforwindows.org/) and use the command prompt or install one of the many GUIs. We recommend [GitHub Desktop](https://desktop.github.com) or [SourceTree](https://www.sourcetreeapp.com).
 
-1. Create a local directory for the documentation e.g. `c:\openholidays`.
+1. Create a local directory for the documentation e.g. `c:\openholidaysapi`.
 
-2. Open the command prompt and change to directory `c:\openholidays`.
+2. Open the command prompt and change to directory `c:\openholidaysapi`.
 
-3. Enter the command `git clone https://github.com/openvrz/openholidaysapi.website.git` to clone the repository.
+3. Enter the command `git clone https://github.com/openpotato/openholidaysapi.website.git` to clone the repository.
 
 ## Download Repository as Zip Archive
 
 If you don't want to use Git you can even download the repository as a Zip Archive:
 
-1. Open the URL `https://github.com/openvrz/openholidaysapi.website` in your web browser
+1. Open the URL `https://github.com/openpotato/openholidaysapi.website` in your web browser
 
 2. Click on the `Clone or download` button then select `Download ZIP`.
 
-3. Extract the Zip Archive to a local folder, e.g. `c:\openholidays`.
+3. Extract the Zip Archive to a local folder, e.g. `c:\openholidaysapi`.
 
 ##  Using MkDocs
 
 You have installed Python and MkDocs, cloned the repository or downloaded it as a Zip Archive. Now you can generate the documentation locally on your computer.
 
-1. Start the command prompt and change to the directory `c:\openholidays\de` for German documentation or `c:\openholidays\en` for the English documentation.
+1. Start the command prompt and change to the directory `c:\openholidaysapi\de` for German documentation or `c:\openholidaysapi\en` for the English documentation.
 
 2. Enter the command `mkdocs build`. The documentation will be regenerated.
 
