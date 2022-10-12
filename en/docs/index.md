@@ -10,7 +10,7 @@
 
 Public holidays and school holidays are returned optionally as [JSON](https://datatracker.ietf.org/doc/html/rfc7159) or in [iCal format](https://datatracker.ietf.org/doc/html/rfc5545).
 
-## Lets's start
+## Let's start
 
 The easiest way to use the API is via the command line. We will work with the command line application [curl](https://curl.se/) in this chapter. 
 
@@ -52,7 +52,7 @@ Here is an example query for Germany (DE):
     curl -X GET 'https://openholidaysapi.org/Subdivisions?countryIsoCode=DE' -H 'accept: text/json' | json_pp
     ```
 
-Die Codes der Verwaltungseinheiten entsprechen dem Standard [ISO 3166-2](https://www.iso.org/iso-3166-country-codes.html).
+The codes of the countries correspond to the standard [ISO 3166-2](https://www.iso.org/iso-3166-country-codes.html).
 
 ### Organisational units
 
