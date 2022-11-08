@@ -1,5 +1,9 @@
 ## OpenHolidays API Data
 
+### 0.0.3 <small>_ 08. November 2022</small>
+
+- Fehlerkorrekturen
+
 ### 0.0.2 <small>_ 12. Oktober 2022</small>
 
 - Fehlerkorrekturen

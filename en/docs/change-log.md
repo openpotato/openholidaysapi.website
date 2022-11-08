@@ -1,5 +1,9 @@
 ## OpenHolidays API Data
 
+### 0.0.3 <small>_ November 08, 2022</small>
+
+- Bug fixes
+
 ### 0.0.2 <small>_ October 12, 2022</small>
 
 - Bug fixes
