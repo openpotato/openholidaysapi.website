@@ -18,7 +18,6 @@ theme:
   language: de
   features:
     - navigation.instant
-    - navigation.top
   palette:
     - scheme: default
       primary: 'green'

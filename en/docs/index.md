@@ -52,7 +52,7 @@ Here is an example query for Germany (DE):
     curl -X GET 'https://openholidaysapi.org/Subdivisions?countryIsoCode=DE' -H 'accept: text/json' | json_pp
     ```
 
-The codes of the countries correspond to the standard [ISO 3166-2](https://www.iso.org/iso-3166-country-codes.html).
+The codes of the subdivisions correspond to the standard [ISO 3166-2](https://www.iso.org/iso-3166-country-codes.html).
 
 ### Organisational units
 
