@@ -126,7 +126,7 @@ Sources:
 + [Rijksoverheid.nl: Overzicht schoolvakanties 2024-2025](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2024-2025)
 + [Rijksoverheid.nl: Voorlopig overzicht schoolvakanties 2025-2026](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2025-2026)
 
-## Luxemburg
+## Luxembourg
 
 ### Public Holidays
 
