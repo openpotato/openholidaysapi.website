@@ -1,5 +1,10 @@
 ## OpenHolidays API Data
 
+### 0.0.4 <small>_ 08. Dezember 2022</small>
+
+- Italienische Übersetzung der Schweizer Ferien hinzugefügt
+- Schulferien 2024/2025 für Luxemburg hinzugefügt
+
 ### 0.0.3 <small>_ 08. November 2022</small>
 
 - Fehlerkorrekturen

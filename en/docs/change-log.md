@@ -1,5 +1,10 @@
 ## OpenHolidays API Data
 
+### 0.0.4 <small>_ December 08, 2022</small>
+
+- Added Italian language for Swiss holiday names
+- Added school holidays 2024/2025 for Luxembourg
+
 ### 0.0.3 <small>_ November 08, 2022</small>
 
 - Bug fixes
