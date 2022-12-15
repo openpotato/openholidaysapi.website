@@ -162,8 +162,11 @@ Die Schulferien werden zentral durch das französische Erziehungsministerium fes
 
 Quellen:
 
-+ [Ministère de l'Education Nationale et de la Jeunesse: Calendrier scolaire](https://www.education.gouv.fr/calendrier-scolaire-100148)
++ [Ministère de l'Education Nationale et de la Jeunesse: Calendrier scolaire](https://www.education.gouv.fr/calendrier-scolaire)
 + [Calendrier scolaire 2019-2020](https://www.education.gouv.fr/media/44402/download)
 + [Calendrier scolaire 2020-2021](https://www.education.gouv.fr/media/51786/download)
 + [Calendrier scolaire 2021-2022](https://www.education.gouv.fr/media/74054/download)
 + [Calendrier scolaire 2022-2023](https://www.education.gouv.fr/media/91418/download)
++ [Calendrier scolaire 2023-2024](https://www.education.gouv.fr/media/119692/download)
++ [Calendrier scolaire 2024-2025](https://www.education.gouv.fr/media/119767/download)
++ [Calendrier scolaire 2025-2026](https://www.education.gouv.fr/media/119770/download)
