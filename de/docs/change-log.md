@@ -1,5 +1,12 @@
 ## OpenHolidays API Data
 
+### 0.0.5 <small>_ 18. Dezember 2022</small>
+
+- Feiertage/Schulferien für Estland hinzugefügt
+- Feiertage/Schulferien für Belgien hinzugefügt
+- Schulferien 2023/2024, 2024/2025 und 2025/2026 für Frankreich hinzugefügt
+- Fehlerkorrekturen
+
 ### 0.0.4 <small>_ 08. Dezember 2022</small>
 
 - Italienische Übersetzung der Schweizer Ferien hinzugefügt

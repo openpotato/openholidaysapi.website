@@ -1,5 +1,12 @@
 ## OpenHolidays API Data
 
+### 0.0.5 <small>_ December 18, 2022</small>
+
+- Added holidays for Estonia
+- Added holidays for Belgium
+- Added school holidays 2023/2024, 2024/2025 and 2025/2026 for France
+- Bug fixes
+
 ### 0.0.4 <small>_ December 08, 2022</small>
 
 - Added Italian language for Swiss holiday names
