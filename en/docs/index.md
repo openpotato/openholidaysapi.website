@@ -1,12 +1,14 @@
 **OpenHolidays API** is a small [Open Data project](https://opendatahandbook.org/guide/en/what-is-open-data/) that collects public holiday and school holiday data and makes it available via an open REST API interface. The following countries are currently supported:
 
-+ Germany (public holidays and school holidays from 2020).
 + Austria (public holidays and school holidays from 2020)
-+ Switzerland (public holidays and school holidays from 2020)
-+ Liechtenstein (public holidays and school holidays from 2020)
-+ Netherlands (public holidays and school holidays from 2020)
-+ Luxembourg (public holidays and school holidays from 2020)
++ Belgium (public holidays and school holidays from 2020)
++ Estonia (public holidays and school holidays from 2020)
 + France (public holidays and school holidays from 2020)
++ Germany (public holidays and school holidays from 2020)
++ Liechtenstein (public holidays and school holidays from 2020)
++ Luxembourg (public holidays and school holidays from 2020)
++ Netherlands (public holidays and school holidays from 2020)
++ Switzerland (public holidays and school holidays from 2020)
 
 Public holidays and school holidays are returned optionally as [JSON](https://datatracker.ietf.org/doc/html/rfc7159) or in [iCal format](https://datatracker.ietf.org/doc/html/rfc5545).
 

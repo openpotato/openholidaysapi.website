@@ -1,5 +1,26 @@
 Die Datengrundlage für **OpenHolidays API** basiert komplett auf öffentlichen Quellen der Länder. Die aufbereiteten Rohdaten stehen im GitHub-Repository [OpenHolidaysAPI.Data](https://github.com/openpotato/openholidaysapi.data) zur Verfügung. Im folgenden werden die Quellen der einzelnen Länder aufgeführt.
 
+## Belgien
+
+### Feiertage
+
+Belgien hat 12 nationale Feiertage, die arbeits- und schulfrei sind.
+
+Quelle:
+
++ [Jours fériés nationaux en Belgique](https://www.belgium.be/fr/la_belgique/connaitre_le_pays/la_belgique_en_bref/jours_feries)
+
+### Schulferien
+
+Belgien ist in drei Sprachgebiete unterteilt, der Flämischen, der Französischen und der Deutschsprachigen Gemeinschaft. Jede Gemeinschaft kann eigenständig die Ferientermine für Schulen festlegen.
+
+
+Quellen:
+
++ [French Community | Calendrier Scolaire](http://www.enseignement.be/calendrierscolaire)
++ [Flemish Community | Schoolvakanties](https://onderwijs.vlaanderen.be/nl/schoolvakanties)
++ [German-speaking Community | Schulkalender und Ferienregelung](https://ostbelgienbildung.be/desktopdefault.aspx/tabid-2212/)
+
 ## Deutschland
 
 ### Feiertage
@@ -50,101 +71,23 @@ Quellen:
 + [Sachsen-Anhalt | Ministerium für Bildung: Ferienordnung (PDF)](https://mb.sachsen-anhalt.de/fileadmin/Bibliothek/Landesjournal/Bildung_und_Wissenschaft/Erlasse/Ferienordnung_bis_2024.pdf)
 + [Thüringen | Ministerium für Bildung, Jugend und Sport: Ferienregelung](https://bildung.thueringen.de/schule/schulwesen/ferien)
 
-## Österreich
+## Estland
 
 ### Feiertage
 
-Österreich hat 13 Feiertage, die in allen Bundesländern als arbeitsfrei gelten.
+Estland hat 12 nationale Feiertage, die arbeits- und schulfrei sind.
 
-Quellen:
+Quelle:
 
-+ [Bundesministerium für Digitalisierung und Wirtschaftsstandort: Feiertagsruhegesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008168)
-
-### Schulferien
-
-Die Herbstferien, Weihnachtsferien, Osterferien und Pfingstferien sind für alle Bundesländer gleich. Lediglich die Semesterferien und Sommerferien unterscheiden sich je nach Bundesland.
-
-Quellen:
-
-+ [Bundesministerium für Bildung, Wissenschaft und Forschung: Ferien](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine.html)
-
-## Schweiz
-
-### Feiertage
-
-In der Schweiz werden die gesetzlichen Feiertage und die Tage, die wie gesetzliche Feiertage behandelt werden, mit Ausnahme des 1. August, durch die Kantone bestimmt. Der Neujahrstag, die Auffahrt und der Weihnachtstag sind die einzigen Feiertage, die alle Kantone als gesetzliche Feiertage bezeichnet haben.
-
-Quellen:
-
-+ [Bundesamt für Justiz: Gesetzliche Feiertage und Tage, die in der Schweiz wie gesetzliche Feiertage behandelt werden (PDF)](https://www.bj.admin.ch/dam/bj/de/data/publiservice/service/zivilprozessrecht/kant-feiertage.pdf.download.pdf/kant-feiertage.pdf)
++ [eesti.ee | National, public and school holidays](https://www.eesti.ee/en/republic-of-estonia/republic-of-estonia/national-public-and-school-holidays)
 
 ### Schulferien
 
-Für die Festlegung der Schulferien sind die Kantone und ihre Gemeinden zuständig. Die Koordination erfolgt durch die [Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK)](https://www.edk.ch/de).
+Die Schulferien werden zental vom Ministerium für Bildung und Forschung festgelegt.
 
-Quellen:
+Quelle:
 
-+ [Schweizerische Konferenz der kantonalen Erziehungsdirektoren: Schulferien](https://www.edk.ch/de/bildungssystem/kantonale-schulorganisation/Schulferien)
-
-## Liechtenstein
-
-### Feiertage
-
-Liechtenstein hat 15 Feiertage, die landesweit als arbeitsfrei gelten.
-
-Quellen:
-
-+ [Rechtsdienst der Regierung: Verordnung betreffend die Sonn- und Feiertagsruhe und den Ladenschluss](https://www.gesetze.li/chrono/1973.033)
-
-### Schulferien
-
-Der Schuljahresbeginn und die Verteilung der Ferien auf das Schuljahr werden jeweils im Ferienkalender des [Liechtensteiner Schulamts](http://www.sa.llv.li) publiziert. Er orientiert sich dabei an den Schweizer Ferienterminen.
-
-Quellen:
-
-+ [Schulamt Fürstentum Liechtenstein: Ferienkalendar (PDF)](https://www.llv.li/files/sa/schulferienkalender-2021-24_web.pdf)
-
-## Niederlande
-
-### Feiertage
-
-Die Niederlande hat 11 offizielle Feiertage, die landesweit gelten.
-
-Quellen:
-
-+ [Rijksoverheid.nl: Wanneer zijn de officiële feestdagen in Nederland?](https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/officiele-feestdagen)
-
-### Schulferien
-
-Die Schulferien in den Niederlanden werden auf drei Regionen verteilt. Es sind die Regionen Nord, Mitte und Süd. Die Ferienspreizung soll den Ferienandrang während der Schulferien reduzieren.
-
-Quellen:
-
-+ [Rijksoverheid.nl: Overzicht schoolvakanties 2021-2022](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2021-2022)
-+ [Rijksoverheid.nl: Overzicht schoolvakanties 2022-2023](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2022-2023)
-+ [Rijksoverheid.nl: Overzicht schoolvakanties 2023-2024](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2023-2024)
-+ [Rijksoverheid.nl: Overzicht schoolvakanties 2024-2025](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2024-2025)
-+ [Rijksoverheid.nl: Voorlopig overzicht schoolvakanties 2025-2026](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2025-2026)
-
-## Luxemburg
-
-### Feiertage
-
-Luxemburg hat 11 gesetzlliche Feiertage, die landesweit gelten.
-
-Quellen:
-
-+ [Luxembourg.lu: Gesetzliche Feiertage](https://luxembourg.public.lu/en/living/quality-of-life/jours-feries-legaux.html)
-
-### Schulferien
-
-Der Schuljahresbeginn und die Verteilung der Ferien auf das Schuljahr werden durch Großherzogliche Verordnungen bestimmt. 
-
-Quellen:
-
-+ [Guichet.lu: Schulferienkalender](https://guichet.public.lu/de/outils/calendrier-scolaire.html)
-+ [Legilux: Règlement grand-ducal du 14 juin 2021](http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/14/a452/jo)
-+ [Legilux: Règlement grand-ducal du 2 septembre 2020](http://data.legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a736/jo)
++ [eesti.ee | National, public and school holidays](https://www.eesti.ee/en/republic-of-estonia/republic-of-estonia/national-public-and-school-holidays)
 
 ## Frankreich
 
@@ -170,3 +113,100 @@ Quellen:
 + [Calendrier scolaire 2023-2024](https://www.education.gouv.fr/media/119692/download)
 + [Calendrier scolaire 2024-2025](https://www.education.gouv.fr/media/119767/download)
 + [Calendrier scolaire 2025-2026](https://www.education.gouv.fr/media/119770/download)
+
+## Liechtenstein
+
+### Feiertage
+
+Liechtenstein hat 15 Feiertage, die landesweit als arbeitsfrei gelten.
+
+Quellen:
+
++ [Rechtsdienst der Regierung: Verordnung betreffend die Sonn- und Feiertagsruhe und den Ladenschluss](https://www.gesetze.li/chrono/1973.033)
+
+### Schulferien
+
+Der Schuljahresbeginn und die Verteilung der Ferien auf das Schuljahr werden jeweils im Ferienkalender des [Liechtensteiner Schulamts](http://www.sa.llv.li) publiziert. Er orientiert sich dabei an den Schweizer Ferienterminen.
+
+Quellen:
+
++ [Schulamt Fürstentum Liechtenstein: Ferienkalendar (PDF)](https://www.llv.li/files/sa/schulferienkalender-2021-24_web.pdf)
+
+## Luxemburg
+
+### Feiertage
+
+Luxemburg hat 11 gesetzlliche Feiertage, die landesweit gelten.
+
+Quellen:
+
++ [Luxembourg.lu: Gesetzliche Feiertage](https://luxembourg.public.lu/en/living/quality-of-life/jours-feries-legaux.html)
+
+### Schulferien
+
+Der Schuljahresbeginn und die Verteilung der Ferien auf das Schuljahr werden durch Großherzogliche Verordnungen bestimmt. 
+
+Quellen:
+
++ [Guichet.lu: Schulferienkalender](https://guichet.public.lu/de/outils/calendrier-scolaire.html)
++ [Legilux: Règlement grand-ducal du 14 juin 2021](http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/14/a452/jo)
++ [Legilux: Règlement grand-ducal du 2 septembre 2020](http://data.legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a736/jo)
+
+## Niederlande
+
+### Feiertage
+
+Die Niederlande hat 11 offizielle Feiertage, die landesweit gelten.
+
+Quellen:
+
++ [Rijksoverheid.nl: Wanneer zijn de officiële feestdagen in Nederland?](https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/officiele-feestdagen)
+
+### Schulferien
+
+Die Schulferien in den Niederlanden werden auf drei Regionen verteilt. Es sind die Regionen Nord, Mitte und Süd. Die Ferienspreizung soll den Ferienandrang während der Schulferien reduzieren.
+
+Quellen:
+
++ [Rijksoverheid.nl: Overzicht schoolvakanties 2021-2022](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2021-2022)
++ [Rijksoverheid.nl: Overzicht schoolvakanties 2022-2023](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2022-2023)
++ [Rijksoverheid.nl: Overzicht schoolvakanties 2023-2024](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2023-2024)
++ [Rijksoverheid.nl: Overzicht schoolvakanties 2024-2025](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2024-2025)
++ [Rijksoverheid.nl: Voorlopig overzicht schoolvakanties 2025-2026](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2025-2026)
+
+## Schweiz
+
+### Feiertage
+
+In der Schweiz werden die gesetzlichen Feiertage und die Tage, die wie gesetzliche Feiertage behandelt werden, mit Ausnahme des 1. August, durch die Kantone bestimmt. Der Neujahrstag, die Auffahrt und der Weihnachtstag sind die einzigen Feiertage, die alle Kantone als gesetzliche Feiertage bezeichnet haben.
+
+Quellen:
+
++ [Bundesamt für Justiz: Gesetzliche Feiertage und Tage, die in der Schweiz wie gesetzliche Feiertage behandelt werden (PDF)](https://www.bj.admin.ch/dam/bj/de/data/publiservice/service/zivilprozessrecht/kant-feiertage.pdf.download.pdf/kant-feiertage.pdf)
+
+### Schulferien
+
+Für die Festlegung der Schulferien sind die Kantone und ihre Gemeinden zuständig. Die Koordination erfolgt durch die [Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK)](https://www.edk.ch/de).
+
+Quellen:
+
++ [Schweizerische Konferenz der kantonalen Erziehungsdirektoren: Schulferien](https://www.edk.ch/de/bildungssystem/kantonale-schulorganisation/Schulferien)
+
+## Österreich
+
+### Feiertage
+
+Österreich hat 13 Feiertage, die in allen Bundesländern als arbeitsfrei gelten.
+
+Quellen:
+
++ [Bundesministerium für Digitalisierung und Wirtschaftsstandort: Feiertagsruhegesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008168)
+
+### Schulferien
+
+Die Herbstferien, Weihnachtsferien, Osterferien und Pfingstferien sind für alle Bundesländer gleich. Lediglich die Semesterferien und Sommerferien unterscheiden sich je nach Bundesland.
+
+Quellen:
+
++ [Bundesministerium für Bildung, Wissenschaft und Forschung: Ferien](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine.html)
+
