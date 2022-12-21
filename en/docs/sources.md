@@ -6,7 +6,7 @@ The data basis for **OpenHolidays API** is completely based on public sources of
 
 Austria has 13 public holidays that are considered non-working days in all federal provinces.
 
-Sources:
+Source:
 
 + [Bundesministerium für Digitalisierung und Wirtschaftsstandort: Feiertagsruhegesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008168)
 
@@ -14,7 +14,7 @@ Sources:
 
 The autumn holidays, Christmas holidays, Easter holidays and Whitsun holidays are the same for all federal states. Only the semester holidays and summer holidays differ depending on the federal state.
 
-Sources:
+Source:
 
 + [Bundesministerium für Bildung, Wissenschaft und Forschung: Ferien](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine.html)
 
@@ -62,7 +62,7 @@ Source:
 
 France has 11 official holidays that apply nationwide.
 
-Sources:
+Source:
 
 + [Service-Public.fr: Jours fériés dans la fonction publique](https://www.service-public.fr/particuliers/vosdroits/F24496)
 
@@ -131,13 +131,33 @@ Sources:
 + [Sachsen-Anhalt | Ministerium für Bildung: Ferienordnung (PDF)](https://mb.sachsen-anhalt.de/fileadmin/Bibliothek/Landesjournal/Bildung_und_Wissenschaft/Erlasse/Ferienordnung_bis_2024.pdf)
 + [Thüringen | Ministerium für Bildung, Jugend und Sport: Ferienregelung](https://bildung.thueringen.de/schule/schulwesen/ferien)
 
+## Latvia
+
+### Public Holidays
+
+Latvia has 15 national holidays that are free of work and school.
+
+Source:
+
++ [Likumi.lv: Par svētku, atceres un atzīmējamām dienām](https://likumi.lv/ta/en/en/id/72608)
+
+### School Holidays
+
+School holidays are determined centrally by the Ministry of Education and Science.
+
+Sources:
+
++ [Izglītības un zinātnes ministrija: Apstiprināti noteikumi par 2020./2021. mācību gada garumu, mācību semestriem un brīvlaikiem](https://www.mk.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20202021-macibu-gada-garumu-macibu-semestriem-un-brivlaikiem)
++ [Izglītības un zinātnes ministrija: Apstiprināti noteikumi par 2021./2022. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20212022-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
++ [Izglītības un zinātnes ministrija: Apstiprināti noteikumi par 2022./2023. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20222023-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
+
 ## Liechtenstein
 
 ### Public Holidays
 
 Liechtenstein has 15 public holidays that are considered non-working days throughout the country.
 
-Sources:
+Source:
 
 + [Rechtsdienst der Regierung: Verordnung betreffend die Sonn- und Feiertagsruhe und den Ladenschluss](https://www.gesetze.li/chrono/1973.033)
 
@@ -145,9 +165,27 @@ Sources:
 
 The beginning of the school year and the distribution of holidays over the school year are published in the holiday calendar of the [Liechtenstein Education Authority](http://www.sa.llv.li). It is based on the Swiss holiday dates.
 
-Sources:
+Source:
 
 + [Schulamt Fürstentum Liechtenstein: Ferienkalendar (PDF)](https://www.llv.li/files/sa/schulferienkalender-2021-24_web.pdf)
+
+## Lithuania
+
+### Public Holidays
+
+Lithuania has 14 national holidays that are free of work and school.
+
+Source:
+
++ [Lietuvos Respublikos Seimas: Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo](https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/asr)
+
+### School Holidays
+
+The school holidays are determined centrally by the Ministry of Education, Science and Sport.
+
+Source:
+
++ [Lietuvos Respublikos švietimo, mokslo ir sporto ministerija: Dėl 2021–2022 ir 2022–2023 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrųjų ugdymo planų patvirtinimo](https://www.e-tar.lt/portal/lt/legalAct/f0828f70abe911eb8bc8b1cdd5d7f785/asr)
 
 ## Luxembourg
 
@@ -155,7 +193,7 @@ Sources:
 
 Luxembourg has 11 public holidays that apply throughout the country.
 
-Sources:
+Source:
 
 + [Luxembourg.lu: Gesetzliche Feiertage](https://luxembourg.public.lu/en/living/quality-of-life/jours-feries-legaux.html)
 
@@ -175,7 +213,7 @@ Sources:
 
 The Netherlands has 11 official holidays that apply nationwide.
 
-Sources:
+Source:
 
 + [Rijksoverheid.nl: Wanneer zijn de officiële feestdagen in Nederland?](https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/officiele-feestdagen)
 
@@ -191,13 +229,31 @@ Sources:
 + [Rijksoverheid.nl: Overzicht schoolvakanties 2024-2025](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2024-2025)
 + [Rijksoverheid.nl: Voorlopig overzicht schoolvakanties 2025-2026](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2025-2026)
 
+## Poland
+
+### Public Holidays
+
+Poland has 13 national holidays that are free of work and school
+
+Source:
+
++ [Ustawa z dnia 18 stycznia 1951 r. o dniach wolnych od pracy](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19510040028)
+
+### School Holidays
+
+Poland is divided into 16 provinces (województwo). All provinces have the same school holiday dates, except for the winter holidays. The school holidays are set by the Ministry of Education and Science.
+
+Source:
+
++ [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
+
 ## Switzerland
 
 ### Public Holidays
 
 In Switzerland, public holidays and days treated as public holidays, with the exception of 1 August, are determined by the cantons. New Year's Day, Ascension Day and Christmas Day are the only public holidays that all cantons have designated as public holidays.
 
-Sources:
+Source:
 
 + [Bundesamt für Justiz: Gesetzliche Feiertage und Tage, die in der Schweiz wie gesetzliche Feiertage behandelt werden (PDF)](https://www.bj.admin.ch/dam/bj/de/data/publiservice/service/zivilprozessrecht/kant-feiertage.pdf.download.pdf/kant-feiertage.pdf)
 
@@ -205,6 +261,6 @@ Sources:
 
 The cantons and their municipalities are responsible for determining the school holidays. Coordination is carried out by the [Swiss Conference of Cantonal Ministers of Education (EDK)](https://www.edk.ch/en).
 
-Sources:
+Source:
 
 + [Schweizerische Konferenz der kantonalen Erziehungsdirektoren: Schulferien](https://www.edk.ch/de/bildungssystem/kantonale-schulorganisation/Schulferien)

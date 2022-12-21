@@ -1,5 +1,14 @@
 ## OpenHolidays API Data
 
+### 0.0.6 <small>_ 21. Dezember 2022</small>
+
+- Feiertage/Schulferien für Lettland hinzugefügt
+- Feiertage/Schulferien für Litauen hinzugefügt
+- Feiertage/Schulferien für Polen hinzugefügt
+- Refactoring der offiziellen Ländernamen und Ferientypen
+- Refactoring der französischen Schulferien
+- Fehlerkorrekturen
+
 ### 0.0.5 <small>_ 18. Dezember 2022</small>
 
 - Feiertage/Schulferien für Estland hinzugefügt
@@ -25,6 +34,11 @@
 - Erste Veröffentlichung
 
 ## OpenHolidays API Service
+
+### 0.0.4 <small>_ 21. Dezember 2022</small>
+
+- Breaking change: Refactoring der official country names und der holiday type
+- Fehlerkorrekturen 
 
 ### 0.0.3 <small>_ 01. Dezember 2022</small>
 

@@ -4,9 +4,12 @@
 + Deutschland (Feiertage und Schulferien ab 2020)
 + Estland (Feiertage und Schulferien ab 2020)
 + Frankreich (Feiertage und Schulferien ab 2020)
++ Lettland (Feiertage und Schulferien ab 2020)
 + Liechtenstein (Feiertage und Schulferien ab 2020)
++ Litauen (Feiertage und Schulferien ab 2020)
 + Luxemburg (Feiertage und Schulferien ab 2020)
 + Niederlande (Feiertage und Schulferien ab 2020)
++ Polen (Feiertage und Schulferien ab 2020)
 + Schweiz (Feiertage und Schulferien ab 2020)
 + Österreich (Feiertage und Schulferien ab 2020)
 

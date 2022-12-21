@@ -83,7 +83,7 @@ Quelle:
 
 ### Schulferien
 
-Die Schulferien werden zental vom Ministerium für Bildung und Forschung festgelegt.
+Die Schulferien werden zentral vom Ministerium für Bildung und Forschung festgelegt.
 
 Quelle:
 
@@ -114,13 +114,33 @@ Quellen:
 + [Calendrier scolaire 2024-2025](https://www.education.gouv.fr/media/119767/download)
 + [Calendrier scolaire 2025-2026](https://www.education.gouv.fr/media/119770/download)
 
+## Lettland
+
+### Feiertage
+
+Lettland hat 15 nationale Feiertage, die arbeits- und schulfrei sind.
+
+Quelle:
+
++ [Likumi.lv: Par svētku, atceres un atzīmējamām dienām](https://likumi.lv/ta/en/en/id/72608)
+
+### Schulferien
+
+Die Schulferien werden zentral vom Ministerium für Bildung und Wissenschaft festgelegt.
+
+Quellen:
+
++ [Izglītības un zinātnes ministrija: Apstiprināti noteikumi par 2020./2021. mācību gada garumu, mācību semestriem un brīvlaikiem](https://www.mk.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20202021-macibu-gada-garumu-macibu-semestriem-un-brivlaikiem)
++ [Izglītības un zinātnes ministrija: Apstiprināti noteikumi par 2021./2022. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20212022-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
++ [Izglītības un zinātnes ministrija: Apstiprināti noteikumi par 2022./2023. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20222023-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
+
 ## Liechtenstein
 
 ### Feiertage
 
 Liechtenstein hat 15 Feiertage, die landesweit als arbeitsfrei gelten.
 
-Quellen:
+Quelle:
 
 + [Rechtsdienst der Regierung: Verordnung betreffend die Sonn- und Feiertagsruhe und den Ladenschluss](https://www.gesetze.li/chrono/1973.033)
 
@@ -128,9 +148,27 @@ Quellen:
 
 Der Schuljahresbeginn und die Verteilung der Ferien auf das Schuljahr werden jeweils im Ferienkalender des [Liechtensteiner Schulamts](http://www.sa.llv.li) publiziert. Er orientiert sich dabei an den Schweizer Ferienterminen.
 
-Quellen:
+Quelle:
 
 + [Schulamt Fürstentum Liechtenstein: Ferienkalendar (PDF)](https://www.llv.li/files/sa/schulferienkalender-2021-24_web.pdf)
+
+## Litauen
+
+### Feiertage
+
+Litauen hat 14 nationale Feiertage, die arbeits- und schulfrei sind.
+
+Quelle:
+
++ [Lietuvos Respublikos Seimas: Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo](https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/asr)
+
+### Schulferien
+
+Die Schulferien werden zentral vom Ministerium für Bildung, Wissenschaft und Sport festgelegt.
+
+Quelle:
+
++ [Lietuvos Respublikos švietimo, mokslo ir sporto ministerija: Dėl 2021–2022 ir 2022–2023 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrųjų ugdymo planų patvirtinimo](https://www.e-tar.lt/portal/lt/legalAct/f0828f70abe911eb8bc8b1cdd5d7f785/asr)
 
 ## Luxemburg
 
@@ -173,6 +211,24 @@ Quellen:
 + [Rijksoverheid.nl: Overzicht schoolvakanties 2023-2024](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2023-2024)
 + [Rijksoverheid.nl: Overzicht schoolvakanties 2024-2025](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2024-2025)
 + [Rijksoverheid.nl: Voorlopig overzicht schoolvakanties 2025-2026](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2025-2026)
+
+## Polen
+
+### Feiertage
+
+Polen hat 13 nationale Feiertage, die arbeits- und schulfrei sind.
+
+Quelle:
+
++ [Ustawa z dnia 18 stycznia 1951 r. o dniach wolnych od pracy](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19510040028)
+
+### Schulferien
+
+Polen ist in 16 Provinzen (województwo) unterteilt. Alle Provinzen haben die gleichen Schulferientermine, mit Ausnahme der Winterferien. Die Schulferien werden vom Ministerium für Bildung und Wissenschaft festgelegt.
+
+Quelle:
+
++ [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
 
 ## Schweiz
 
