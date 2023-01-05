@@ -38,6 +38,24 @@ Sources:
 + [Flemish Community | Schoolvakanties](https://onderwijs.vlaanderen.be/nl/schoolvakanties)
 + [German-speaking Community | Schulkalender und Ferienregelung](https://ostbelgienbildung.be/desktopdefault.aspx/tabid-2212/)
 
+## Czechia
+
+### Public Holidays
+
+The Czech Republic has 13 public holidays (New Year's Day and the Day of the Restoration of the Independent Czech State both fall on 1 January each year), which are considered non-working days in all regions (kraje).
+
+Source:
+
++ [Svátky v České republice](https://www.mpsv.cz/web/cz/svatky-v-ceske-republice)
+
+### School Holidays
+
+The autumn holidays, Christmas holidays, semester holidays, Easter holidays and summer holidays are the same for all regions (kraje). Only the spring holidays differ regionally. For this purpose, all Czech districts (okresy) are divided into six groups, which are staggered sequentially in a different time each year.
+
+Source:
+
++ [Ministerstvo školství, mládeže a tělovýchovy | Organizace školního roku](https://www.msmt.cz/vzdelavani/organizace-skolniho-roku-prazdniny)
+
 ## Estonia
 
 ### Public Holidays
@@ -246,6 +264,24 @@ Poland is divided into 16 provinces (województwo). All provinces have the same 
 Source:
 
 + [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
+
+## Slovakia
+
+### Public Holidays
+
+Slovakia has 15 public holidays, which are considered non-working days in all regions (kraje).
+
+Source:
+
++ [Úrad vlády Slovenskej republiky: Štátne sviatky](https://www.vlada.gov.sk/statne-sviatky/)
+
+### School Holidays
+
+The autumn holidays, Christmas holidays, Easter holidays and summer holidays are the same for all regions (kraje). Only the spring holidays differ regionally. For this purpose, all Slovak regions (kraje) are divided into three groups, which are staggered sequentially in a different time each year.
+
+Source:
+
++ [Ministerstvo školstva, vedy, výskumu a športu: Sprievodca školským rokom](https://www.minedu.sk/sprievodca-skolskym-rokom)
 
 ## Switzerland
 

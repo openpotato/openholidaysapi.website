@@ -1,5 +1,11 @@
 ## OpenHolidays API Data
 
+### 0.0.7 <small>_ 05. Januar 2023</small>
+
+- Feiertage/Schulferien für Tschechien hinzugefügt
+- Feiertage/Schulferien für Slowakei hinzugefügt
+- Refactoring von Ländern, Sprachen, Verwaltungseinheiten und organisatorischen Einheiten
+
 ### 0.0.6 <small>_ 21. Dezember 2022</small>
 
 - Feiertage/Schulferien für Lettland hinzugefügt
@@ -34,6 +40,12 @@
 - Erste Veröffentlichung
 
 ## OpenHolidays API Service
+
+### 0.0.5 <small>_ 05. Januar 2023</small>
+
+- Breaking change: `Categories` und `Parent` für Verwaltungseinheiten hinzugefügt
+- Breaking change: `OfficalNames` von Ländern entfernt
+- Fehlerkorrekturen und Refactoring
 
 ### 0.0.4 <small>_ 21. Dezember 2022</small>
 

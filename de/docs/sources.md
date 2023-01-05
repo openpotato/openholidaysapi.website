@@ -14,7 +14,6 @@ Quelle:
 
 Belgien ist in drei Sprachgebiete unterteilt, der Flämischen, der Französischen und der Deutschsprachigen Gemeinschaft. Jede Gemeinschaft kann eigenständig die Ferientermine für Schulen festlegen.
 
-
 Quellen:
 
 + [French Community | Calendrier Scolaire](http://www.enseignement.be/calendrierscolaire)
@@ -95,7 +94,7 @@ Quelle:
 
 Frankreich hat 11 offizielle Feiertage, die landesweit gelten.
 
-Quellen:
+Quelle:
 
 + [Service-Public.fr: Jours fériés dans la fonction publique](https://www.service-public.fr/particuliers/vosdroits/F24496)
 
@@ -176,7 +175,7 @@ Quelle:
 
 Luxemburg hat 11 gesetzlliche Feiertage, die landesweit gelten.
 
-Quellen:
+Quelle:
 
 + [Luxembourg.lu: Gesetzliche Feiertage](https://luxembourg.public.lu/en/living/quality-of-life/jours-feries-legaux.html)
 
@@ -196,7 +195,7 @@ Quellen:
 
 Die Niederlande hat 11 offizielle Feiertage, die landesweit gelten.
 
-Quellen:
+Quelle:
 
 + [Rijksoverheid.nl: Wanneer zijn de officiële feestdagen in Nederland?](https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/officiele-feestdagen)
 
@@ -244,9 +243,45 @@ Quellen:
 
 Für die Festlegung der Schulferien sind die Kantone und ihre Gemeinden zuständig. Die Koordination erfolgt durch die [Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK)](https://www.edk.ch/de).
 
-Quellen:
+Quelle:
 
 + [Schweizerische Konferenz der kantonalen Erziehungsdirektoren: Schulferien](https://www.edk.ch/de/bildungssystem/kantonale-schulorganisation/Schulferien)
+
+## Slowakei
+
+### Feiertage
+
+Die Slowakei hat 15 Feiertage, die in allen Regionen (kraje) als arbeitsfrei gelten.
+
+Quelle:
+
++ [Úrad vlády Slovenskej republiky: Štátne sviatky](https://www.vlada.gov.sk/statne-sviatky/)
+
+### Schulferien
+
+Die Herbstferien, Weihnachtsferien, Osterferien und Sommerferien sind für alle Regionen (kraje) gleich. Lediglich die Frühjahrsferien unterscheiden sich regional. Dafür werden alle slowakischen Regionen (kraje) in drei Gruppen eingeteilt, die jedes Jahr anders zeitlich sequentiell hintereinander gestaffelt werden.
+
+Quelle:
+
++ [Ministerstvo školstva, vedy, výskumu a športu: Sprievodca školským rokom](https://www.minedu.sk/sprievodca-skolskym-rokom)
+
+## Tschechien
+
+### Feiertage
+
+Tschechien hat 13 Feiertage (Neujahr und der Tag der Wiederherstellung des unabhängigen tschechischen Staates fallen beide auf den 1. Januar eines jeden Jahres), die in allen Regionen (kraje) als arbeitsfrei gelten.
+
+Quelle:
+
++ [Svátky v České republice](https://www.mpsv.cz/web/cz/svatky-v-ceske-republice)
+
+### Schulferien
+
+Die Herbstferien, Weihnachtsferien, Semesterferien, Osterferien und Sommerferien sind für alle Regionen (kraje) gleich. Lediglich die Frühjahrsferien unterscheiden sich regional. Dafür werden alle tschechischen Bezirke (okresy) in sechs Gruppen eingeteilt, die jedes Jahr anders zeitlich sequentiell hintereinander gestaffelt werden.
+
+Quelle:
+
++ [Ministerstvo školství, mládeže a tělovýchovy | Organizace školního roku](https://www.msmt.cz/vzdelavani/organizace-skolniho-roku-prazdniny)
 
 ## Österreich
 
@@ -254,7 +289,7 @@ Quellen:
 
 Österreich hat 13 Feiertage, die in allen Bundesländern als arbeitsfrei gelten.
 
-Quellen:
+Quelle:
 
 + [Bundesministerium für Digitalisierung und Wirtschaftsstandort: Feiertagsruhegesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008168)
 
@@ -262,7 +297,7 @@ Quellen:
 
 Die Herbstferien, Weihnachtsferien, Osterferien und Pfingstferien sind für alle Bundesländer gleich. Lediglich die Semesterferien und Sommerferien unterscheiden sich je nach Bundesland.
 
-Quellen:
+Quelle:
 
 + [Bundesministerium für Bildung, Wissenschaft und Forschung: Ferien](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine.html)
 

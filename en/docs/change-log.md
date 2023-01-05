@@ -1,5 +1,11 @@
 ## OpenHolidays API Data
 
+### 0.0.7 <small>_ January 05, 2023</small>
+
+- Added holidays for Czechia
+- Added holidays for Slovakia
+- Refactoring of countries, languages, administrative units (subdivisions) and organisational units
+
 ### 0.0.6 <small>_ December 21, 2022</small>
 
 - Added holidays for Latvia
@@ -35,10 +41,16 @@
 
 ## OpenHolidays API Service
 
+### 0.0.5 <small>_ January 05, 2023</small>
+
+- Breaking change: Added `Categories` and `Parent` to administrative units (subdivisions)
+- Breaking change: Removed `OfficalNames` from countries
+- Bug fixes and refactoring
+
 ### 0.0.4 <small>_ December 21, 2022</small>
 
 - Breaking change: Refactoring for official country names and holiday type
-- Bug fixes
+- Bug fixes and refactoring
 
 ### 0.0.3 <small>_ December 01, 2022</small>
 
