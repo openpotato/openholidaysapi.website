@@ -38,6 +38,42 @@ Sources:
 + [Flemish Community | Schoolvakanties](https://onderwijs.vlaanderen.be/nl/schoolvakanties)
 + [German-speaking Community | Schulkalender und Ferienregelung](https://ostbelgienbildung.be/desktopdefault.aspx/tabid-2212/)
 
+## Bulgaria
+
+### Public Holidays
+
+Bulgaria has 15 national holidays that are free of work and school.
+
+Source:
+
++ [Народно събрание на Република България: Български официални празници](https://www.parliament.bg/bg/24)
+
+### School Holidays
+
+The school holidays are set centrally by the Ministry of Education and Science. The spring holidays and the summer holidays differ depending on the grade level.
+
+Source:
+
++ [Министерство на образованието и науката | Ваканции 2022/2023](https://www.mon.bg/bg/56)
+
+## Croatia
+
+### Public Holidays
+
+Croatia has 13 national holidays that are free of work and school.
+
+Source:
+
++ [Zakon o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj](https://narodne-novine.nn.hr/eli/sluzbeni/2019/110/2212)
+
+### School Holidays
+
+School holidays are determined centrally by the Ministry of Science and Education. 
+
+Source:
+
++ [Ministarstvo znanosti i obrazovanja | 2022/2023](https://narodne-novine.nn.hr/eli/sluzbeni/2022/54/715)
+
 ## Czechia
 
 ### Public Holidays
@@ -148,6 +184,46 @@ Sources:
 + [Sachsen | Staatsministerium für Kultus: Schuljahrestermine](https://www.schule.sachsen.de/schuljahrestermine-4793.html)
 + [Sachsen-Anhalt | Ministerium für Bildung: Ferienordnung (PDF)](https://mb.sachsen-anhalt.de/fileadmin/Bibliothek/Landesjournal/Bildung_und_Wissenschaft/Erlasse/Ferienordnung_bis_2024.pdf)
 + [Thüringen | Ministerium für Bildung, Jugend und Sport: Ferienregelung](https://bildung.thueringen.de/schule/schulwesen/ferien)
+
+## Hungary
+
+### Public Holidays
+
+Hungary has 11 national holidays that are free of work and school.
+
+Source:
+
++ [2012. évi I. törvény a munka törvénykönyvéről | 102. § (1) Munkaszüneti nap](https://net.jogtar.hu/jogszabaly?docid=A1200001.TV#lbj60id951d)
+
+### School Holidays
+
+School holidays are determined centrally by government regulations. 
+
+Sources:
+
++ [368/2022. (IX. 29.) Korm. rendelet a 2022/2023. tanév rendjére alkalmazandó veszélyhelyzeti szabályokról](https://net.jogtar.hu/jogszabaly?docid=A2200368.KOR#)
++ [22/2022. (VII. 29.) BM rendelet a 2022/2023. tanév rendjéről](https://net.jogtar.hu/jogszabaly?docid=a2200022.bm)
+
+## Ireland
+
+### Public Holidays
+
+There are 10 public holidays in Ireland that are considered non-working days. Since 2023, there is a public holiday on the first Monday in February, except where 1st February falls on a Friday in which case that Friday 1st February will be the public holiday.
+
+Sources:
+
++ [Workplace Relations Commission | Public Holidays](https://www.workplacerelations.ie/en/what_you_should_know/public-holidays/)
++ [Organisation of Working Time Act, 1997](https://www.irishstatutebook.ie/eli/1997/act/20/schedule/2/enacted/en/html#sched2)
++ [Government agrees Covid Recognition Payment and New Public Holiday](https://www.gov.ie/en/press-release/b926b-government-agrees-covid-recognition-payment-and-new-public-holiday/)
+
+### School Holidays
+
+The school holidays, with the exception of the summer holidays, are set by the Ministry of Education. The summer holidays can be set independently by each school. Schools will normally reopen during the week in which 1 September falls.
+
+Sources:
+
++ [Department of Education | School holiday dates](https://www.gov.ie/en/service/388196-school-holiday-dates/)
++ [An Roinn Oideachais | Laethanta saoire scoile dátaí](https://www.gov.ie/ga/seirbhis/dae1c6-none/)
 
 ## Latvia
 

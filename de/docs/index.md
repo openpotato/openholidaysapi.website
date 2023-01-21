@@ -1,9 +1,12 @@
 **OpenHolidays API** ist ein kleines [Open Data-Projekt](https://opendatahandbook.org/guide/de/what-is-open-data/), das öffentliche Daten zu gesetzlichen Feiertagen und Schulferien sammelt und über eine offene REST-API-Schnittstelle verfügbar macht. Unterstützt werden derzeit folgende Länder:
 
 + Belgien (Feiertage und Schulferien ab 2020)
++ Bulgarien (Feiertage und Schulferien ab 2020)
 + Deutschland (Feiertage und Schulferien ab 2020)
 + Estland (Feiertage und Schulferien ab 2020)
 + Frankreich (Feiertage und Schulferien ab 2020)
++ Irland (Feiertage und Schulferien ab 2020)
++ Kroatien (Feiertage und Schulferien ab 2020)
 + Lettland (Feiertage und Schulferien ab 2020)
 + Liechtenstein (Feiertage und Schulferien ab 2020)
 + Litauen (Feiertage und Schulferien ab 2020)
@@ -13,6 +16,7 @@
 + Schweiz (Feiertage und Schulferien ab 2020)
 + Slowakei (Feiertage und Schulferien ab 2020)
 + Tschechien (Feiertage und Schulferien ab 2020)
++ Ungarn (Feiertage und Schulferien ab 2020)
 + Österreich (Feiertage und Schulferien ab 2020)
 
 Feiertage und Ferientermine werden wahlweise als [JSON](https://datatracker.ietf.org/doc/html/rfc7159) oder im [iCal-Format](https://datatracker.ietf.org/doc/html/rfc5545) zurückgeliefert.
@@ -41,47 +45,9 @@ Zunächst fragen wir ab, welche Länder von der OpenHolidays API unterstützt we
 
 Die Codes der Länder entsprechen dem Standard [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html).
 
-### Verwaltungseinheiten 
-
-Pro Land können die relevanten subnationale Verwaltungseinheiten (z.B. Bundesländer oder Schweizer Kantone) abgefragt werden. Es werden nur dann Verwaltungseinheiten zurückgeliefert, wenn sie relevant für die Filterung von Feiertagen und/oder Schulferien sind.
-
-Hier eine Beispielabfrage für Deutschland (DE): 
-
-=== "Powershell 7"
-
-    ``` powershell
-    curl -X GET 'https://openholidaysapi.org/Subdivisions?countryIsoCode=DE' -H 'accept: text/json' | ConvertFrom-Json | ConvertTo-Json
-    ```
-
-=== "Bash"
-
-    ``` bash
-    curl -X GET 'https://openholidaysapi.org/Subdivisions?countryIsoCode=DE' -H 'accept: text/json' | json_pp
-    ```
-
-Die Codes der Verwaltungseinheiten entsprechen dem Standard [ISO 3166-2](https://www.iso.org/iso-3166-country-codes.html).
-
-### Organisatorische Einheiten 
-
-Pro Land können relevante organisatorische Einheiten (z.B. Ferienzonen oder Schultypen) abgefragt werden. 
-
-Hier eine Beispielabfrage für Deutschland (DE): 
-
-=== "Powershell 7"
-
-    ``` powershell
-    curl -X GET 'https://openholidaysapi.org/OUnits?countryIsoCode=DE' -H 'accept: text/json' | ConvertFrom-Json | ConvertTo-Json
-    ```
-
-=== "Bash"
-
-    ``` bash
-    curl -X GET 'https://openholidaysapi.org/OUnits?countryIsoCode=DE' -H 'accept: text/json' | json_pp
-    ```
-
 ### Sprachen
 
-Die Namen der Feiertage bzw. Schulferien sind mehrsprachig gespeichert. In der Regel gibt es die Übersetzungen in den jeweiligen Amtssprachen eines Landes (z.B. Deutsch für Deutschland) sowie eine Übersetzung ins Deutsche und Englische. 
+Die Namen der Feiertage bzw. Schulferien sind mehrsprachig gespeichert. In der Regel gibt es die Übersetzungen in den jeweiligen Amtssprachen eines Landes (z.B. polnisch für Polen) sowie eine Übersetzung ins Deutsche und Englische. 
 
 Die von OpenHolidays API derzeit genutzten Sprachen lassen sich wie folgt abfragen: 
 
@@ -98,6 +64,26 @@ Die von OpenHolidays API derzeit genutzten Sprachen lassen sich wie folgt abfrag
     ```
 
 Die Codes der Sprachen entsprechen dem Standard [ISO 639-1](https://www.iso.org/iso-639-language-codes.html).
+
+### Verwaltungseinheiten 
+
+Pro Land können die relevanten subnationale Verwaltungseinheiten (z.B. Bundesländer, Schweizer Kantone oder Ferienzonen) abgefragt werden. Es werden nur dann Verwaltungseinheiten zurückgeliefert, wenn sie relevant für die Filterung von Feiertagen und/oder Schulferien sind.
+
+Hier eine Beispielabfrage für Deutschland (DE): 
+
+=== "Powershell 7"
+
+    ``` powershell
+    curl -X GET 'https://openholidaysapi.org/Subdivisions?countryIsoCode=DE' -H 'accept: text/json' | ConvertFrom-Json | ConvertTo-Json
+    ```
+
+=== "Bash"
+
+    ``` bash
+    curl -X GET 'https://openholidaysapi.org/Subdivisions?countryIsoCode=DE' -H 'accept: text/json' | json_pp
+    ```
+
+Die Codes der Verwaltungseinheiten orientieren sich an dem Standard [ISO 3166-2](https://www.iso.org/iso-3166-country-codes.html) sowie an der Kodierliste [Hierarchical administrative subdivision codes (HASC)](http://www.statoids.com/ihasc.html).
 
 ### Feiertage
 

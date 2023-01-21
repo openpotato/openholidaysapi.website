@@ -2,10 +2,14 @@
 
 + Austria (public holidays and school holidays from 2020)
 + Belgium (public holidays and school holidays from 2020)
++ Bulgaria (public holidays and school holidays from 2020)
++ Croatia (public holidays and school holidays from 2020)
 + Czechia (public holidays and school holidays from 2020)
 + Estonia (public holidays and school holidays from 2020)
 + France (public holidays and school holidays from 2020)
 + Germany (public holidays and school holidays from 2020)
++ Hungaria (public holidays and school holidays from 2020)
++ Ireland (public holidays and school holidays from 2020)
 + Latvia (public holidays and school holidays from 2020)
 + Liechtenstein (public holidays and school holidays from 2020)
 + Lithuania (public holidays and school holidays from 2020)
@@ -41,47 +45,9 @@ First, we query which countries are supported by the OpenHolidays API:
 
 The codes of the countries correspond to the standard [ISO 3166-1](https://www.iso.org/iso-3166-country-codes.html).
 
-### Subdivisions
-
-For each country, the relevant principal subdivisions (e.g. federal states or Swiss cantons) can be queried. Administrative units are only returned if they are relevant for the filtering of public holidays and/or school holidays.
-
-Here is an example query for Germany (DE): 
-
-=== "Powershell 7"
-
-    ``` powershell
-    curl -X GET 'https://openholidaysapi.org/Subdivisions?countryIsoCode=DE' -H 'accept: text/json' | ConvertFrom-Json | ConvertTo-Json
-    ```
-
-=== "Bash"
-
-    ``` bash
-    curl -X GET 'https://openholidaysapi.org/Subdivisions?countryIsoCode=DE' -H 'accept: text/json' | json_pp
-    ```
-
-The codes of the subdivisions correspond to the standard [ISO 3166-2](https://www.iso.org/iso-3166-country-codes.html).
-
-### Organisational units
-
-Relevant organisational units (e.g. holiday zones or school types) can be queried per country. 
-
-Here is an example query for Germany (DE): 
-
-=== "Powershell 7"
-
-    ``` powershell
-    curl -X GET 'https://openholidaysapi.org/OUnits?countryIsoCode=DE' -H 'accept: text/json' | ConvertFrom-Json | ConvertTo-Json
-    ```
-
-=== "Bash"
-
-    ``` bash
-    curl -X GET 'https://openholidaysapi.org/OUnits?countryIsoCode=DE' -H 'accept: text/json' | json_pp
-    ```
-
 ### Languages
 
-The names of public holidays or school holidays are stored in several languages. Usually there are translations in the respective official languages of a country (e.g. German for Germany) as well as a translation into German and English. 
+The names of public holidays or school holidays are stored in several languages. Usually there are translations in the respective official languages of a country (e.g. Polish for Poland) as well as a translation into German and English. 
 
 The languages currently used by OpenHolidays API can be queried as follows: 
 
@@ -98,6 +64,26 @@ The languages currently used by OpenHolidays API can be queried as follows:
     ```
 
 The codes of the languages correspond to the standard [ISO 639-1](https://www.iso.org/iso-639-language-codes.html).
+
+### Subdivisions
+
+For each country, the relevant principal subdivisions (e.g. federal states, Swiss cantons or holiday zones) can be queried. Administrative units are only returned if they are relevant for the filtering of public holidays and/or school holidays.
+
+Here is an example query for Germany (DE): 
+
+=== "Powershell 7"
+
+    ``` powershell
+    curl -X GET 'https://openholidaysapi.org/Subdivisions?countryIsoCode=DE' -H 'accept: text/json' | ConvertFrom-Json | ConvertTo-Json
+    ```
+
+=== "Bash"
+
+    ``` bash
+    curl -X GET 'https://openholidaysapi.org/Subdivisions?countryIsoCode=DE' -H 'accept: text/json' | json_pp
+    ```
+
+The codes of the subdivisions are based on the standard [ISO 3166-2](https://www.iso.org/iso-3166-country-codes.html) as well as the coding list [Hierarchical administrative subdivision codes (HASC)](http://www.statoids.com/ihasc.html).
 
 ### Public holidays
 

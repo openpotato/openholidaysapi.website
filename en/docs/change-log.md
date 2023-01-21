@@ -1,5 +1,13 @@
 ## OpenHolidays API Data
 
+### 0.0.8 <small>_ January 21, 2023</small>
+
+- Added holidays for Bulgaria
+- Added holidays for Croatia
+- Added holidays for Hungary
+- Added holidays for Ireland
+- Large refactoring of the csv structure
+
 ### 0.0.7 <small>_ January 05, 2023</small>
 
 - Added holidays for Czechia
@@ -17,8 +25,8 @@
 
 ### 0.0.5 <small>_ December 18, 2022</small>
 
-- Added holidays for Estonia
 - Added holidays for Belgium
+- Added holidays for Estonia
 - Added school holidays 2023/2024, 2024/2025 and 2025/2026 for France
 - Bug fixes
 
@@ -40,6 +48,14 @@
 - First publication
 
 ## OpenHolidays API Service
+
+### 0.0.6 <small>_ January 21, 2023</small>
+
+- Breaking API change: `Categories`, `Names` and `Comments` renamed to `Category`, `Name` and `Comment` 
+- Breaking API change: Removed entity `OUnit`. 
+- Breaking API change: Removed enum type `HolidayDetails`.
+- Added CORS support
+- Bug fixes and refactoring
 
 ### 0.0.5 <small>_ January 05, 2023</small>
 

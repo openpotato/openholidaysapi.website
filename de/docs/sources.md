@@ -20,6 +20,24 @@ Quellen:
 + [Flemish Community | Schoolvakanties](https://onderwijs.vlaanderen.be/nl/schoolvakanties)
 + [German-speaking Community | Schulkalender und Ferienregelung](https://ostbelgienbildung.be/desktopdefault.aspx/tabid-2212/)
 
+## Bulgarien
+
+### Feiertage
+
+Bulgarien hat 15 nationale Feiertage, die arbeits- und schulfrei sind.
+
+Quelle:
+
++ [Народно събрание на Република България: Български официални празници](https://www.parliament.bg/bg/24)
+
+### Schulferien
+
+Die Schulferien werden zentral vom Ministerium für Bildung und Wissenschaft festgelegt. Die Frühlingsferien und die Sommerferien unterscheiden sich je nach Klassenstufe.
+
+Quelle:
+
++ [Министерство на образованието и науката | Ваканции 2022/2023](https://www.mon.bg/bg/56)
+
 ## Deutschland
 
 ### Feiertage
@@ -112,6 +130,45 @@ Quellen:
 + [Calendrier scolaire 2023-2024](https://www.education.gouv.fr/media/119692/download)
 + [Calendrier scolaire 2024-2025](https://www.education.gouv.fr/media/119767/download)
 + [Calendrier scolaire 2025-2026](https://www.education.gouv.fr/media/119770/download)
+
+## Irland
+
+### Feiertage
+
+Irland hat 10 gesetzliche Feiertage, die als arbeitsfrei gelten. Seit 2023 ist der erste Montag im Februar ein Feiertag, es sei denn, der 1. Februar fällt auf einen Freitag. In diesem Fall ist dieser Freitag, der 1. Februar, der Feiertag.
+
+Quellen:
+
++ [Workplace Relations Commission | Public Holidays](https://www.workplacerelations.ie/en/what_you_should_know/public-holidays/)
++ [Organisation of Working Time Act, 1997](https://www.irishstatutebook.ie/eli/1997/act/20/schedule/2/enacted/en/html#sched2)
++ [Government agrees Covid Recognition Payment and New Public Holiday](https://www.gov.ie/en/press-release/b926b-government-agrees-covid-recognition-payment-and-new-public-holiday/)
+
+### Schulferien
+
+Die Schulferien werden mit Ausnahme der Sommerferien durch das Bildungsministerium festgelegt. Die Sommerferien können von jeder Schule eigenständig festgelegt werden. Die Schulen werden in der Regel in der Woche, in die der 1. September fällt, wieder geöffnet.
+
+Quellen:
+
++ [Department of Education | School holiday dates](https://www.gov.ie/en/service/388196-school-holiday-dates/)
++ [An Roinn Oideachais | Laethanta saoire scoile dátaí](https://www.gov.ie/ga/seirbhis/dae1c6-none/)
+
+## Kroatien
+
+### Feiertage
+
+Kroatien hat 13 nationale Feiertage, die arbeits- und schulfrei sind.
+
+Quelle:
+
++ [Zakon o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj](https://narodne-novine.nn.hr/eli/sluzbeni/2019/110/2212)
+
+### Schulferien
+
+Die Schulferien werden zentral vom Ministerium für Wissenschaft und Bildung festgelegt. 
+
+Quelle:
+
++ [Ministarstvo znanosti i obrazovanja | 2022/2023](https://narodne-novine.nn.hr/eli/sluzbeni/2022/54/715)
 
 ## Lettland
 
@@ -282,6 +339,25 @@ Die Herbstferien, Weihnachtsferien, Semesterferien, Osterferien und Sommerferien
 Quelle:
 
 + [Ministerstvo školství, mládeže a tělovýchovy | Organizace školního roku](https://www.msmt.cz/vzdelavani/organizace-skolniho-roku-prazdniny)
+
+## Ungarn
+
+### Feiertage
+
+Ungarn hat 11 nationale Feiertage, die arbeits- und schulfrei sind.
+
+Quelle:
+
++ [2012. évi I. törvény a munka törvénykönyvéről | 102. § (1) Munkaszüneti nap](https://net.jogtar.hu/jogszabaly?docid=A1200001.TV#lbj60id951d)
+
+### Schulferien
+
+Die Schulferien werden zentral durch Regierungsverordnungen festgelegt. 
+
+Quellen:
+
++ [368/2022. (IX. 29.) Korm. rendelet a 2022/2023. tanév rendjére alkalmazandó veszélyhelyzeti szabályokról](https://net.jogtar.hu/jogszabaly?docid=A2200368.KOR#)
++ [22/2022. (VII. 29.) BM rendelet a 2022/2023. tanév rendjéről](https://net.jogtar.hu/jogszabaly?docid=a2200022.bm)
 
 ## Österreich
 
