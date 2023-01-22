@@ -8,7 +8,7 @@
 + Estonia (public holidays and school holidays from 2020)
 + France (public holidays and school holidays from 2020)
 + Germany (public holidays and school holidays from 2020)
-+ Hungaria (public holidays and school holidays from 2020)
++ Hungary (public holidays and school holidays from 2020)
 + Ireland (public holidays and school holidays from 2020)
 + Latvia (public holidays and school holidays from 2020)
 + Liechtenstein (public holidays and school holidays from 2020)

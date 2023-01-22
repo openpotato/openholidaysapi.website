@@ -6,7 +6,7 @@ site_url: 'https://www.openholidaysapi.org/'
 
 # Copyright
 copyright:
-  '&copy; 2022 STÜBER SYSTEMS GmbH : <a href="https://www.stueber.co.uk/imprint.php">Imprint</a> : <a href="https://legal.stueber.co.uk/privacy.php">Privacy</a>'
+  '&copy; 2023 STÜBER SYSTEMS GmbH : <a href="https://legal.stueber.co.uk/imprint.php">Imprint</a> : <a href="https://legal.stueber.co.uk/privacy.php">Privacy</a>'
 
 # Repository
 repo_name: 'On GitHub'
@@ -65,6 +65,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
+  - toc:
+      permalink: true
 
 # Navigation
 nav:
