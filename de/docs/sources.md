@@ -2,7 +2,7 @@ Die Datengrundlage für **OpenHolidays API** basiert komplett auf öffentlichen 
 
 ## Belgien
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Belgien hat 12 nationale Feiertage, die arbeits- und schulfrei sind.
 
@@ -10,7 +10,7 @@ Quelle:
 
 + [Jours fériés nationaux en Belgique](https://www.belgium.be/fr/la_belgique/connaitre_le_pays/la_belgique_en_bref/jours_feries)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Belgien ist in drei Sprachgebiete unterteilt, der Flämischen, der Französischen und der Deutschsprachigen Gemeinschaft. Jede Gemeinschaft kann eigenständig die Ferientermine für Schulen festlegen.
 
@@ -22,7 +22,7 @@ Quellen:
 
 ## Bulgarien
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Bulgarien hat 15 nationale Feiertage, die arbeits- und schulfrei sind.
 
@@ -30,7 +30,7 @@ Quelle:
 
 + [Народно събрание на Република България: Български официални празници](https://www.parliament.bg/bg/24)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Die Schulferien werden zentral vom Ministerium für Bildung und Wissenschaft festgelegt. Die Frühlingsferien und die Sommerferien unterscheiden sich je nach Klassenstufe.
 
@@ -40,7 +40,7 @@ Quelle:
 
 ## Deutschland
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Der einzige bundesrechtlich festgelegte Feiertag ist der Tag der Deutschen Einheit am 3. Oktober. Alle anderen Feiertage legen die 16 Bundesländer fest. Es gibt acht Feiertage, die in allen Bundesländern gelten, sowie weitere Feiertage, die jeweils nur in bestimmten Bundesländern gelten.
 
@@ -64,7 +64,7 @@ Quellen:
 + [Sachsen-Anhalt | Gesetz über die Sonn- und Feiertage (FeiertG LSA)](https://www.landesrecht.sachsen-anhalt.de/bsst/document/jlr-FeiertGSTpP2)
 + [Thüringen | Thüringer Feier- und Gedenktagsgesetz (ThürFGtG)](https://landesrecht.thueringen.de/bsth/document/jlr-FeiertGTHV5P2)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Die Sommerferien der Bundesländer werden in einem mehrjährigen Rhythmus von einer Länderarbeitsgruppe abgestimmt und von der [Kultusministerkonferenz](https://www.kmk.org/) beschlossen. Die übrigen Ferientermine werden von den 16 Bundesländern jeweils allein festgelegt.
 
@@ -90,7 +90,7 @@ Quellen:
 
 ## Estland
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Estland hat 12 nationale Feiertage, die arbeits- und schulfrei sind.
 
@@ -98,7 +98,7 @@ Quelle:
 
 + [eesti.ee | National, public and school holidays](https://www.eesti.ee/en/republic-of-estonia/republic-of-estonia/national-public-and-school-holidays)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Die Schulferien werden zentral vom Ministerium für Bildung und Forschung festgelegt.
 
@@ -108,7 +108,7 @@ Quelle:
 
 ## Frankreich
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Frankreich hat 11 offizielle Feiertage, die landesweit gelten.
 
@@ -116,7 +116,7 @@ Quelle:
 
 + [Service-Public.fr: Jours fériés dans la fonction publique](https://www.service-public.fr/particuliers/vosdroits/F24496)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Die Schulferien werden zentral durch das französische Erziehungsministerium festgelegt. Dabei wird Frankreich in drei Ferienzonen A, B und C aufgeteilt, die sich nicht an administrativen Grenzen sondern vielmehr an der Bevölkerungsdichte orientieren.
 
@@ -133,7 +133,7 @@ Quellen:
 
 ## Irland
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Irland hat 10 gesetzliche Feiertage, die als arbeitsfrei gelten. Seit 2023 ist der erste Montag im Februar ein Feiertag, es sei denn, der 1. Februar fällt auf einen Freitag. In diesem Fall ist dieser Freitag, der 1. Februar, der Feiertag.
 
@@ -143,7 +143,7 @@ Quellen:
 + [Organisation of Working Time Act, 1997](https://www.irishstatutebook.ie/eli/1997/act/20/schedule/2/enacted/en/html#sched2)
 + [Government agrees Covid Recognition Payment and New Public Holiday](https://www.gov.ie/en/press-release/b926b-government-agrees-covid-recognition-payment-and-new-public-holiday/)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Die Schulferien werden mit Ausnahme der Sommerferien durch das Bildungsministerium festgelegt. Die Sommerferien können von jeder Schule eigenständig festgelegt werden. Die Schulen werden in der Regel in der Woche, in die der 1. September fällt, wieder geöffnet.
 
@@ -154,7 +154,7 @@ Quellen:
 
 ## Kroatien
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Kroatien hat 13 nationale Feiertage, die arbeits- und schulfrei sind.
 
@@ -162,7 +162,7 @@ Quelle:
 
 + [Zakon o blagdanima, spomendanima i neradnim danima u Republici Hrvatskoj](https://narodne-novine.nn.hr/eli/sluzbeni/2019/110/2212)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Die Schulferien werden zentral vom Ministerium für Wissenschaft und Bildung festgelegt. 
 
@@ -172,7 +172,7 @@ Quelle:
 
 ## Lettland
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Lettland hat 15 nationale Feiertage, die arbeits- und schulfrei sind.
 
@@ -180,7 +180,7 @@ Quelle:
 
 + [Likumi.lv: Par svētku, atceres un atzīmējamām dienām](https://likumi.lv/ta/en/en/id/72608)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Die Schulferien werden zentral vom Ministerium für Bildung und Wissenschaft festgelegt.
 
@@ -192,7 +192,7 @@ Quellen:
 
 ## Liechtenstein
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Liechtenstein hat 15 Feiertage, die landesweit als arbeitsfrei gelten.
 
@@ -200,7 +200,7 @@ Quelle:
 
 + [Rechtsdienst der Regierung: Verordnung betreffend die Sonn- und Feiertagsruhe und den Ladenschluss](https://www.gesetze.li/chrono/1973.033)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Der Schuljahresbeginn und die Verteilung der Ferien auf das Schuljahr werden jeweils im Ferienkalender des [Liechtensteiner Schulamts](http://www.sa.llv.li) publiziert. Er orientiert sich dabei an den Schweizer Ferienterminen.
 
@@ -210,7 +210,7 @@ Quelle:
 
 ## Litauen
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Litauen hat 14 nationale Feiertage, die arbeits- und schulfrei sind.
 
@@ -218,7 +218,7 @@ Quelle:
 
 + [Lietuvos Respublikos Seimas: Lietuvos Respublikos darbo kodekso patvirtinimo, įsigaliojimo ir įgyvendinimo įstatymo](https://www.e-tar.lt/portal/lt/legalAct/f6d686707e7011e6b969d7ae07280e89/asr)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Die Schulferien werden zentral vom Ministerium für Bildung, Wissenschaft und Sport festgelegt.
 
@@ -228,7 +228,7 @@ Quelle:
 
 ## Luxemburg
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Luxemburg hat 11 gesetzlliche Feiertage, die landesweit gelten.
 
@@ -236,7 +236,7 @@ Quelle:
 
 + [Luxembourg.lu: Gesetzliche Feiertage](https://luxembourg.public.lu/en/living/quality-of-life/jours-feries-legaux.html)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Der Schuljahresbeginn und die Verteilung der Ferien auf das Schuljahr werden durch Großherzogliche Verordnungen bestimmt. 
 
@@ -248,7 +248,7 @@ Quellen:
 
 ## Niederlande
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Die Niederlande hat 11 offizielle Feiertage, die landesweit gelten.
 
@@ -256,7 +256,7 @@ Quelle:
 
 + [Rijksoverheid.nl: Wanneer zijn de officiële feestdagen in Nederland?](https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/officiele-feestdagen)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Die Schulferien in den Niederlanden werden auf drei Regionen verteilt. Es sind die Regionen Nord, Mitte und Süd. Die Ferienspreizung soll den Ferienandrang während der Schulferien reduzieren.
 
@@ -270,7 +270,7 @@ Quellen:
 
 ## Polen
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Polen hat 13 nationale Feiertage, die arbeits- und schulfrei sind.
 
@@ -278,7 +278,7 @@ Quelle:
 
 + [Ustawa z dnia 18 stycznia 1951 r. o dniach wolnych od pracy](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19510040028)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Polen ist in 16 Provinzen (województwo) unterteilt. Alle Provinzen haben die gleichen Schulferientermine, mit Ausnahme der Winterferien. Die Schulferien werden vom Ministerium für Bildung und Wissenschaft festgelegt.
 
@@ -288,7 +288,7 @@ Quelle:
 
 ## Schweiz
 
-### Feiertage
+<h3>Feiertage</h3>
 
 In der Schweiz werden die gesetzlichen Feiertage und die Tage, die wie gesetzliche Feiertage behandelt werden, mit Ausnahme des 1. August, durch die Kantone bestimmt. Der Neujahrstag, die Auffahrt und der Weihnachtstag sind die einzigen Feiertage, die alle Kantone als gesetzliche Feiertage bezeichnet haben.
 
@@ -296,7 +296,7 @@ Quellen:
 
 + [Bundesamt für Justiz: Gesetzliche Feiertage und Tage, die in der Schweiz wie gesetzliche Feiertage behandelt werden (PDF)](https://www.bj.admin.ch/dam/bj/de/data/publiservice/service/zivilprozessrecht/kant-feiertage.pdf.download.pdf/kant-feiertage.pdf)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Für die Festlegung der Schulferien sind die Kantone und ihre Gemeinden zuständig. Die Koordination erfolgt durch die [Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK)](https://www.edk.ch/de).
 
@@ -306,7 +306,7 @@ Quelle:
 
 ## Slowakei
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Die Slowakei hat 15 Feiertage, die in allen Regionen (kraje) als arbeitsfrei gelten.
 
@@ -314,7 +314,7 @@ Quelle:
 
 + [Úrad vlády Slovenskej republiky: Štátne sviatky](https://www.vlada.gov.sk/statne-sviatky/)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Die Herbstferien, Weihnachtsferien, Osterferien und Sommerferien sind für alle Regionen (kraje) gleich. Lediglich die Frühjahrsferien unterscheiden sich regional. Dafür werden alle slowakischen Regionen (kraje) in drei Gruppen eingeteilt, die jedes Jahr anders zeitlich sequentiell hintereinander gestaffelt werden.
 
@@ -324,7 +324,7 @@ Quelle:
 
 ## Tschechien
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Tschechien hat 13 Feiertage (Neujahr und der Tag der Wiederherstellung des unabhängigen tschechischen Staates fallen beide auf den 1. Januar eines jeden Jahres), die in allen Regionen (kraje) als arbeitsfrei gelten.
 
@@ -332,7 +332,7 @@ Quelle:
 
 + [Svátky v České republice](https://www.mpsv.cz/web/cz/svatky-v-ceske-republice)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Die Herbstferien, Weihnachtsferien, Semesterferien, Osterferien und Sommerferien sind für alle Regionen (kraje) gleich. Lediglich die Frühjahrsferien unterscheiden sich regional. Dafür werden alle tschechischen Bezirke (okresy) in sechs Gruppen eingeteilt, die jedes Jahr anders zeitlich sequentiell hintereinander gestaffelt werden.
 
@@ -342,7 +342,7 @@ Quelle:
 
 ## Ungarn
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Ungarn hat 11 nationale Feiertage, die arbeits- und schulfrei sind.
 
@@ -350,7 +350,7 @@ Quelle:
 
 + [2012. évi I. törvény a munka törvénykönyvéről | 102. § (1) Munkaszüneti nap](https://net.jogtar.hu/jogszabaly?docid=A1200001.TV#lbj60id951d)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Die Schulferien werden zentral durch Regierungsverordnungen festgelegt. 
 
@@ -361,7 +361,7 @@ Quellen:
 
 ## Österreich
 
-### Feiertage
+<h3>Feiertage</h3>
 
 Österreich hat 13 Feiertage, die in allen Bundesländern als arbeitsfrei gelten.
 
@@ -369,7 +369,7 @@ Quelle:
 
 + [Bundesministerium für Digitalisierung und Wirtschaftsstandort: Feiertagsruhegesetz](https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10008168)
 
-### Schulferien
+<h3>Schulferien</h3>
 
 Die Herbstferien, Weihnachtsferien, Osterferien und Pfingstferien sind für alle Bundesländer gleich. Lediglich die Semesterferien und Sommerferien unterscheiden sich je nach Bundesland.
 
