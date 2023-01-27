@@ -126,13 +126,13 @@ Here is an example query for school holidays in Austria between 1 January 2022 a
 === "Powershell 7"
 
     ``` powershell
-    curl -X GET 'https://openholidaysapi.org/SchoolHolidays?countryIsoCode=AT&subdivisionIsoCode=AT-2&languageIsoCode=EN&validFrom=2022-01-01&validTo=2022-12-31' -H 'accept: text/json' | ConvertFrom-Json | ConvertTo-Json
+    curl -X GET 'https://openholidaysapi.org/SchoolHolidays?countryIsoCode=AT&subdivisionCode=AT-2&languageIsoCode=EN&validFrom=2022-01-01&validTo=2022-12-31' -H 'accept: text/json' | ConvertFrom-Json | ConvertTo-Json
     ```
 
 === "Bash"
 
     ``` bash
-    curl -X GET 'https://openholidaysapi.org/SchoolHolidays?countryIsoCode=AT&subdivisionIsoCode=AT-2&languageIsoCode=EN&validFrom=2022-01-01&validTo=2022-12-31' -H 'accept: text/json' | json_pp
+    curl -X GET 'https://openholidaysapi.org/SchoolHolidays?countryIsoCode=AT&subdivisionCode=AT-2&languageIsoCode=EN&validFrom=2022-01-01&validTo=2022-12-31' -H 'accept: text/json' | json_pp
     ```
 
 Here, too, the data can optionally be returned in iCal format:
@@ -140,13 +140,13 @@ Here, too, the data can optionally be returned in iCal format:
 === "Powershell"
 
     ``` powershell
-    curl -X GET 'https://openholidaysapi.org/SchoolHolidays?countryIsoCode=AT&subdivisionIsoCode=AT-2&languageIsoCode=EN&validFrom=2022-01-01&validTo=2022-12-31' -H 'accept: text/calendar'
+    curl -X GET 'https://openholidaysapi.org/SchoolHolidays?countryIsoCode=AT&subdivisionCode=AT-2&languageIsoCode=EN&validFrom=2022-01-01&validTo=2022-12-31' -H 'accept: text/calendar'
     ```
 
 === "Bash"
 
     ``` bash
-    curl -X GET 'https://openholidaysapi.org/SchoolHolidays?countryIsoCode=AT&subdivisionIsoCode=AT-2&languageIsoCode=EN&validFrom=2022-01-01&validTo=2022-12-31' -H 'accept: text/calendar'
+    curl -X GET 'https://openholidaysapi.org/SchoolHolidays?countryIsoCode=AT&subdivisionCode=AT-2&languageIsoCode=EN&validFrom=2022-01-01&validTo=2022-12-31' -H 'accept: text/calendar'
     ```
 
 ## Tips and tricks
