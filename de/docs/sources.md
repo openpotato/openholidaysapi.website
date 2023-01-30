@@ -16,8 +16,8 @@ Belgien ist in drei Sprachgebiete unterteilt, der Flämischen, der Französische
 
 Quellen:
 
-+ Französischen Gemeinschaft: [Calendrier Scolaire](http://www.enseignement.be/calendrierscolaire)
-+ Flämischen Gemeinschaft: [Schoolvakanties](https://onderwijs.vlaanderen.be/nl/schoolvakanties)
++ Französische Gemeinschaft: [Calendrier Scolaire](http://www.enseignement.be/calendrierscolaire)
++ Flämische Gemeinschaft: [Schoolvakanties](https://onderwijs.vlaanderen.be/nl/schoolvakanties)
 + Deutschssprachige Gemeinschaft: [Schulkalender und Ferienregelung](https://ostbelgienbildung.be/desktopdefault.aspx/tabid-2212/)
 
 ## Bulgarien
