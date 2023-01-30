@@ -1,5 +1,14 @@
 ## OpenHolidays API Data
 
+### 0.0.9 <small>_ January 30, 2023</small>
+
+- New school holidays until 2029/2030 added for all German federal states (exception Hesse)
+- Public holidays for Germany extended until 2030
+- Refactoring of Austrian school holidays
+- New school holidays until 2023/2024 added for Austria
+- Public holidays for Austria extended until 2030
+- Bug fixes
+
 ### 0.0.8 <small>_ January 21, 2023</small>
 
 - Added holidays for Bulgaria

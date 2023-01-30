@@ -1,5 +1,14 @@
 ## OpenHolidays API Data
 
+### 0.0.9 <small>_ 30. Januar 2023</small>
+
+- Neue Schulferien bis 2029/2030 für alle deutschen Bundesländer (Ausnahme Hessen) hinzugefügt
+- Feiertage für Deutschland bis 2030 erweitert
+- Refactoring der österreichischen Schulferien
+- Neue Schulferien bis 2023/2024 für Österreich hinzugefügt
+- Feiertage für Österreich bis 2030 erweitert
+- Fehlerkorrekturen
+
 ### 0.0.8 <small>_ 21. Januar 2023</small>
 
 - Feiertage/Schulferien für Bulgarien hinzugefügt
