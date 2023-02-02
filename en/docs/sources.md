@@ -4,7 +4,7 @@ The data basis for **OpenHolidays API** is completely based on public sources of
 
 <h3>Public Holidays</h3>
 
-Austria has 12 public holidays that are considered non-working days in all federal provinces.
+Austria has 13 public holidays that are considered non-working days in all federal provinces.
 
 Source:
 
@@ -391,12 +391,13 @@ Sources:
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2022 (PDF)](https://edudoc.ch/record/209813/files/Schulferien_2022.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2021 (PDF)](https://edudoc.ch/record/204064/files/Schulferien_2021.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2020 (PDF)](https://edudoc.ch/record/131016/files/Schulferien_2020_def.pdf)
++ Schweizerische Dokumentenserver Bildung: [Schulferien 2019 (PDF)](https://edudoc.ch/record/126296/files/Schulferien_2019_def.pdf)
 + Aargau: [Stunden- und Ferienplanung](https://www.schulen-aargau.ch/regelschule/schulorganisation/planung-ressourcen/stunden-ferienplanung)
 + Appenzell Ausserrhoden: [Ferien-Richtdaten (PDF)](https://www.ar.ch/fileadmin/user_upload/Departement_Bildung_Kultur/Amt_fuer_Volksschule/E-Handbuch_Volksschule/16_01_Ferienrichtdaten.pdf)
 + Appenzell Innerrhoden: [Ferienplan und schulfreie Tage](https://www.ai.ch/themen/bildung/eltern-und-schule/ferienplan)
 + Basel Landschaft: [Schulferien](https://www.baselland.ch/politik-und-behorden/direktionen/bildungs-kultur-und-sportdirektion/bildung/Schulferien)
 + Basel-Stadt: [Schulferien](https://www.ed.bs.ch/schulferien.html)
-+ Bern: [Schulferienordnung 2022-2024](https://www.bern.ch/themen/bildung/schule/schulferien/ftw-simplelayout-filelistingblock/schulferienordnung-2021-bis-2023.pdf/view) + [Schulferienordnung 2021-2023](https://www.bern.ch/themen/bildung/schule/downloads/down/SCHngf_151210_Ferienordnung%202016%20bis%202018.pdf/view)
++ Bern: [Ferienordnung für den Kindergarten und die Volksschule des deutschsprachigen Kantonsteils 2019/20 bis 2025/26 (PDF)](https://csbe.ch/assets/Downloads/Schulferien-fuer-die-Volksschulen-im-deutschsprachigen-Teil-des-Kantons-Bern-2019_20-bis-2025_26.pdf) + [Planification des vacances scolaires](https://www.akvb-gemeinden.bkd.be.ch/fr/start/organisation-finanzierung/schulorganisation/schulferienplanung.html)
 + Freiburg: [Schulferien](https://www.fr.ch/de/bildung-und-schulen/obligatorische-schule/schulferien-2021-bis-2025)
 + Genève: [Vacances scolaires et jours fériés](https://www.ge.ch/vacances-scolaires-jours-feries)
 + Glarus: [Ferienkalender](https://www.schule-glarus.ch/services/aktuelles.html/6152/news/25511)
