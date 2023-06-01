@@ -1,5 +1,21 @@
 ## OpenHolidays API Data
 
+### 0.0.12 <small>_ June 01, 2023</small>
+
+- All Souls' Day and feast days of the national patron saints added as school holidays for Austria.
+
+### 0.0.11 <small>_ June 01, 2023</small>
+
+- New one-off holiday for Latvia on 29.05.2023 (winning the bronze medal at the 2023 Ice Hockey World Championship) 
+- New school holidays until 2023/2024 added for Latvia
+- Bug fixes
+
+### 0.0.10 <small>_ May 06, 2023</small>
+
+- Public holidays extended for all countries until 2030
+- Refactoring the Dutch school holidays
+- Bug fixes
+
 ### 0.0.9 <small>_ January 30, 2023</small>
 
 - New school holidays until 2029/2030 added for all German federal states (exception Hesse)

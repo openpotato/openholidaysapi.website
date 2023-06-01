@@ -1,5 +1,21 @@
 ## OpenHolidays API Data
 
+### 0.0.12 <small>_ 01. Juni 2023</small>
+
+- Allerseelentag und Festtage der Landespatrone als Schulferien für Österreich hinzugefügt.
+
+### 0.0.11 <small>_ 01. Juni 2023</small>
+
+- Neuer einmaliger Feiertag für Lettland am 29.05.2023 (Gewinn der Bronzemedaille bei der Eishockey-Weltmeisterschaft 2023) 
+- Neue Schulferien bis 2023/2024 für Lettland hinzugefügt
+- Fehlerkorrekturen
+
+### 0.0.10 <small>_ 06. Mai 2023</small>
+
+- Feiertage für alle Länder bis 2030 erweitert
+- Refactoring der niederländischen Schulferien
+- Fehlerkorrekturen
+
 ### 0.0.9 <small>_ 30. Januar 2023</small>
 
 - Neue Schulferien bis 2029/2030 für alle deutschen Bundesländer (Ausnahme Hessen) hinzugefügt

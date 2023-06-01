@@ -16,6 +16,7 @@ The autumn holidays, Christmas holidays, Easter holidays and Whitsun holidays ar
 
 Source:
 
++ Bundesministerium für Bildung, Wissenschaft und Forschung: [Gesetzliche Feiertage, Allerseelentag, Festtage der Landespatrone](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/feiertage.html)
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2023/2024](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_23_24.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2022/2023](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_22_23.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2021/2022](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_21_22.html) 
@@ -30,7 +31,7 @@ Belgium has 12 national holidays that are free of work and school.
 
 Source:
 
-+ [Jours fé+ [Jours fériés nationaux en Belgique](https://www.belgium.be/fr/la_belgique/connaitre_le_pays/la_belgique_en_bref/jours_feries)
++ [Jours fériés nationaux en Belgique](https://www.belgium.be/fr/la_belgique/connaitre_le_pays/la_belgique_en_bref/jours_feries)
 
 <h3>School Holidays</h3>
 
@@ -54,7 +55,7 @@ Source:
 
 <h3>School Holidays</h3>
 
-The school holidays are set centrally by the Ministry of Education and Science. The spring holidays and the summer holidays differ depending on the grade level.
+The school holidays are set centrally by the Ministry of Education and Science. The spring holidays and the summer holidays differ depending on the grade level. The school year always starts on September 15.
 
 Sources:
 
@@ -252,6 +253,7 @@ School holidays are determined centrally by the Ministry of Education and Scienc
 
 Sources:
 
++ Izglītības un zinātnes ministrija: [Apstiprināti 2023./2024. mācību gada sākuma, beigu un brīvdienu laiki](https://www.izm.gov.lv/lv/jaunums/apstiprinati-20232024-macibu-gada-sakuma-beigu-un-brivdienu-laiki)
 + Izglītības un zinātnes ministrija: [Apstiprināti noteikumi par 2022./2023. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20222023-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
 + Izglītības un zinātnes ministrija: [Apstiprināti noteikumi par 2021./2022. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20212022-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
 + Izglītības un zinātnes ministrija: [Apstiprināti noteikumi par 2020./2021. mācību gada garumu, mācību semestriem un brīvlaikiem](https://www.mk.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20202021-macibu-gada-garumu-macibu-semestriem-un-brivlaikiem)
