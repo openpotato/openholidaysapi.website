@@ -17,7 +17,13 @@ theme:
   name: material
   language: de
   features:
+    - navigation.footer
     - navigation.instant
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
   palette:
     - scheme: default
       primary: 'green'
