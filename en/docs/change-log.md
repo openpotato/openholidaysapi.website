@@ -2,8 +2,9 @@
 
 ### 0.0.13 <small>_ June 15, 2023</small>
 
-- Refactoring of school holidays for Mecklenburg-Western Pomerania
-- Additional holiday days for Mecklenburg-Western Pomerania added
+- New school holidays until 2029/2030 added for Hesse (Germany)
+- Refactoring of school holidays for Mecklenburg-Western Pomerania (Germany)
+- Additional holiday days for Mecklenburg-Western Pomerania (Germany) added
 - New school holidays until 2025/2026 added for Slovakia
 - Bug fixes
 
