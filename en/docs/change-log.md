@@ -1,5 +1,12 @@
 ## OpenHolidays API Data
 
+### 0.0.13 <small>_ June 15, 2023</small>
+
+- Refactoring of school holidays for Mecklenburg-Western Pomerania
+- Additional holiday days for Mecklenburg-Western Pomerania added
+- New school holidays until 2025/2026 added for Slovakia
+- Bug fixes
+
 ### 0.0.12 <small>_ June 01, 2023</small>
 
 - All Souls' Day and feast days of the national patron saints added as school holidays for Austria.

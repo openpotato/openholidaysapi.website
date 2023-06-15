@@ -1,5 +1,12 @@
 ## OpenHolidays API Data
 
+### 0.0.13 <small>_ 15. Juni 2023</small>
+
+- Refactoring der Schulferien für Mecklenburg-Vorpommern
+- Zusätzliche Ferientage für Mecklenburg-Vorpommern hinzugefügt
+- Neue Schulferien bis 2025/2026 für Slowakei hinzugefügt
+- Fehlerkorrekturen
+
 ### 0.0.12 <small>_ 01. Juni 2023</small>
 
 - Allerseelentag und Festtage der Landespatrone als Schulferien für Österreich hinzugefügt.
