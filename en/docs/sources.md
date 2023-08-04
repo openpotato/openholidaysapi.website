@@ -61,7 +61,7 @@ Sources:
 
 + Министерство на образованието и науката: [Ваканции](https://www.mon.bg/bg/56)
 + Министерство на образованието и науката: [Ваканции 2023/2024 (PDF)](https://web.mon.bg/upload/37060/grafik-uchebno-vreme_2023-2024_18072023.pdf)
-+ Министерство на образованието и науката: [Ваканции 2022/2023 (PDF)](https://web.mon.bg/upload/32441/grafik-uchebnovreme-22-23-240722.pdf
++ Министерство на образованието и науката: [Ваканции 2022/2023 (PDF)](https://web.mon.bg/upload/32441/grafik-uchebnovreme-22-23-240722.pdf)
 + Министерство на образованието и науката: [Ваканции 2021/2022 (PDF)](https://web.mon.bg/upload/27600/zap1804_grafik-uchebno-vreme_310821.pdf)
 + Министерство на образованието и науката: [Ваканции 2020/2021 (PDF)](https://web.mon.bg/upload/24572/zap3472_izmZap-grafik_30112020.pdf)
 
@@ -358,26 +358,6 @@ Source:
 
 + Ministerstwo Edukacji i Nauki: [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
 
-
-### Slovenia
-
-<h3>Public Holidays</h3>
-
-Slovenia has 15 public holidays, which are considered non-working days.
-
-Source:
-
-+ [National holidays and other work-free days](https://www.gov.si/en/topics/national-holidays/)
-
-<h3>School Holidays</h3>
-
-The autumn holidays and summer holidays are the same for all schools. The winter holidays are divided into two parts. One part is assigned to the western regions (zahodne regije), the other to the eastern regions (vzhodne regije). New Year holidays and May holidays are different for primary and secondary schools.
-
-Source:
-
-+ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za srednje šole](https://www.gov.si/teme/solski-koledar-za-srednje-sole/)
-+ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za osnovne šole](https://www.gov.si/teme/solski-koledar-za-osnovne-sole/)
-
 ## Slovakia
 
 <h3>Public Holidays</h3>
@@ -395,6 +375,25 @@ The autumn holidays, Christmas holidays, Easter holidays and summer holidays are
 Source:
 
 + Ministerstvo školstva, vedy, výskumu a športu: [Sprievodca školským rokom](https://www.minedu.sk/sprievodca-skolskym-rokom)
+
+## Slovenia
+
+<h3>Public Holidays</h3>
+
+Slovenia has 15 public holidays, which are considered non-working days.
+
+Source:
+
++ [National holidays and other work-free days](https://www.gov.si/en/topics/national-holidays/)
+
+<h3>School Holidays</h3>
+
+The autumn holidays and summer holidays are the same for all schools. The winter holidays are divided into two parts. One part is assigned to the western regions (zahodne regije), the other to the eastern regions (vzhodne regije). New Year holidays and May holidays are different for primary and secondary schools.
+
+Source:
+
++ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za srednje šole](https://www.gov.si/teme/solski-koledar-za-srednje-sole/)
++ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za osnovne šole](https://www.gov.si/teme/solski-koledar-za-osnovne-sole/)
 
 ## Switzerland
 

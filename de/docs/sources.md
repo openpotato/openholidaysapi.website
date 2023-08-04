@@ -38,7 +38,7 @@ Quellen:
 
 + Министерство на образованието и науката: [Ваканции](https://www.mon.bg/bg/56)
 + Министерство на образованието и науката: [Ваканции 2023/2024 (PDF)](https://web.mon.bg/upload/37060/grafik-uchebno-vreme_2023-2024_18072023.pdf)
-+ Министерство на образованието и науката: [Ваканции 2022/2023 (PDF)](https://web.mon.bg/upload/32441/grafik-uchebnovreme-22-23-240722.pdf
++ Министерство на образованието и науката: [Ваканции 2022/2023 (PDF)](https://web.mon.bg/upload/32441/grafik-uchebnovreme-22-23-240722.pdf)
 + Министерство на образованието и науката: [Ваканции 2021/2022 (PDF)](https://web.mon.bg/upload/27600/zap1804_grafik-uchebno-vreme_310821.pdf)
 + Министерство на образованието и науката: [Ваканции 2020/2021 (PDF)](https://web.mon.bg/upload/24572/zap3472_izmZap-grafik_30112020.pdf)
 
@@ -344,6 +344,24 @@ Quellen:
 + Zug: [Schulferien](https://www.zg.ch/behoerden/direktion-fur-bildung-und-kultur/amt-fur-gemeindliche-schulen/inhalte-ags/schulaufsicht/inhalte-schulaufsicht/schulferien)
 + Zürich: [Ferien und schulfreie Tage](https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulferien.html)
 
+## Slowakei
+
+<h3>Feiertage</h3>
+
+Die Slowakei hat 15 Feiertage, die in allen Regionen (kraje) als arbeitsfrei gelten.
+
+Quelle:
+
++ Úrad vlády Slovenskej republiky: [Štátne sviatky](https://www.vlada.gov.sk/statne-sviatky/)
+
+<h3>Schulferien</h3>
+
+Die Herbstferien, Weihnachtsferien, Osterferien und Sommerferien sind für alle Regionen (kraje) gleich. Lediglich die Frühjahrsferien unterscheiden sich regional. Dafür werden alle slowakischen Regionen (kraje) in drei Gruppen eingeteilt, die jedes Jahr anders zeitlich sequentiell hintereinander gestaffelt werden.
+
+Quelle:
+
++ Ministerstvo školstva, vedy, výskumu a športu: [Sprievodca školským rokom](https://www.minedu.sk/sprievodca-skolskym-rokom)
+
 ## Slowenien
 
 <h3>Feiertage</h3>
@@ -362,24 +380,6 @@ Quellen:
 
 + Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za srednje šole](https://www.gov.si/teme/solski-koledar-za-srednje-sole/)
 + Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za osnovne šole](https://www.gov.si/teme/solski-koledar-za-osnovne-sole/)
-
-## Slowakei
-
-<h3>Feiertage</h3>
-
-Die Slowakei hat 15 Feiertage, die in allen Regionen (kraje) als arbeitsfrei gelten.
-
-Quelle:
-
-+ Úrad vlády Slovenskej republiky: [Štátne sviatky](https://www.vlada.gov.sk/statne-sviatky/)
-
-<h3>Schulferien</h3>
-
-Die Herbstferien, Weihnachtsferien, Osterferien und Sommerferien sind für alle Regionen (kraje) gleich. Lediglich die Frühjahrsferien unterscheiden sich regional. Dafür werden alle slowakischen Regionen (kraje) in drei Gruppen eingeteilt, die jedes Jahr anders zeitlich sequentiell hintereinander gestaffelt werden.
-
-Quelle:
-
-+ Ministerstvo školstva, vedy, výskumu a športu: [Sprievodca školským rokom](https://www.minedu.sk/sprievodca-skolskym-rokom)
 
 ## Tschechien
 
