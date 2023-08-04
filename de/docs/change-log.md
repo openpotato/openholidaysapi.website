@@ -1,5 +1,14 @@
 ## OpenHolidays API Data
 
+### 0.0.14 <small>_ 04. August 2023</small>
+
+- Feiertage/Schulferien für Slowenien hinzugefügt
+- Neue Schulferien bis 2023/2024 für Belgien (Deutschsprachige Gemeinschaft) hinzugefügt
+- Neue Schulferien bis 2023/2024 für Bulgarien hinzugefügt
+- Neue Schulferien bis 2023/2024 für Kroatien hinzugefügt
+- Neue Schulferien bis 2023/2024 für Polen hinzugefügt
+- Neue Schulferien bis 2023/2024 für Ungarn hinzugefügt
+
 ### 0.0.13 <small>_ 15. Juni 2023</small>
 
 - Neue Schulferien bis 2029/2030 für Hessen (Deutschland) hinzugefügt

@@ -15,6 +15,7 @@
 + Polen (Feiertage und Schulferien ab 2020)
 + Schweiz (Feiertage und Schulferien ab 2020)
 + Slowakei (Feiertage und Schulferien ab 2020)
++ Slowenien (Feiertage und Schulferien ab 2020)
 + Tschechien (Feiertage und Schulferien ab 2020)
 + Ungarn (Feiertage und Schulferien ab 2020)
 + Österreich (Feiertage und Schulferien ab 2020)

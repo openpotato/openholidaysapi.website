@@ -36,7 +36,9 @@ Die Schulferien werden zentral vom Ministerium für Bildung und Wissenschaft fes
 
 Quellen:
 
-+ Министерство на образованието и науката: [Ваканции 2022/2023](https://www.mon.bg/bg/56)
++ Министерство на образованието и науката: [Ваканции](https://www.mon.bg/bg/56)
++ Министерство на образованието и науката: [Ваканции 2023/2024 (PDF)](https://web.mon.bg/upload/37060/grafik-uchebno-vreme_2023-2024_18072023.pdf)
++ Министерство на образованието и науката: [Ваканции 2022/2023 (PDF)](https://web.mon.bg/upload/32441/grafik-uchebnovreme-22-23-240722.pdf
 + Министерство на образованието и науката: [Ваканции 2021/2022 (PDF)](https://web.mon.bg/upload/27600/zap1804_grafik-uchebno-vreme_310821.pdf)
 + Министерство на образованието и науката: [Ваканции 2020/2021 (PDF)](https://web.mon.bg/upload/24572/zap3472_izmZap-grafik_30112020.pdf)
 
@@ -170,6 +172,7 @@ Die Schulferien werden zentral vom Ministerium für Wissenschaft und Bildung fes
 
 Quellen:
 
++ Ministarstvo znanosti i obrazovanja: [školsku godinu 2023/2024](https://narodne-novine.nn.hr/eli/sluzbeni/2023/50/833)
 + Ministarstvo znanosti i obrazovanja: [školsku godinu 2022/2023](https://narodne-novine.nn.hr/eli/sluzbeni/2022/54/715)
 + Ministarstvo znanosti i obrazovanja: [školsku godinu 2021/2022](https://narodne-novine.nn.hr/eli/sluzbeni/2021/45/924)
 + Ministarstvo znanosti i obrazovanja: [školsku godinu 2020/2021](https://narodne-novine.nn.hr/eli/sluzbeni/2020/57/1156)
@@ -341,6 +344,25 @@ Quellen:
 + Zug: [Schulferien](https://www.zg.ch/behoerden/direktion-fur-bildung-und-kultur/amt-fur-gemeindliche-schulen/inhalte-ags/schulaufsicht/inhalte-schulaufsicht/schulferien)
 + Zürich: [Ferien und schulfreie Tage](https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulferien.html)
 
+## Slowenien
+
+<h3>Feiertage</h3>
+
+Slowenien hat 15 Feiertage, die arbeitsfrei gelten.
+
+Quelle:
+
++ [National holidays and other work-free days](https://www.gov.si/en/topics/national-holidays/)
+
+<h3>Schulferien</h3>
+
+Die Herbstferien und Sommerferien sind für alle Schulen gleich. Die Winterferien sind in zwei Teile unterteilt. Einem Teil sind die westliche Regionen (zahodne regije) zugeordnet, dem anderen Teil die östlichen Regionen (vzhodne regije). Neujahrsferien und die Maifeiertage unterscheiden sich für Grundschulen und Sekundarschulen.
+
+Quellen:
+
++ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za srednje šole](https://www.gov.si/teme/solski-koledar-za-srednje-sole/)
++ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za osnovne šole](https://www.gov.si/teme/solski-koledar-za-osnovne-sole/)
+
 ## Slowakei
 
 <h3>Feiertage</h3>
@@ -385,7 +407,7 @@ Ungarn hat 11 nationale Feiertage, die arbeits- und schulfrei sind.
 
 Quelle:
 
-+ [2012. évi I. törvény a munka törvénykönyvéről | 102. § (1) Munkaszüneti nap](https://net.jogtar.hu/jogszabaly?docid=A1200001.TV#lbj60id951d)
++ [2012. évi I. törvény a munka törvénykönyvéről | 102. § (1) Munkaszüneti nap](https://njt.hu/eli/TV/2012/1)
 
 <h3>Schulferien</h3>
 
@@ -393,10 +415,11 @@ Die Schulferien werden zentral durch Regierungsverordnungen festgelegt.
 
 Quellen:
 
-+ [eduline.hu | Megvan a 2022/23-as tanév rendje: itt vannak a legfontosabb dátumok](https://eduline.hu/kozoktatas/20220729_20222023as_tanev_rendje)
-+ [368/2022. (IX. 29.) Korm. rendelet a 2022/2023. tanév rendjére alkalmazandó veszélyhelyzeti szabályokról](https://net.jogtar.hu/jogszabaly?docid=A2200368.KOR#)
-+ [22/2022. (VII. 29.) BM rendelet a 2022/2023. tanév rendjéről](https://net.jogtar.hu/jogszabaly?docid=a2200022.bm)
-+ [20/2021. (VI. 8.) EMMI rendelet a 2021/2022. tanév rendjéről](https://net.jogtar.hu/jogszabaly?docid=a2100020.emm)
++ [2023/2024 tanév rendjéről szóló BM rendelet tervezet](https://kormany.hu/dokumentumtar/2023-2024-tanev-rendjerol-szolo-bm-rendelet-tervezet)
++ [22/2022. (VII. 29.) BM rendelet a 2022/2023. tanév rendjéről](https://njt.hu/eli/R/2022/BM/22)
++ [20/2021. (VI. 8.) EMMI rendelet a 2021/2022. tanév rendjéről](https://njt.hu/eli/R/2021/EMMI/20)
++ [27/2020. (VIII. 11.) EMMI rendelet a 2020/2021. tanév rendjéről](https://njt.hu/eli/R/2020/EMMI/27)
++ [11/2019. (VII. 3.) EMMI rendelet a 2019/2020. tanév rendjéről](https://njt.hu/eli/R/2019/EMMI/11)
 
 ## Österreich
 

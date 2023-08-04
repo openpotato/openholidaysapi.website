@@ -1,5 +1,14 @@
 ## OpenHolidays API Data
 
+### 0.0.14 <small>_ August 04, 2023</small>
+
+- Added holidays for Slovenia
+- New school holidays until 2023/2024 added for Belgium (German-speaking Community)
+- New school holidays until 2023/2024 added for Bulgaria
+- New school holidays until 2023/2024 added for Croatia 
+- New school holidays until 2023/2024 added for Poland 
+- New school holidays until 2023/2024 added for Hungary 
+
 ### 0.0.13 <small>_ June 15, 2023</small>
 
 - New school holidays until 2029/2030 added for Hesse (Germany)

@@ -17,6 +17,7 @@
 + Netherlands (public holidays and school holidays from 2020)
 + Poland (public holidays and school holidays from 2020)
 + Slovakia (public holidays and school holidays from 2020)
++ Slovenia (public holidays and school holidays from 2020)
 + Switzerland (public holidays and school holidays from 2020)
 
 Public holidays and school holidays are returned optionally as [JSON](https://datatracker.ietf.org/doc/html/rfc7159) or in [iCal format](https://datatracker.ietf.org/doc/html/rfc5545).
