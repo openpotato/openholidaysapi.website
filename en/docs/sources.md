@@ -274,11 +274,11 @@ Source:
 
 <h3>School Holidays</h3>
 
-The beginning of the school year and the distribution of holidays over the school year are published in the holiday calendar of the [Liechtenstein Education Authority](http://www.sa.llv.li). It is based on the Swiss holiday dates.
+The beginning of the school year and the distribution of holidays over the school year are published in the holiday calendar of the [Liechtenstein Education Authority](https://www.llv.li/de/landesverwaltung/schulamt). It is based on the Swiss holiday dates.
 
 Source:
 
-+ Schulamt Fürstentum Liechtenstein: [Ferienkalendar (PDF)](https://www.llv.li/files/sa/schulferienkalender-2021-24_web.pdf)
++ Schulamt Fürstentum Liechtenstein: [Schulferien/Ferienkalender](https://www.llv.li/de/landesverwaltung/schulamt/schulferien-ferienkalender)
 
 ## Lithuania
 

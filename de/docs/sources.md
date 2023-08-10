@@ -211,11 +211,11 @@ Quelle:
 
 <h3>Schulferien</h3>
 
-Der Schuljahresbeginn und die Verteilung der Ferien auf das Schuljahr werden jeweils im Ferienkalender des [Liechtensteiner Schulamts](http://www.sa.llv.li) publiziert. Er orientiert sich dabei an den Schweizer Ferienterminen.
+Der Schuljahresbeginn und die Verteilung der Ferien auf das Schuljahr werden jeweils im Ferienkalender des [Liechtensteiner Schulamts](https://www.llv.li/de/landesverwaltung/schulamt) publiziert. Er orientiert sich dabei an den Schweizer Ferienterminen.
 
 Quelle:
 
-+ Schulamt Fürstentum Liechtenstein: [Ferienkalendar (PDF)](https://www.llv.li/files/sa/schulferienkalender-2021-24_web.pdf)
++ Schulamt Fürstentum Liechtenstein: [Schulferien/Ferienkalender](https://www.llv.li/de/landesverwaltung/schulamt/schulferien-ferienkalender)
 
 ## Litauen
 
