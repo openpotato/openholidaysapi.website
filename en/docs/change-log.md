@@ -1,5 +1,11 @@
 ## OpenHolidays API Data
 
+### 0.0.15 <small>_ August 29, 2023</small>
+
+- Added holidays for Monaco
+- Added holidays for Malta
+- Added holidays for San Marino
+
 ### 0.0.14 <small>_ August 04, 2023</small>
 
 - Added holidays for Slovenia

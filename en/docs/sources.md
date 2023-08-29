@@ -318,6 +318,57 @@ Sources:
 + Le gouvernement luxembourgeois: [Règlement grand-ducal du 14 juin 2021](http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/14/a452/jo)
 + Le gouvernement luxembourgeois: [Règlement grand-ducal du 2 septembre 2020](http://data.legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a736/jo)
 
+## Malta
+
+<h3>Public Holidays</h3>
+
+Malta has 14 public holidays that are free of work and school.
+
+Source:
+
++ [Att dwar il-Festi Nazzjonali u Btajjel Pubbliċi oħra](https://legislation.mt/eli/cap/252)
+
+<h3>School Holidays</h3>
+
+School holidays are derived from an agreement between the Government of Malta and the [Malta Union of Teachers](https://mut.org.mt/).
+
+Sources:
+
++ [Agreement between the Government of Malta and the Malta Union of Teachers](https://upe.mt/wp-content/uploads/2021/03/Sectoral-Agreement.pdf)
++ [Clarification regarding public holidays falling during a weekend](https://mut.org.mt/clarification-regarding-public-holidays-falling-during-a-weekend/)
++ [SCHOOL CALENDAR 2021/2022](https://upe.mt/school-calendar-2021-2022/)
++ [SCHOOL CALENDAR 2022/2023](https://upe.mt/school-calendar-2022-2023/)
++ [SCHOOL CALENDAR 2023/2024](https://upe.mt/school-calendar-2023-2024/)
+
+## Monaco
+
+<h3>Public Holidays</h3>
+
+Monaco has 12 public holidays that are free of work and school.
+
+Source:
+
++ La Principauté de Monaco: [Fêtes légales](https://monservicepublic.gouv.mc/thematiques/emploi/activite-salariee/conges-et-maladie/jours-feries)
+
+<h3>School Holidays</h3>
+
+The school holidays are determined by decree of the acting Minister of State.
+
+Sources:
+
++ La Principauté de Monaco: [Vacances Scolaires](https://monservicepublic.gouv.mc/thematiques/education/enseignement/enseignement-primaire-et-secondaire/vacances-scolaires)
++ [Arrêté Ministériel n° 2023-222 du 18 avril 2023 portant fixation du calendrier des vacances scolaires pour l'année 2025/2026.](https://journaldemonaco.gouv.mc/Journaux/2023/Journal-8640/Arrete-Ministeriel-n-2023-222-du-18-avril-2023-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2025-2026)
++ [Arrêté Ministériel n° 2023-221 du 18 avril 2023 portant fixation du calendrier des vacances scolaires pour l'année scolaire 2024/2025.](https://journaldemonaco.gouv.mc/Journaux/2023/Journal-8640/Arrete-Ministeriel-n-2023-221-du-18-avril-2023-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-scolaire-2024-2025)
++ [Arrêté Ministériel n° 2023-50 du 23 janvier 2023 portant fixation du calendrier des vacances scolaires pour l'année 2023/2024.](https://journaldemonaco.gouv.mc/Journaux/2023/Journal-8627/Arrete-Ministeriel-n-2023-50-du-23-janvier-2023-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2023-2024)
++ [Arrêté Ministériel n° 2021-631 du 17 septembre 2021 portant fixation du calendrier des vacances scolaires pour l'année 2022/2023.](https://journaldemonaco.gouv.mc/Journaux/2021/Journal-8557/Arrete-Ministeriel-n-2021-631-du-17-septembre-2021-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2022-2023)
++ [Arrêté Ministériel n° 2021-346 du 30 avril 2021 portant modification du calendrier des vacances scolaires pour l'année 2020/2021.](https://journaldemonaco.gouv.mc/Journaux/2021/Journal-85382/Arrete-Ministeriel-n-2021-346-du-30-avril-2021-portant-modification-du-calendrier-des-vacances-scolaires-pour-l-annee-2020-2021)
++ [Arrêté Ministériel n° 2021-267 du 7 avril 2021 portant modification du calendrier des vacances scolaires pour l'année 2020/2021.](https://journaldemonaco.gouv.mc/Journaux/2021/Journal-8533/Arrete-Ministeriel-n-2021-267-du-7-avril-2021-portant-modification-du-calendrier-des-vacances-scolaires-pour-l-annee-2020-2021)
++ [Arrêté Ministériel n° 2021-106 du 28 janvier 2021 portant fixation du calendrier des vacances scolaires pour l'année 2021/2022.](https://journaldemonaco.gouv.mc/Journaux/2021/Journal-8524/Arrete-Ministeriel-n-2021-106-du-28-janvier-2021-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2021-2022)
++ [Arrêté Ministériel n° 2020-431 du 16 juin 2020 portant modification du calendrier des vacances scolaires pour l'année 2020/2021.](https://journaldemonaco.gouv.mc/Journaux/2020/Journal-8492/Arrete-Ministeriel-n-2020-431-du-16-juin-2020-portant-modification-du-calendrier-des-vacances-scolaires-pour-l-annee-2020-2021)
++ [Arrêté Ministériel n° 2019-969 du 27 novembre 2019 portant modification du calendrier des vacances scolaires pour l'année 2020/2021.](https://journaldemonaco.gouv.mc/Journaux/2019/Journal-8463/Arrete-Ministeriel-n-2019-969-du-27-novembre-2019-portant-modification-du-calendrier-des-vacances-scolaires-pour-l-annee-2020-2021)
++ [Arrêté Ministériel n° 2019-793 du 17 septembre 2019 portant fixation du calendrier des vacances scolaires pour l'année 2020/2021.](https://journaldemonaco.gouv.mc/Journaux/2019/Journal-8453/Arrete-Ministeriel-n-2019-793-du-17-septembre-2019-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2020-2021)
++ [Arrêté Ministériel n° 2018-1188 du 18 décembre 2018 portant fixation du calendrier des vacances scolaires pour l'année 2019/2020.](https://journaldemonaco.gouv.mc/Journaux/2018/Journal-8413/Arrete-Ministeriel-n-2018-1188-du-18-decembre-2018-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2019-2020)
+
 ## Netherlands
 
 <h3>Public Holidays</h3>
@@ -357,6 +408,30 @@ Poland is divided into 16 provinces (województwo). All provinces have the same 
 Source:
 
 + Ministerstwo Edukacji i Nauki: [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
+
+
+## San Marino
+
+<h3>Public Holidays</h3>
+
+San Marino has 18 public holidays that are free of work and school.
+
+Sources:
+
++ [Progetto di Legge "Modifica dell'art.2 della Legge 18 dicembre 1990 n.152 - Calendario delle Festività"](https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/scheda17131844.html)
++ [Legge 18 dicembre 1990 n.152 - Calendario delle Festività](https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti/scheda17013703.html)
+
+<h3>School Holidays</h3>
+
+The school holidays for the respective next school year are determined annually by decree of the acting *Capitani Reggenti* (the two collegially acting heads of state with equal rights).
+
+Sources:
+
++ [Decreto Delegato 17 marzo 2023 n.47 - Calendario Scolastico 2023-2024](https://www.congressodistato.sm/pub1/CongressoSM/dettaglio_notizia.html?idItem=586ac2b7-8255-465c-a8af-c8747dde7924)
++ [Decreto Delegato 23 marzo 2022 n.48 - Calendario Scolastico 2022-2023](https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/scheda17176133.html)
++ [Decreto Delegato 8 giugno 2021 n.104 - Calendario Scolastico 2021-2022](https://www.consigliograndeegenerale.sm/on-line/home/lavori-consiliari/dettagli-delle-convocazioni/scheda17172809.html)
++ [Decreto Delegato 9 luglio 2020 n.115 - Calendario Scolastico 2020-2021](https://www.consigliograndeegenerale.sm/on-line/home/scheda17169006.html)
++ [Decreto Delegato 22 maggio 2019 n.83 - Calendario Scolastico 2019-2020](https://www.consigliograndeegenerale.sm/on-line/home/scheda17163140.html)
 
 ## Slovakia
 

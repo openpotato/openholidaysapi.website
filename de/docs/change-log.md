@@ -1,5 +1,11 @@
 ## OpenHolidays API Data
 
+### 0.0.15 <small>_ 29. August 2023</small>
+
+- Feiertage/Schulferien für Malta hinzugefügt
+- Feiertage/Schulferien für Monaco hinzugefügt
+- Feiertage/Schulferien für San Marino hinzugefügt
+
 ### 0.0.14 <small>_ 04. August 2023</small>
 
 - Feiertage/Schulferien für Slowenien hinzugefügt
