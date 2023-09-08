@@ -156,6 +156,29 @@ Quellen:
 + Department of Education: [School holiday dates](https://www.gov.ie/en/service/388196-school-holiday-dates/)
 + An Roinn Oideachais: [Laethanta saoire scoile dátaí](https://www.gov.ie/ga/seirbhis/dae1c6-none/)
 
+## Italien
+
+<h3>Feiertage</h3>
+
+Italien hat 11 gesetzliche Feiertage. Hinzu kommt das örtliche Fest des Schutzpatrons.
+
+Quelle:
+
++ [Ufficio del Cerimoniale di Stato: Festività e giornate nazionali](https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/giornate.html)
+
+<h3>Schulferien</h3>
+
+Die Schulferien werden jedes Jahr durch das Bildungsministerium festgelegt und sind für Schulen aller Stufen gleich.
+
+Quellen:
+
++ Ministero dell'Istruzione e del Merito: [Il calendario scolastico](https://www.miur.gov.it/calendario-scolastico)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2023-2024 (PDF)](https://www.miur.gov.it/documents/20182/0/Riepilogo+Calendari+scolastici+regionali+a.s.+2023_2024.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2022-2023 (PDF)](https://www.miur.gov.it/documents/20182/6735034/Calendari+scolastici+regionali+a.s.+2022-2023.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2021-2022 (PDF)](https://www.miur.gov.it/documents/20182/6735034/Riepilogo+Calendari+scolastici+regionali+a.s.+2021+-+2022.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2020-2021 (PDF)](https://www.miur.gov.it/documents/20182/6735034/Riepilogo+Calendari+scolastici+regionali+a.s.+2020-2021.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2019-2020 (XLS)](https://www.miur.gov.it/documents/20182/2159038/Calendari+scolastici+regionali+a.s.+19-20_.xls)
+
 ## Kroatien
 
 <h3>Feiertage</h3>
@@ -517,3 +540,18 @@ Quellen:
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2021/2022](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_21_22.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2020/2021](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_20_21.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2019/2020](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_19_20.html)
+
+## Vatikanstadt
+
+<h3>Feiertage</h3>
+
+Vatikanstadt hat laut Vorschriften für das dortige Personal 26 Feiertage. Der Jahrestag der Amtseinführung des Papstes sowie dessen (bürgerlicher) Namenstag hängen vom jeweils aktuellen Pontifikat (momentan Papst Franziskus) ab.
+
+Quellen:
+
++ [Bollettino N. 29 - 2021/2022: Regolamento per il Personale del Governatorato dello Stato della Città del Vaticano](https://www.ulsa.va/it/pubblicazioni/bollettini/bollettino-29/testi-aggiornati/regolamento_personale_governatorato_scv.html)
++ [Bollettino N. 11 - 2002: Regolamento per il personale laico del Capitolo della Patriarcale Basilica Vaticana](https://www.ulsa.va/it/pubblicazioni/bollettini/bollettino-n-11-2002/atti-della-segreteria-di-stato/regolamento-per-il-personale-laico-del-capitolo-della-patriarcal1.html)
+
+<h3>Schulferien</h3>
+
+Es gibt keine Schulen in Vatikanstadt.

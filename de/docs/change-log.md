@@ -1,5 +1,11 @@
 ## OpenHolidays API Data
 
+### 0.0.16 <small>_ 08. September 2023</small>
+
+- Feiertage/Schulferien für Italien hinzugefügt
+- Feiertage/Schulferien für Vatikanstadt hinzugefügt
+- Fehlerkorrekturen
+
 ### 0.0.15 <small>_ 29. August 2023</small>
 
 - Feiertage/Schulferien für Malta hinzugefügt

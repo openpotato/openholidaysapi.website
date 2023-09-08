@@ -241,6 +241,29 @@ Sources:
 + Department of Education: [School holiday dates](https://www.gov.ie/en/service/388196-school-holiday-dates/)
 + An Roinn Oideachais: [Laethanta saoire scoile dátaí](https://www.gov.ie/ga/seirbhis/dae1c6-none/)
 
+## Italy
+
+<h3>Public Holidays</h3>
+
+Italy has 11 public holidays. There is also the local feast of the patron saint.
+
+Source:
+
++ [Ufficio del Cerimoniale di Stato: Festività e giornate nazionali](https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/giornate.html)
+
+<h3>School Holidays</h3>
+
+The school holidays are set each year by the Ministry of Education and are the same for schools at all levels.
+
+Sources:
+
++ Ministero dell'Istruzione e del Merito: [Il calendario scolastico](https://www.miur.gov.it/calendario-scolastico)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2023-2024 (PDF)](https://www.miur.gov.it/documents/20182/0/Riepilogo+Calendari+scolastici+regionali+a.s.+2023_2024.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2022-2023 (PDF)](https://www.miur.gov.it/documents/20182/6735034/Calendari+scolastici+regionali+a.s.+2022-2023.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2021-2022 (PDF)](https://www.miur.gov.it/documents/20182/6735034/Riepilogo+Calendari+scolastici+regionali+a.s.+2021+-+2022.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2020-2021 (PDF)](https://www.miur.gov.it/documents/20182/6735034/Riepilogo+Calendari+scolastici+regionali+a.s.+2020-2021.pdf)
++ [CALENDARI SCOLASTICI REGIONALI A.S. 2019-2020 (XLS)](https://www.miur.gov.it/documents/20182/2159038/Calendari+scolastici+regionali+a.s.+19-20_.xls)
+
 ## Latvia
 
 <h3>Public Holidays</h3>
@@ -518,3 +541,18 @@ Sources:
 + Vaud: [Jours fériés et vacances scolaires](https://www.vd.ch/themes/formation/jours-feries-et-vacances-scolaires)
 + Zug: [Schulferien](https://www.zg.ch/behoerden/direktion-fur-bildung-und-kultur/amt-fur-gemeindliche-schulen/inhalte-ags/schulaufsicht/inhalte-schulaufsicht/schulferien)
 + Zürich: [Ferien und schulfreie Tage](https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulferien.html)
+
+## Vatican City
+
+<h3>Public Holidays</h3>
+
+According to the regulations, Vatican City has 26 public holidays for its personnel. Anniversary of the election of the Holy Father and his (civil) name day depend on the current pontificate (currently Pope Francis).
+
+Sources:
+
++ [Bollettino N. 29 - 2021/2022: Regolamento per il Personale del Governatorato dello Stato della Città del Vaticano](https://www.ulsa.va/it/pubblicazioni/bollettini/bollettino-29/testi-aggiornati/regolamento_personale_governatorato_scv.html)
++ [Bollettino N. 11 - 2002: Regolamento per il personale laico del Capitolo della Patriarcale Basilica Vaticana](https://www.ulsa.va/it/pubblicazioni/bollettini/bollettino-n-11-2002/atti-della-segreteria-di-stato/regolamento-per-il-personale-laico-del-capitolo-della-patriarcal1.html)
+
+<h3>School Holidays</h3>
+
+There are no schools in Vatican City.

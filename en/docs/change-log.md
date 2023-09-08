@@ -1,5 +1,11 @@
 ## OpenHolidays API Data
 
+### 0.0.16 <small>_ September 08, 2023</small>
+
+- Added holidays for Italy
+- Added holidays for Vatican City
+- Bug fixes
+
 ### 0.0.15 <small>_ August 29, 2023</small>
 
 - Added holidays for Monaco
