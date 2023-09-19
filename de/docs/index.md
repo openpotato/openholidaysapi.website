@@ -22,8 +22,8 @@
 + Slowenien (Feiertage und Schulferien ab 2020)
 + Tschechien (Feiertage und Schulferien ab 2020)
 + Ungarn (Feiertage und Schulferien ab 2020)
-+ Österreich (Feiertage und Schulferien ab 2020)
 + Vatikanstadt (Feiertage ab 2020)
++ Österreich (Feiertage und Schulferien ab 2020)
 
 Feiertage und Ferientermine werden wahlweise als [JSON](https://datatracker.ietf.org/doc/html/rfc7159) oder im [iCal-Format](https://datatracker.ietf.org/doc/html/rfc5545) zurückgeliefert.
 

@@ -58,7 +58,7 @@ Quellen:
 + Bremen: [Gesetz über die Sonn-, Gedenk- und Feiertage (FeiertG BR)](https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-sonn-gedenk-und-feiertage-vom-12-november-1954-145882)
 + Hamburg: [Gesetz über Sonntage, Feiertage, Gedenktage und Trauertage (FeiertG HA)](https://www.landesrecht-hamburg.de/bsha/document/jlr-FeiertGHAV3P1)
 + Hessen: [Hessisches Feiertagsgesetz (HFeiertagsG)](https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-FeiertGHE1952pP1)
-+ Mecklenburg-Vorpommern: [Feiertagsgesetz Mecklenburg-Vorpommern (FTG M-V)](https://www.landesrecht-mv.de/bsmv/document/jlr-FTGMVpP2)
++ Mecklenburg-Vorpommern: [Feiertagsgesetz Mecklenburg-Vorpommern (FTG M-V)](https://www.landesrecht-mv.de/bsmv/document/jlr-FTGMVV3P2/part/S)
 + Niedersachsen: [Niedersächsisches Gesetz über die Feiertage (NFeiertagsG)](https://www.mi.niedersachsen.de/startseite/themen/allgemeine_angelegenheiten_des_inneren/feiertagsrecht/feiertagsgesetz-61491.html)
 + Nordrhein-Westfalen: [Gesetz über die Sonn- und Feiertage (Feiertagsgesetz NW)](https://recht.nrw.de/lmi/owa/br_bes_text?anw_nr=2&gld_nr=1&ugl_nr=113&bes_id=3367&aufgehoben=N&menu=1&sg=0)
 + Rheinland-Pfalz: [Feiertagsgesetz (LFtG)](https://landesrecht.rlp.de/bsrp/document/jlr-FeiertGRPpP2)
@@ -518,6 +518,21 @@ Quellen:
 + [27/2020. (VIII. 11.) EMMI rendelet a 2020/2021. tanév rendjéről](https://njt.hu/eli/R/2020/EMMI/27)
 + [11/2019. (VII. 3.) EMMI rendelet a 2019/2020. tanév rendjéről](https://njt.hu/eli/R/2019/EMMI/11)
 
+## Vatikanstadt
+
+<h3>Feiertage</h3>
+
+Vatikanstadt hat laut Vorschriften für das dortige Personal 26 Feiertage. Der Jahrestag der Amtseinführung des Papstes sowie dessen (bürgerlicher) Namenstag hängen vom jeweils aktuellen Pontifikat (momentan Papst Franziskus) ab.
+
+Quellen:
+
++ [Bollettino N. 29 - 2021/2022: Regolamento per il Personale del Governatorato dello Stato della Città del Vaticano](https://www.ulsa.va/it/pubblicazioni/bollettini/bollettino-29/testi-aggiornati/regolamento_personale_governatorato_scv.html)
++ [Bollettino N. 11 - 2002: Regolamento per il personale laico del Capitolo della Patriarcale Basilica Vaticana](https://www.ulsa.va/it/pubblicazioni/bollettini/bollettino-n-11-2002/atti-della-segreteria-di-stato/regolamento-per-il-personale-laico-del-capitolo-della-patriarcal1.html)
+
+<h3>Schulferien</h3>
+
+Es gibt keine Schulen in Vatikanstadt.
+
 ## Österreich
 
 <h3>Feiertage</h3>
@@ -540,18 +555,3 @@ Quellen:
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2021/2022](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_21_22.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2020/2021](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_20_21.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2019/2020](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_19_20.html)
-
-## Vatikanstadt
-
-<h3>Feiertage</h3>
-
-Vatikanstadt hat laut Vorschriften für das dortige Personal 26 Feiertage. Der Jahrestag der Amtseinführung des Papstes sowie dessen (bürgerlicher) Namenstag hängen vom jeweils aktuellen Pontifikat (momentan Papst Franziskus) ab.
-
-Quellen:
-
-+ [Bollettino N. 29 - 2021/2022: Regolamento per il Personale del Governatorato dello Stato della Città del Vaticano](https://www.ulsa.va/it/pubblicazioni/bollettini/bollettino-29/testi-aggiornati/regolamento_personale_governatorato_scv.html)
-+ [Bollettino N. 11 - 2002: Regolamento per il personale laico del Capitolo della Patriarcale Basilica Vaticana](https://www.ulsa.va/it/pubblicazioni/bollettini/bollettino-n-11-2002/atti-della-segreteria-di-stato/regolamento-per-il-personale-laico-del-capitolo-della-patriarcal1.html)
-
-<h3>Schulferien</h3>
-
-Es gibt keine Schulen in Vatikanstadt.

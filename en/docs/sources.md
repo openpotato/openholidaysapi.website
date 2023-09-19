@@ -164,7 +164,7 @@ Sources:
 + Bremen: [Gesetz über die Sonn-, Gedenk- und Feiertage (FeiertG BR)](https://www.transparenz.bremen.de/metainformationen/gesetz-ueber-die-sonn-gedenk-und-feiertage-vom-12-november-1954-145882)
 + Hamburg: [Gesetz über Sonntage, Feiertage, Gedenktage und Trauertage (FeiertG HA)](https://www.landesrecht-hamburg.de/bsha/document/jlr-FeiertGHAV3P1)
 + Hessen: [Hessisches Feiertagsgesetz (HFeiertagsG)](https://www.rv.hessenrecht.hessen.de/bshe/document/jlr-FeiertGHE1952pP1)
-+ Mecklenburg-Vorpommern: [Feiertagsgesetz Mecklenburg-Vorpommern (FTG M-V)](https://www.landesrecht-mv.de/bsmv/document/jlr-FTGMVpP2)
++ Mecklenburg-Vorpommern: [Feiertagsgesetz Mecklenburg-Vorpommern (FTG M-V)](https://www.landesrecht-mv.de/bsmv/document/jlr-FTGMVV3P2/part/S)
 + Niedersachsen: [Niedersächsisches Gesetz über die Feiertage (NFeiertagsG)](https://www.mi.niedersachsen.de/startseite/themen/allgemeine_angelegenheiten_des_inneren/feiertagsrecht/feiertagsgesetz-61491.html)
 + Nordrhein-Westfalen: [Gesetz über die Sonn- und Feiertage (Feiertagsgesetz NW)](https://recht.nrw.de/lmi/owa/br_bes_text?anw_nr=2&gld_nr=1&ugl_nr=113&bes_id=3367&aufgehoben=N&menu=1&sg=0)
 + Rheinland-Pfalz: [Feiertagsgesetz (LFtG)](https://landesrecht.rlp.de/bsrp/document/jlr-FeiertGRPpP2)
@@ -431,7 +431,6 @@ Poland is divided into 16 provinces (województwo). All provinces have the same 
 Source:
 
 + Ministerstwo Edukacji i Nauki: [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
-
 
 ## San Marino
 
