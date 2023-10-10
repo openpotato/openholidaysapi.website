@@ -17,6 +17,7 @@ theme:
   name: material
   language: de
   features:
+    - content.code.copy
     - navigation.footer
     - navigation.instant
     - navigation.top
