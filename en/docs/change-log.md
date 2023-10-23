@@ -1,5 +1,9 @@
 ## OpenHolidays API Data
 
+### 0.0.17 <small>_ October 24, 2023</small>
+
+- Added holidays for Albania
+
 ### 0.0.16 <small>_ September 08, 2023</small>
 
 - Added holidays for Italy

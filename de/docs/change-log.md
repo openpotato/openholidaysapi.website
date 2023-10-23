@@ -1,5 +1,9 @@
 ## OpenHolidays API Data
 
+### 0.0.17 <small>_ 24. Oktober 2023</small>
+
+- Feiertage/Schulferien für Albanien hinzugefügt
+
 ### 0.0.16 <small>_ 08. September 2023</small>
 
 - Feiertage/Schulferien für Italien hinzugefügt

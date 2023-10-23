@@ -1,5 +1,6 @@
 **OpenHolidays API** ist ein kleines [Open Data-Projekt](https://opendatahandbook.org/guide/de/what-is-open-data/), das öffentliche Daten zu gesetzlichen Feiertagen und Schulferien sammelt und über eine offene REST-API-Schnittstelle verfügbar macht. Unterstützt werden derzeit folgende Länder:
 
++ Albanien (Feiertage und Schulferien ab 2020)
 + Belgien (Feiertage und Schulferien ab 2020)
 + Bulgarien (Feiertage und Schulferien ab 2020)
 + Deutschland (Feiertage und Schulferien ab 2020)

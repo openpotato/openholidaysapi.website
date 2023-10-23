@@ -1,5 +1,29 @@
 Die Datengrundlage für **OpenHolidays API** basiert komplett auf öffentlichen Quellen der Länder. Die aufbereiteten Rohdaten stehen im GitHub-Repository [OpenHolidaysAPI.Data](https://github.com/openpotato/openholidaysapi.data) zur Verfügung. Im folgenden werden die Quellen der einzelnen Länder aufgeführt.
 
+## Albanien
+
+<h3>Feiertage</h3>
+
+Albanien hat 16 offizielle Feiertage, die arbeits- und schulfrei sind.
+
+Quellen:
+
++ [LIGJ Nr.7651, datë 21.12.1992: Për festat zyrtare e ditët përkujtimore](https://tirana.al/uploads/publications/ligje/ligjNr.7651date21.12.docx)
++ [Wikipedia: Eid al-Fitr](https://en.wikipedia.org/wiki/Eid_al-Fitr)
++ [Wikipedia: Eid al-Adha](https://en.wikipedia.org/wiki/Eid_al-Adha)
+
+<h3>Schulferien</h3>
+
+Die Schulferien für das jeweils nächste Schuljahr werden durch das Ministerium für Bildung und Sport bekanntgegeben. Seit dem Schuljahr 2022/2023 wurde nach langjähriger Abwesenheit wieder Frühlingsferien eingeführt.
+
+Quellen:
+
++ [Miratimi i strukturës së vitit shkollor 2023-2024 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-191-date-20-4-2023-per-miratimin-e-struktures-se-vitit-shkollor-2023-2024-ne-sistemin-arsimor-parauniversitar/)
++ [Miratimi i strukturës së vitit shkollor 2022-2023 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-227-date-28-04-2022-per-miratimin-e-struktures-se-vitit-shkollor-2022-2023-ne-sistemin-arsimor-parauniversitar/
++ [Miratimi i strukturës së vitit shkollor 2021-2022 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-300-date-25-08-2021-per-miratimin-e-struktures-se-vitit-shkollor-2021-2022-ne-sistemin-arsimor-parauniversitar/
++ [Miratimi i strukturës së vitit shkollor 2020-2021 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-71-date-25-02-2020-per-miratimin-e-struktures-se-vitit-shkollor-2020-2021-ne-sistemin-arsimor-parauniversitar/
++ [Miratimi i strukturës së vitit shkollor 2019-2020 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-220-date-11-04-2019-per-miratimin-e-struktures-se-vitit-shkollorn2019-2020-ne-sistemin-arsimor-parauniversitar/
+
 ## Belgien
 
 <h3>Feiertage</h3>
