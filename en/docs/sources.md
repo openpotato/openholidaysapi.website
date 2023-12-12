@@ -442,7 +442,7 @@ Sources:
 
 <h3>Public Holidays</h3>
 
-Poland has 13 national holidays that are free of work and school
+Poland has 13 public holidays that are free of work and school
 
 Source:
 
@@ -455,6 +455,32 @@ Poland is divided into 16 provinces (województwo). All provinces have the same 
 Source:
 
 + Ministerstwo Edukacji i Nauki: [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
+
+## Portugal
+
+<h3>Public Holidays</h3>
+
+Portugal has 13 national holidays and 3 regional holidays. In addition, there are numerous municipal holidays, although these are considered optional.
+
+Sources:
+
++ [Lei n.º 7/2009, Código do Trabalho - CT - Subsecção IX](https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-34546475-46746675)
++ [Lei n.º 8/2016, de 1 de abril](https://diariodarepublica.pt/dr/detalhe/lei/8-2016-74007209)
++ [Decreto Regional n.º 27/79/M, de 9 de novembro](https://diariodarepublica.pt/dr/detalhe/decreto-regional/27-1979-363277)
++ [Decreto Legislativo Regional n.º 18/2002/M, de 8 de novembro](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-425483)
++ [Decreto Regional n.º 13/80/A, de 21 de agosto](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1980-470865)
++ API: [List of national, regional and municipal public holidays](https://services.sapo.pt/Metadata/Contract/Holiday)
+
+<h3>School Holidays</h3>
+
+The school holidays are determined centrally by the Ministry of Education.
+
+Sources:
+
++ 2022/2023 and 2023/2024 - [Despacho n.º 8356/2022](https://diariodarepublica.pt/dr/detalhe/despacho/8356-2022-185829850)
++ 2021/2022 - [Despacho n.º 12123-M/2021](https://diariodarepublica.pt/dr/detalhe/despacho/12123-m-2021-175816929)
++ 2020/2021 - [Despacho n.º 1689-A/2021](https://diariodarepublica.pt/dr/detalhe/despacho/1689-a-2021-157360559)
++ 2019/2020 - [Despacho n.º 5754-A/2019](https://diariodarepublica.pt/dr/detalhe/despacho/5754-a-2019-122609690)
 
 ## San Marino
 

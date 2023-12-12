@@ -84,5 +84,6 @@ markdown_extensions:
 nav:
   - Einführung: index.md
   - Datenquellen: sources.md
+  - Client-Bibliotheken: libraries.md
   - Änderungslog: change-log.md
   - API: api.md

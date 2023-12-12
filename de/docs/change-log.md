@@ -1,5 +1,11 @@
 ## OpenHolidays API Data
 
+### 0.0.18 <small>_ 12. Dezember 2023</small>
+
+- Feiertage/Schulferien für Portugal hinzugefügt
+- Aufzählungstyp `HolidayType` um 3 Werte erweitert `National`, `Regional` und `Local`
+- Neuer Aufzählungstyp `HolidayQuality` (`Mandatory` oder `Optional`) hinzugefügt
+
 ### 0.0.17 <small>_ 24. Oktober 2023</small>
 
 - Feiertage/Schulferien für Albanien hinzugefügt
@@ -107,12 +113,30 @@
 
 ## OpenHolidays API Service
 
+### 0.0.9 <small>_ 12. Dezember 2023</small>
+
+- Update auf .NET 8
+- Breaking API change: Der Aufzählungstyp `HolidayType` hat 3 neue Werte bekommen (`National`, `Regional`, `Local`)
+- Breaking API change: Neuer Aufzählungstyp `HolidayQuality` (`Mandatory` oder `Optional`) hinzugefügt
+- Neue Länder zu AppSettings hinzugefügt
+- Fehlerkorrekturen und Refactoring
+
+### 0.0.8 <small>_ 24. Oktober 2023</small>
+
+- Neue Länder zu AppSettings hinzugefügt
+- Fehlerkorrekturen
+
+### 0.0.7 <small>_ 10. August 2023</small>
+
+- Neue Länder zu AppSettings hinzugefügt
+
 ### 0.0.6 <small>_ 21. Januar 2023</small>
 
 - Breaking API change: `Categories`, `Names` und `Comments` umbenannt in `Category`, `Name` und `Comment` 
 - Breaking API change: Entität `OUnit` entfernt. 
 - Breaking API change: Aufzählungstyp `HolidayDetails` entfernt. 
 - CORS-Unterstützung hinzugefügt
+- Neue Länder zu AppSettings hinzugefügt
 - Fehlerkorrekturen und Refactoring
 
 ### 0.0.5 <small>_ 05. Januar 2023</small>
@@ -123,7 +147,7 @@
 
 ### 0.0.4 <small>_ 21. Dezember 2022</small>
 
-- Breaking API change: Refactoring der official country names und der holiday type
+- Breaking API change: Refactoring der Ländernamen und der Ferientypen
 - Fehlerkorrekturen 
 
 ### 0.0.3 <small>_ 01. Dezember 2022</small>

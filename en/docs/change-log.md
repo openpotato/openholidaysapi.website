@@ -1,5 +1,11 @@
 ## OpenHolidays API Data
 
+### 0.0.18 <small>_ December 12, 2023</small>
+
+- Added holidays for Portugal
+- Added 3 new values to enumeration type `HolidayType` (`National`, `Regional` and `Local)
+- Added new enumeration type `HolidayQuality` (`Mandatory` or `Optional`)
+
 ### 0.0.17 <small>_ October 24, 2023</small>
 
 - Added holidays for Albania
@@ -107,12 +113,30 @@
 
 ## OpenHolidays API Service
 
+### 0.0.9 <small>_ December 12, 2023</small>
+
+- Update to .NET 8
+- Breaking API change: Enum type `HolidayType` has got 3 new values (`National`, `Regional`, `Local`)
+- Breaking API change: Added new enum type `HolidayQuality` (`Mandatory` oder `Optional`)
+- New countries added to AppSettings
+- Bug fixes and refactoring
+
+### 0.0.8 <small>_ October 24, 2023</small>
+
+- New countries added to AppSettings
+- Bug fixes
+
+### 0.0.7 <small>_ August 10, 2023</small>
+
+- New countries added to AppSettings
+
 ### 0.0.6 <small>_ January 21, 2023</small>
 
 - Breaking API change: `Categories`, `Names` and `Comments` renamed to `Category`, `Name` and `Comment` 
-- Breaking API change: Removed entity `OUnit`. 
-- Breaking API change: Removed enum type `HolidayDetails`.
+- Breaking API change: Removed entity `OUnit`
+- Breaking API change: Removed enum type `HolidayDetails`
 - Added CORS support
+- New countries added to AppSettings
 - Bug fixes and refactoring
 
 ### 0.0.5 <small>_ January 05, 2023</small>

@@ -17,6 +17,7 @@
 + Monaco (Feiertage und Schulferien ab 2020)
 + Niederlande (Feiertage und Schulferien ab 2020)
 + Polen (Feiertage und Schulferien ab 2020)
++ Portugal (Feiertage und Schulferien ab 2020)
 + San Marino (Feiertage und Schulferien ab 2020)
 + Schweiz (Feiertage und Schulferien ab 2020)
 + Slowakei (Feiertage und Schulferien ab 2020)
