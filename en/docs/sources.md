@@ -460,7 +460,7 @@ Source:
 
 <h3>Public Holidays</h3>
 
-Portugal has 13 national holidays and 3 regional holidays. In addition, there are numerous municipal holidays, although these are considered optional.
+Portugal has 13 national holidays and 3 regional holidays. In addition, there are carnival and numerous municipal holidays, although these are considered optional.
 
 Sources:
 

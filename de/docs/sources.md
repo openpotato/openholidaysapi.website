@@ -397,7 +397,7 @@ Quelle:
 
 <h3>Feiertage</h3>
 
-Portugal hat 13 nationale Feiertage und 3 regionale Feiertage. Hinzu kommen zahlreiche kommunale Feiertage, die allerdings als optional gelten.
+Portugal hat 13 nationale Feiertage und 3 regionale Feiertage. Hinzu kommen Karneval und zahlreiche kommunale Feiertage, die allerdings als optional gelten.
 
 Quellen:
 
