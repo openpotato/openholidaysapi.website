@@ -2,8 +2,10 @@ Die OpenHolidays API kann direkt per HTTP-Aufruf konsumiert werden. Schicker ist
 
 Die folgenden Bibliotheken sind verfügbar:
 
+## JavaScript
+
+- [Dlurak/open-holiday-js](https://github.com/Dlurak/open-holiday-js): Ein JavaScipt Client für die OpenHolidays API.
+
 ## PHP
 
 - [noahnxt/laravel-open-holiday-api](https://github.com/NoahNxT/laravel-open-holiday-api): Ein Laravel-Wrapper für die OpenHolidays API.
-
-
