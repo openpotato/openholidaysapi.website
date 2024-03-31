@@ -1,5 +1,14 @@
 ## OpenHolidays API Data
 
+### 0.0.19 <small>_ 31. März 2024</small>
+
+- Feiertage/Schulferien für Andorra hinzugefügt
+- Neue Schulferien bis 2024/2025 für San Marino hinzugefügt
+- Neue Schulferien bis 2024/2025 für Estland hinzugefügt
+- Neue Schulferien bis 2024/2025 für Lettland hinzugefügt
+- Neue Schulferien bis 2025/2026 für Luxemburg hinzugefügt
+- Fehlerkorrekturen
+
 ### 0.0.18 <small>_ 12. Dezember 2023</small>
 
 - Feiertage/Schulferien für Portugal hinzugefügt

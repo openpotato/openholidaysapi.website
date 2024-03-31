@@ -264,6 +264,7 @@ Die Schulferien werden zentral vom Ministerium für Bildung und Wissenschaft fes
 
 Quellen:
 
++ Izglītības un zinātnes ministrija: [Apstiprināti 2024./2025. mācību gada sākuma, beigu un brīvdienu laiki](https://www.izm.gov.lv/lv/jaunums/apstiprinati-20242025-macibu-gada-sakuma-beigu-un-brivdienu-laiki)
 + Izglītības un zinātnes ministrija: [Apstiprināti 2023./2024. mācību gada sākuma, beigu un brīvdienu laiki](https://www.izm.gov.lv/lv/jaunums/apstiprinati-20232024-macibu-gada-sakuma-beigu-un-brivdienu-laiki)
 + Izglītības un zinātnes ministrija: [Apstiprināti noteikumi par 2022./2023. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20222023-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
 + Izglītības un zinātnes ministrija: [Apstiprināti noteikumi par 2021./2022. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20212022-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)

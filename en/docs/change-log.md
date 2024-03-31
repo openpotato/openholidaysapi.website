@@ -1,5 +1,14 @@
 ## OpenHolidays API Data
 
+### 0.0.19 <small>_ March 31, 2024</small>
+
+- Added holidays for Andorra
+- Added school holidays for 2025/2026 for Luxembourg
+- Added school holidays for 2024/2025 for San Marino
+- Added school holidays for 2024/2025 for Estonia
+- Added school holidays for 2024/2025 for Latvia
+- Bug fixes
+
 ### 0.0.18 <small>_ December 12, 2023</small>
 
 - Added holidays for Portugal

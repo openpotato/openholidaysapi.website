@@ -1,6 +1,7 @@
 **OpenHolidays API** is a small [Open Data project](https://opendatahandbook.org/guide/en/what-is-open-data/) that collects public holiday and school holiday data and makes it available via an open REST API interface. The following countries are currently supported:
 
-+ Albania (public holidays and school holidays from 2020)
++ Albanien (public holidays and school holidays from 2020)
++ Andorra (public holidays and school holidays from 2020)
 + Austria (public holidays and school holidays from 2020)
 + Belgium (public holidays and school holidays from 2020)
 + Bulgaria (public holidays and school holidays from 2020)
