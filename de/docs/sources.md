@@ -14,7 +14,7 @@ Quellen:
 
 <h3>Schulferien</h3>
 
-Die Schulferien für das jeweils nächste Schuljahr werden durch das Ministerium für Bildung und Sport bekanntgegeben. Seit dem Schuljahr 2022/2023 wurde nach langjähriger Abwesenheit wieder Frühlingsferien eingeführt.
+Die Schulferien für das jeweils nächste Schuljahr werden durch das Ministerium für Bildung und Sport bekanntgegeben. Seit dem Schuljahr 2022/2023 wurden nach langjähriger Abwesenheit wieder Frühlingsferien eingeführt.
 
 Quellen:
 
@@ -23,6 +23,29 @@ Quellen:
 + [Miratimi i strukturës së vitit shkollor 2021-2022 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-300-date-25-08-2021-per-miratimin-e-struktures-se-vitit-shkollor-2021-2022-ne-sistemin-arsimor-parauniversitar/)
 + [Miratimi i strukturës së vitit shkollor 2020-2021 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-71-date-25-02-2020-per-miratimin-e-struktures-se-vitit-shkollor-2020-2021-ne-sistemin-arsimor-parauniversitar/)
 + [Miratimi i strukturës së vitit shkollor 2019-2020 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-220-date-11-04-2019-per-miratimin-e-struktures-se-vitit-shkollorn2019-2020-ne-sistemin-arsimor-parauniversitar/)
+
+## Andorra
+
+<h3>Feiertage</h3>
+
+Andorra hat 14 offizielle Feiertage, die arbeits- und schulfrei sind. Zudem hat jede Gemeinde einen zusätzlichen lokalen Feiertag.
+
+Quellen:
+
++ [S’aprova el calendari laboral per a l’any 2023](https://www.govern.ad/presidencia-economia-i-empresa/item/14927-s-aprova-el-calendari-laboral-per-a-l-any-2023)
++ [S’aprova el calendari laboral per a l’any 2022](https://www.govern.ad/presidencia-economia-i-empresa/item/13419-s-aprova-el-calendari-laboral-per-a-l-any-2022-amb-14-dies-festius)
++ [S’aprova el calendari laboral per a l’any 2021](https://www.govern.ad/presidencia-economia-i-empresa/item/12148-s-aprova-el-calendari-laboral-per-a-l-any-2021)
++ [S'aprova el calendari laboral per a l'any 2020](https://www.govern.ad/presidencia-economia-i-empresa/item/10899-s-aprova-el-calendari-laboral-per-a-l-any-2020)
+
+<h3>Schulferien</h3>
+
+Die Schulferien werden alle zwei Jahre durch die Regierung auf Vorschlag des Bildungsministeriums genehmigt. 
+
+Quellen:
+
++ [S'aproven els calendaris de vacances escolars per als propers cursos 2023-2024 i 2024-2025](https://www.govern.ad/educacio-i-ensenyament-superior/item/15114-s-aproven-els-calendaris-de-vacances-escolars-per-als-propers-cursos-2023-2024-i-2024-2025)
++ [S'aproven els calendaris de vacances escolars per als propers cursos 2021-2022 i 2022-2023](https://www.govern.ad/educacio-i-ensenyament-superior/item/12245-s-aproven-els-calendaris-de-vacances-escolars-per-als-propers-cursos-2021-2022-i-2022-2023)
++ [S'aproven els calendaris de vacances escolars per als propers cursos 2019-2020 i 2020-2021](https://www.govern.ad/educacio-i-ensenyament-superior/item/9947-s-aproven-els-calendaris-de-vacances-escolars-per-als-propers-cursos-2019-2020-i-2020-2021)
 
 ## Belgien
 
@@ -280,6 +303,7 @@ Die Schulferien werden zentral vom Ministerium für Bildung, Wissenschaft und Sp
 
 Quelle:
 
++ Lietuvos Respublikos švietimo, mokslo ir sporto ministerija: [Dėl 2023–2024 ir 2024–2025 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrųjų ugdymo planų patvirtinimo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/ca29f721e2d611eda305cb3bdf2af4d8/asr)
 + Lietuvos Respublikos švietimo, mokslo ir sporto ministerija: [Dėl 2021–2022 ir 2022–2023 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrųjų ugdymo planų patvirtinimo](https://www.e-tar.lt/portal/lt/legalAct/f0828f70abe911eb8bc8b1cdd5d7f785/asr)
 
 ## Luxemburg
@@ -298,7 +322,7 @@ Der Schuljahresbeginn und die Verteilung der Ferien auf das Schuljahr werden dur
 
 Quellen:
 
-+ Guichet.lu: [Schulferienkalender](https://guichet.public.lu/de/outils/calendrier-scolaire.html)
++ Guichet.lu: [Schulferienkalender](https://guichet.public.lu/de/citoyens/outils/calendrier-scolaire.html)
 + Le gouvernement luxembourgeois: [Règlement grand-ducal du 14 juin 2021](http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/14/a452/jo)
 + Le gouvernement luxembourgeois: [Règlement grand-ducal du 2 septembre 2020](http://data.legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a736/jo)
 
@@ -436,6 +460,7 @@ Die Schulferien für das jeweils nächste Schuljahr werden jährlich per Dekret 
 
 Quellen:
 
++ [Decreto Delegato 21 marzo 2024 n.70 - Calendario Scolastico 2024-2025](https://www.congressodistato.sm/pub1/CongressoSM/dettaglio_notizia.html?idItem=3aaf1018-27be-4ccd-a8f5-5dd41f56aec0)
 + [Decreto Delegato 17 marzo 2023 n.47 - Calendario Scolastico 2023-2024](https://www.congressodistato.sm/pub1/CongressoSM/dettaglio_notizia.html?idItem=586ac2b7-8255-465c-a8af-c8747dde7924)
 + [Decreto Delegato 23 marzo 2022 n.48 - Calendario Scolastico 2022-2023](https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/scheda17176133.html)
 + [Decreto Delegato 8 giugno 2021 n.104 - Calendario Scolastico 2021-2022](https://www.consigliograndeegenerale.sm/on-line/home/lavori-consiliari/dettagli-delle-convocazioni/scheda17172809.html)
@@ -503,7 +528,7 @@ Quelle:
 
 <h3>Schulferien</h3>
 
-Die Herbstferien, Weihnachtsferien, Osterferien und Sommerferien sind für alle Regionen (kraje) gleich. Lediglich die Frühjahrsferien unterscheiden sich regional. Dafür werden alle slowakischen Regionen (kraje) in drei Gruppen eingeteilt, die jedes Jahr anders zeitlich sequentiell hintereinander gestaffelt werden.
+Die Herbstferien, Weihnachtsferien, Osterferien und Sommerferien sind für alle Regionen (kraje) gleich. Lediglich die Frühjahrsferien unterscheiden sich regional. Dafür werden alle slowakischen Regionen in drei Gruppen eingeteilt, die jedes Jahr anders zeitlich sequentiell hintereinander gestaffelt werden.
 
 Quelle:
 
@@ -600,6 +625,7 @@ Die Herbstferien, Weihnachtsferien, Osterferien und Pfingstferien sind für alle
 Quellen:
 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Gesetzliche Feiertage, Allerseelentag, Festtage der Landespatrone](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/feiertage.html)
++ Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2024/2025](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_24_25.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2023/2024](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_23_24.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2022/2023](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_22_23.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2021/2022](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_21_22.html) 

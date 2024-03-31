@@ -24,6 +24,29 @@ Sources:
 + [Miratimi i strukturës së vitit shkollor 2020-2021 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-71-date-25-02-2020-per-miratimin-e-struktures-se-vitit-shkollor-2020-2021-ne-sistemin-arsimor-parauniversitar/)
 + [Miratimi i strukturës së vitit shkollor 2019-2020 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-220-date-11-04-2019-per-miratimin-e-struktures-se-vitit-shkollorn2019-2020-ne-sistemin-arsimor-parauniversitar/)
 
+## Andorra
+
+<h3>Public Holidays</h3>
+
+Andorra has 14 official public holidays that are free from work and school. Each municipality also has an additional local public holiday.
+
+Sources:
+
++ [S’aprova el calendari laboral per a l’any 2023](https://www.govern.ad/presidencia-economia-i-empresa/item/14927-s-aprova-el-calendari-laboral-per-a-l-any-2023)
++ [S’aprova el calendari laboral per a l’any 2022](https://www.govern.ad/presidencia-economia-i-empresa/item/13419-s-aprova-el-calendari-laboral-per-a-l-any-2022-amb-14-dies-festius)
++ [S’aprova el calendari laboral per a l’any 2021](https://www.govern.ad/presidencia-economia-i-empresa/item/12148-s-aprova-el-calendari-laboral-per-a-l-any-2021)
++ [S'aprova el calendari laboral per a l'any 2020](https://www.govern.ad/presidencia-economia-i-empresa/item/10899-s-aprova-el-calendari-laboral-per-a-l-any-2020)
+
+<h3>School Holidays</h3>
+
+The school holidays are approved every two years by the government on the recommendation of the Ministry of Education. 
+
+Sources:
+
++ [S'aproven els calendaris de vacances escolars per als propers cursos 2023-2024 i 2024-2025](https://www.govern.ad/educacio-i-ensenyament-superior/item/15114-s-aproven-els-calendaris-de-vacances-escolars-per-als-propers-cursos-2023-2024-i-2024-2025)
++ [S'aproven els calendaris de vacances escolars per als propers cursos 2021-2022 i 2022-2023](https://www.govern.ad/educacio-i-ensenyament-superior/item/12245-s-aproven-els-calendaris-de-vacances-escolars-per-als-propers-cursos-2021-2022-i-2022-2023)
++ [S'aproven els calendaris de vacances escolars per als propers cursos 2019-2020 i 2020-2021](https://www.govern.ad/educacio-i-ensenyament-superior/item/9947-s-aproven-els-calendaris-de-vacances-escolars-per-als-propers-cursos-2019-2020-i-2020-2021)
+
 ## Austria
 
 <h3>Public Holidays</h3>
