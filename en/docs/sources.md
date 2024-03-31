@@ -64,6 +64,7 @@ The autumn holidays, Christmas holidays, Easter holidays and Whitsun holidays ar
 Sources:
 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Gesetzliche Feiertage, Allerseelentag, Festtage der Landespatrone](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/feiertage.html)
++ Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2024/2025](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_24_25.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2023/2024](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_23_24.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2022/2023](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_22_23.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2021/2022](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_21_22.html) 
@@ -523,6 +524,7 @@ The school holidays for the respective next school year are determined annually 
 
 Sources:
 
++ [Decreto Delegato 21 marzo 2024 n.70 - Calendario Scolastico 2024-2025](https://www.congressodistato.sm/pub1/CongressoSM/dettaglio_notizia.html?idItem=3aaf1018-27be-4ccd-a8f5-5dd41f56aec0)
 + [Decreto Delegato 17 marzo 2023 n.47 - Calendario Scolastico 2023-2024](https://www.congressodistato.sm/pub1/CongressoSM/dettaglio_notizia.html?idItem=586ac2b7-8255-465c-a8af-c8747dde7924)
 + [Decreto Delegato 23 marzo 2022 n.48 - Calendario Scolastico 2022-2023](https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/scheda17176133.html)
 + [Decreto Delegato 8 giugno 2021 n.104 - Calendario Scolastico 2021-2022](https://www.consigliograndeegenerale.sm/on-line/home/lavori-consiliari/dettagli-delle-convocazioni/scheda17172809.html)
