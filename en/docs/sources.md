@@ -108,12 +108,13 @@ The school holidays are set centrally by the Ministry of Education and Science. 
 Sources:
 
 + Министерство на образованието и науката: [Ваканции](https://www.mon.bg/dyasno-menyu/vakantsii/)
-+ Заповед № РД09-2047/28.08.2023 г: [Ваканции 2023/2024 (PDF)](https://www.mon.bg/nfs/2023/09/zap2047_uchebno-vreme_01092023.pdf)
-+ Заповед № РД09-4066/30.08.2022 г: [Ваканции 2022/2023 (PDF)](https://www.mon.bg/nfs/2022/09/zap4066_grafik_01092022.pdf)
-+ Заповед № РД09-1474/24.01.2022 г: [COVID-19 (PDF)](https://www.mon.bg/nfs/2022/09/zap4066_grafik_01092022.pdf)
-+ Заповед № РД09-1804/31.08.2021 г: [Ваканции 2021/2022 (PDF)](https://www.mon.bg/nfs/2021/08/zap1804_grafik-uchebno-vreme_310821.pdf)
-+ Заповед № РД09-3472/27.11.2020 г: [Ваканции 2020/2021 (PDF)](https://www.mon.bg/nfs/2020/11/zap3472_izmzap-grafik_30112020.pdf)
-+ Заповед № РД09-2148/27.08.2019 г: [Ваканции 2019/2020 (PDF)](https://www.mon.bg/nfs/2019/08/zap_grafik_2019_2020.pdf)
++ Заповед № РД09-2047/28.08.2023 г.: [Ваканции 2023/2024 (PDF)](https://www.mon.bg/nfs/2023/09/zap2047_uchebno-vreme_01092023.pdf)
++ Заповед № РД09-4066/30.08.2022 г.: [Ваканции 2022/2023 (PDF)](https://www.mon.bg/nfs/2022/09/zap4066_grafik_01092022.pdf)
++ Заповед № РД09-1474/24.01.2022 г.: [Ваканции 2021/2022 - Промени (PDF)](https://www.mon.bg/nfs/2022/09/zap4066_grafik_01092022.pdf)
++ Заповед № РД09-1804/31.08.2021 г.: [Ваканции 2021/2022 (PDF)](https://www.mon.bg/nfs/2021/08/zap1804_grafik-uchebno-vreme_310821.pdf)
++ Заповед № РД09-3472/27.11.2020 г.: [Ваканции 2020/2021 - Промени (PDF)](https://www.mon.bg/nfs/2020/11/zap3472_izmzap-grafik_30112020.pdf)
++ Заповед № РД09-2118/28.08.2020 г.: [Ваканции 2020/2021 (PDF)](https://www.mon.bg/nfs/2020/08/zap2118-grafik-28082020.pdf
++ Заповед № РД09-2148/27.08.2019 г.: [Ваканции 2019/2020 (PDF)](https://www.mon.bg/nfs/2019/08/zap_grafik_2019_2020.pdf)
 
 ## Croatia
 
@@ -177,9 +178,12 @@ Source:
 
 The school holidays are determined centrally by the Ministry of Education and Research.
 
-Source:
+Sources:
 
 + eesti.ee: [National, public and school holidays](https://www.eesti.ee/en/republic-of-estonia/republic-of-estonia/national-public-and-school-holidays)
++ [2024/2025., 2025/2026. ja 2026/2027. õppeaasta koolivaheajad](https://www.riigiteataja.ee/akt/128112023015)
++ [2021/2022., 2022/2023. ja 2023/2024. õppeaasta koolivaheajad](https://www.riigiteataja.ee/akt/110092020003)
++ [2018/2019., 2019/2020. ja 2020/2021. õppeaasta koolivaheajad](https://www.riigiteataja.ee/akt/108122017011)
 
 ## France
 
@@ -420,9 +424,9 @@ Sources:
 
 + [Agreement between the Government of Malta and the Malta Union of Teachers](https://upe.mt/wp-content/uploads/2021/03/Sectoral-Agreement.pdf)
 + [Clarification regarding public holidays falling during a weekend](https://mut.org.mt/clarification-regarding-public-holidays-falling-during-a-weekend/)
-+ [SCHOOL CALENDAR 2021/2022](https://upe.mt/school-calendar-2021-2022/)
-+ [SCHOOL CALENDAR 2022/2023](https://upe.mt/school-calendar-2022-2023/)
 + [SCHOOL CALENDAR 2023/2024](https://upe.mt/school-calendar-2023-2024/)
++ [SCHOOL CALENDAR 2022/2023](https://upe.mt/school-calendar-2022-2023/)
++ [SCHOOL CALENDAR 2021/2022](https://upe.mt/school-calendar-2021-2022/)
 
 ## Monaco
 
