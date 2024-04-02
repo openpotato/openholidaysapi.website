@@ -83,11 +83,13 @@ Die Schulferien werden zentral vom Ministerium für Bildung und Wissenschaft fes
 
 Quellen:
 
-+ Министерство на образованието и науката: [Ваканции](https://www.mon.bg/bg/56)
-+ Министерство на образованието и науката: [Ваканции 2023/2024 (PDF)](https://web.mon.bg/upload/37060/grafik-uchebno-vreme_2023-2024_18072023.pdf)
-+ Министерство на образованието и науката: [Ваканции 2022/2023 (PDF)](https://web.mon.bg/upload/32441/grafik-uchebnovreme-22-23-240722.pdf)
-+ Министерство на образованието и науката: [Ваканции 2021/2022 (PDF)](https://web.mon.bg/upload/27600/zap1804_grafik-uchebno-vreme_310821.pdf)
-+ Министерство на образованието и науката: [Ваканции 2020/2021 (PDF)](https://web.mon.bg/upload/24572/zap3472_izmZap-grafik_30112020.pdf)
++ Министерство на образованието и науката: [Ваканции](https://www.mon.bg/dyasno-menyu/vakantsii/)
++ Заповед № РД09-2047/28.08.2023 г: [Ваканции 2023/2024 (PDF)](https://www.mon.bg/nfs/2023/09/zap2047_uchebno-vreme_01092023.pdf)
++ Заповед № РД09-4066/30.08.2022 г: [Ваканции 2022/2023 (PDF)](https://www.mon.bg/nfs/2022/09/zap4066_grafik_01092022.pdf)
++ Заповед № РД09-1474/24.01.2022 г: [COVID-19 (PDF)](https://www.mon.bg/nfs/2022/09/zap4066_grafik_01092022.pdf)
++ Заповед № РД09-1804/31.08.2021 г: [Ваканции 2021/2022 (PDF)](https://www.mon.bg/nfs/2021/08/zap1804_grafik-uchebno-vreme_310821.pdf)
++ Заповед № РД09-3472/27.11.2020 г: [Ваканции 2020/2021 (PDF)](https://www.mon.bg/nfs/2020/11/zap3472_izmzap-grafik_30112020.pdf)
++ Заповед № РД09-2148/27.08.2019 г: [Ваканции 2019/2020 (PDF)](https://www.mon.bg/nfs/2019/08/zap_grafik_2019_2020.pdf)
 
 ## Deutschland
 
@@ -302,10 +304,11 @@ Quelle:
 
 Die Schulferien werden zentral vom Ministerium für Bildung, Wissenschaft und Sport festgelegt.
 
-Quelle:
+Quellen:
 
-+ Lietuvos Respublikos švietimo, mokslo ir sporto ministerija: [Dėl 2023–2024 ir 2024–2025 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrųjų ugdymo planų patvirtinimo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/ca29f721e2d611eda305cb3bdf2af4d8/asr)
-+ Lietuvos Respublikos švietimo, mokslo ir sporto ministerija: [Dėl 2021–2022 ir 2022–2023 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrųjų ugdymo planų patvirtinimo](https://www.e-tar.lt/portal/lt/legalAct/f0828f70abe911eb8bc8b1cdd5d7f785/asr)
++ [Dėl 2023–2024 ir 2024–2025 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrųjų ugdymo planų patvirtinimo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/ca29f721e2d611eda305cb3bdf2af4d8/asr)
++ [Dėl 2021–2022 ir 2022–2023 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrųjų ugdymo planų patvirtinimo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/fbb37630ac4711eba6328c92adabc234/asr)
++ [Dėl 2019–2020 ir 2020–2021 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrųjų ugdymo planų patvirtinimo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/de64d4615fb511e99684a7f33a9827ac/asr)
 
 ## Luxemburg
 
@@ -323,7 +326,7 @@ Der Schuljahresbeginn und die Verteilung der Ferien auf das Schuljahr werden dur
 
 Quellen:
 
-+ Guichet.lu: [Schulferienkalender](https://guichet.public.lu/de/citoyens/outils/calendrier-scolaire.html)
++ Ministère de l'Éducation nationale, de l'Enfance et de la Jeunesse: [Schulferienkalender](https://men.public.lu/fr/vacances-scolaires.html)
 + Le gouvernement luxembourgeois: [Règlement grand-ducal du 14 juin 2021](http://data.legilux.public.lu/eli/etat/leg/rgd/2021/06/14/a452/jo)
 + Le gouvernement luxembourgeois: [Règlement grand-ducal du 2 septembre 2020](http://data.legilux.public.lu/eli/etat/leg/rgd/2020/09/02/a736/jo)
 
@@ -416,7 +419,7 @@ Polen ist in 16 Provinzen (województwo) unterteilt. Alle Provinzen haben die gl
 
 Quelle:
 
-+ Ministerstwo Edukacji i Nauki: [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja-i-nauka/kalendarz-roku-szkolnego)
++ Ministerstwo Edukacji i Nauki: [Kalendarz roku szkolnego](https://www.gov.pl/web/edukacja/kalendarz-roku-szkolnego)
 
 ## Portugal
 
@@ -568,9 +571,17 @@ Quelle:
 
 Die Herbstferien, Weihnachtsferien, Semesterferien, Osterferien und Sommerferien sind für alle Regionen (kraje) gleich. Lediglich die Frühjahrsferien unterscheiden sich regional. Dafür werden alle tschechischen Bezirke (okresy) in sechs Gruppen eingeteilt, die jedes Jahr anders zeitlich sequentiell hintereinander gestaffelt werden.
 
-Quelle:
+Quellen:
 
-+ Ministerstvo školství, mládeže a tělovýchovy: [Organizace školního roku](https://www.msmt.cz/vzdelavani/organizace-skolniho-roku-prazdniny)
++ [Organizace školního roku](https://www.msmt.cz/vzdelavani/organizace-skolniho-roku-prazdniny)
++ [Organizace školního roku 2027/2028 (PDF)](https://www.msmt.cz/uploads/O201/Organizace_skolniho_roku_2027_2028lv.pdf)
++ [Organizace školního roku 2026/2027 (PDF)](https://www.msmt.cz/uploads/O201/Organizace_skolniho_roku_2026_2027.pdf)
++ [Organizace školního roku 2025/2026 (PDF)](https://www.msmt.cz/uploads/O201/Organizace_skolniho_roku_2025_2026.pdf)
++ [Organizace školního roku 2024/2025 (PDF)](https://www.msmt.cz/uploads/O201/Organizace_skolniho_roku_2024_2025.pdf)
++ [Organizace školního roku 2023/2024 (PDF)](https://www.msmt.cz/uploads/O201/Organizace_skolniho_roku_2023_2024final.pdf)
++ [Organizace školního roku 2022/2023 (PDF)](https://www.msmt.cz/uploads/O201/Organizace_skolniho_roku_2022_2023.pdf)
++ [Organizace školního roku 2020/2021 (PDF)](https://www.msmt.cz/uploads/O_200/Organizace_skolniho_roku/Organizace_skolniho_roku_2020_2021.pdf)
++ [Organizace školního roku 2019/2020 (PDF)](https://www.msmt.cz/uploads/O_200/Organizace_skolniho_roku/Organizace_skolniho_roku_2019_2020.pdf)
 
 ## Ungarn
 
@@ -588,7 +599,7 @@ Die Schulferien werden zentral durch Regierungsverordnungen festgelegt.
 
 Quellen:
 
-+ [2023/2024 tanév rendjéről szóló BM rendelet tervezet](https://kormany.hu/dokumentumtar/2023-2024-tanev-rendjerol-szolo-bm-rendelet-tervezet)
++ [30/2023. (VIII. 22.) BM rendelet a 2023/2024. tanév rendjéről](https://njt.hu/eli/R/2023/BM/30)
 + [22/2022. (VII. 29.) BM rendelet a 2022/2023. tanév rendjéről](https://njt.hu/eli/R/2022/BM/22)
 + [20/2021. (VI. 8.) EMMI rendelet a 2021/2022. tanév rendjéről](https://njt.hu/eli/R/2021/EMMI/20)
 + [27/2020. (VIII. 11.) EMMI rendelet a 2020/2021. tanév rendjéről](https://njt.hu/eli/R/2020/EMMI/27)
