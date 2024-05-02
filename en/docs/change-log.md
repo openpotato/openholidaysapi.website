@@ -1,12 +1,23 @@
 ## OpenHolidays API Data
 
+### 0.0.20 <small>_ May 02, 2024</small>
+
+- Added holidays for Spain
+- Added school holidays for Corsica (France)
+- Added Augsburg Peace Festival for Bavaria (Germany)
+- Added more school holidays for Belgium
+- Added additional COVID-19 holidays in 2020/2021 for Bulgaria
+- New school holidays until 2026/2027 added for Latvia
+- Refactoring of school holidays for Liechtenstein
+- Bug fixes
+
 ### 0.0.19 <small>_ March 31, 2024</small>
 
 - Added holidays for Andorra
-- Added school holidays for 2025/2026 for Luxembourg
-- Added school holidays for 2024/2025 for San Marino
-- Added school holidays for 2024/2025 for Estonia
-- Added school holidays for 2024/2025 for Latvia
+- New school holidays until 2025/2026 added for Luxembourg
+- New school holidays until 2024/2025 added for San Marino
+- New school holidays until 2024/2025 added for Estonia
+- New school holidays until 2024/2025 added for Latvia
 - Bug fixes
 
 ### 0.0.18 <small>_ December 12, 2023</small>

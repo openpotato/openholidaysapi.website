@@ -1,5 +1,16 @@
 ## OpenHolidays API Data
 
+### 0.0.20 <small>_ 02. Mai 2024</small>
+
+- Feiertage/Schulferien für Spanien hinzugefügt
+- Schulferien für Korsika (Frankreich) hinzugefügt
+- Augsburger Friedensfest für Bayern (Deutschland) hinzugefügt
+- Zusätzliche Schulferien für Belgien hinzugefügt
+- Zusätzliche COVID-19-Schulferien in 2020/2021 für Bulgarien hinzugefügt
+- Neue Schulferien bis 2026/2027 für Lettland hinzugefügt
+- Refactoring der Schulferien für Liechtenstein
+- Fehlerkorrekturen
+
 ### 0.0.19 <small>_ 31. März 2024</small>
 
 - Feiertage/Schulferien für Andorra hinzugefügt
