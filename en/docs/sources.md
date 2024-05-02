@@ -197,18 +197,24 @@ Source:
 
 <h3>School Holidays</h3>
 
-School holidays are determined centrally by the French Ministry of Education. France is divided into three holiday zones A, B and C, which are not based on administrative boundaries but rather on population density.
+School holidays are determined centrally by the French Ministry of Education. France is divided into three holiday zones A, B and C, which are not based on administrative boundaries but rather on population density. A fourth zone is formed by the Mediterranean island of Corsica, whose local administration can adjust the school holidays by decree.
 
 Sources:
 
-+ Ministère de l'Education Nationale et de la Jeunesse: [Calendrier scolaire](https://www.education.gouv.fr/calendrier-scolaire)
-+ Ministère de l'Education Nationale et de la Jeunesse: [Calendrier scolaire 2025-2026 (PDF)](https://www.education.gouv.fr/media/119770/download)
-+ Ministère de l'Education Nationale et de la Jeunesse: [Calendrier scolaire 2024-2025 (PDF)](https://www.education.gouv.fr/media/119767/download)
-+ Ministère de l'Education Nationale et de la Jeunesse: [Calendrier scolaire 2023-2024 (PDF)](https://www.education.gouv.fr/media/119692/download)
-+ Ministère de l'Education Nationale et de la Jeunesse: [Calendrier scolaire 2022-2023 (PDF)](https://www.education.gouv.fr/media/91418/download)
-+ Ministère de l'Education Nationale et de la Jeunesse: [Calendrier scolaire 2021-2022 (PDF)](https://www.education.gouv.fr/media/74054/download)
-+ Ministère de l'Education Nationale et de la Jeunesse: [Calendrier scolaire 2020-2021 (PDF)](https://www.education.gouv.fr/media/51786/download)
-+ Ministère de l'Education Nationale et de la Jeunesse: [Calendrier scolaire 2019-2020 (PDF)](https://www.education.gouv.fr/media/44402/download)
++ Ministère de l'Education Nationale et de la Jeunesse
+
+    + [Calendrier scolaire](https://www.education.gouv.fr/calendrier-scolaire)
+    + [Calendrier scolaire 2025-2026 (PDF)](https://www.education.gouv.fr/media/119770/download)
+    + [Calendrier scolaire 2024-2025 (PDF)](https://www.education.gouv.fr/media/119767/download)
+    + [Calendrier scolaire 2023-2024 (PDF)](https://www.education.gouv.fr/media/119692/download)
+    + [Calendrier scolaire 2022-2023 (PDF)](https://www.education.gouv.fr/media/91418/download)
+    + [Calendrier scolaire 2021-2022 (PDF)](https://www.education.gouv.fr/media/74054/download)
+    + [Calendrier scolaire 2020-2021 (PDF)](https://www.education.gouv.fr/media/51786/download)
+    + [Calendrier scolaire 2019-2020 (PDF)](https://www.education.gouv.fr/media/44402/download)
+
++ Académie de Corse
+
+    + [Calendrier scolaire](https://www.ac-corse.fr/calendrier-scolaire-122048)
 
 ## Germany
 
