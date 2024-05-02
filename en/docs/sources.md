@@ -103,6 +103,8 @@ Source:
 
 <h3>School Holidays</h3>
 
+2018-2021 - õppeaasta koolivaheajad
+
 The school holidays are set centrally by the Ministry of Education and Science. The spring holidays and the summer holidays differ depending on the grade level. The school year always starts on September 15.
 
 Sources:
@@ -475,15 +477,21 @@ Source:
 
 <h3>School Holidays</h3>
 
-The school holidays in the Netherlands are divided into three regions. They are the North, Central and South regions. The holiday spread is intended to reduce the holiday rush during the school holidays.
+Every year, the Ministry of Education, Culture and Science sets mandatory dates for three school holidays (Christmas holidays, summer holidays and days off in May). Primary and secondary schools must adhere to these dates. The dates for the autumn and spring holidays are recommendations from which schools can deviate in individual cases. Schools can also schedule additional days off.
+
+The school holidays are divided into three regions. They are the North, Central and South regions. The holiday spread is intended to reduce the holiday rush during the school holidays.
 
 Sources:
 
++ Rijksoverheid: [Open data schoolvakanties gebruiken](https://www.rijksoverheid.nl/opendata/schoolvakanties)
++ Rijksoverheid: [Voorlopig overzicht schoolvakanties 2029-2030](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2029-2030)
++ Rijksoverheid: [Voorlopig overzicht schoolvakanties 2028-2029](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2028-2029)
++ Rijksoverheid: [Voorlopig overzicht schoolvakanties 2027-2028](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2027-2028)
++ Rijksoverheid: [Voorlopig overzicht schoolvakanties 2026-2027](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2026-2027)
 + Rijksoverheid: [Voorlopig overzicht schoolvakanties 2025-2026](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2025-2026)
 + Rijksoverheid: [Overzicht schoolvakanties 2024-2025](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2024-2025)
 + Rijksoverheid: [Overzicht schoolvakanties 2023-2024](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2023-2024)
 + Rijksoverheid: [Overzicht schoolvakanties 2022-2023](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2022-2023)
-+ Rijksoverheid: [Overzicht schoolvakanties 2021-2022](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2021-2022)
 
 ## Poland
 
