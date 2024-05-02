@@ -403,10 +403,13 @@ Quelle:
 
 <h3>Schulferien</h3>
 
-Das Ministerium für Bildung, Kultur und Wissenschaft legt jedes Jahr obligatorische Termine für drei Schulferien (Weihnachtsferien, Sommerferien und freie Tage im Mai) fest. Grund- und weiterführende Schulen müssen diese Termine einhalten. Die Termine für Herbstferien und Frühlingsferien sind Empfehlungen, von denen Schulen im Einzelfall abweichen können. Schulen können zudem zusätzliche freie Tage einplanen.
+Das Ministerium für Bildung, Kultur und Wissenschaft legt jedes Jahr obligatorische Termine für drei Schulferien (Weihnachtsferien, Sommerferien und freie Tage im Mai) fest. Grund- und weiterführende Schulen müssen diese Termine einhalten. Die Termine für Herbstferien und Frühlingsferien sind Empfehlungen, von denen Schulen im Einzelfall abweichen können. Schulen können zudem zusätzliche freie Tage einplanen. 
+
+Die Schulferien werden auf drei Regionen verteilt. Es sind die Regionen Nord, Mitte und Süd. Die Ferienspreizung soll den Ferienandrang während der Schulferien reduzieren.
 
 Quellen:
 
++ Rijksoverheid: [Open data schoolvakanties gebruiken](https://www.rijksoverheid.nl/opendata/schoolvakanties)
 + Rijksoverheid: [Voorlopig overzicht schoolvakanties 2029-2030](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2029-2030)
 + Rijksoverheid: [Voorlopig overzicht schoolvakanties 2028-2029](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2028-2029)
 + Rijksoverheid: [Voorlopig overzicht schoolvakanties 2027-2028](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2027-2028)
@@ -415,7 +418,6 @@ Quellen:
 + Rijksoverheid: [Overzicht schoolvakanties 2024-2025](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2024-2025)
 + Rijksoverheid: [Overzicht schoolvakanties 2023-2024](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2023-2024)
 + Rijksoverheid: [Overzicht schoolvakanties 2022-2023](https://www.rijksoverheid.nl/onderwerpen/schoolvakanties/overzicht-schoolvakanties-per-schooljaar/overzicht-schoolvakanties-2022-2023)
-+ Rijksoverheid: [Open data schoolvakanties gebruiken](https://www.rijksoverheid.nl/opendata/schoolvakanties)
 
 ## Polen
 
