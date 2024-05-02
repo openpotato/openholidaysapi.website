@@ -25,6 +25,7 @@
 + San Marino (public holidays and school holidays from 2020)
 + Slovakia (public holidays and school holidays from 2020)
 + Slovenia (public holidays and school holidays from 2020)
++ Spain (public holidays and school holidays from 2020)
 + Switzerland (public holidays and school holidays from 2020)
 + Vatican City (public holidays from 2020)
 

@@ -23,6 +23,7 @@
 + Schweiz (Feiertage und Schulferien ab 2020)
 + Slowakei (Feiertage und Schulferien ab 2020)
 + Slowenien (Feiertage und Schulferien ab 2020)
++ Spanien (Feiertage und Schulferien ab 2020)
 + Tschechien (Feiertage und Schulferien ab 2020)
 + Ungarn (Feiertage und Schulferien ab 2020)
 + Vatikanstadt (Feiertage ab 2020)
