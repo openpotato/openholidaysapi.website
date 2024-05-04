@@ -63,11 +63,11 @@ Die Schulferien werden zentral vom Ministerium für Bildung festgelegt. Die Somm
 
 Quellen:
 
-+ BelTA [Школьные каникулы в 2019/2020 учебном году](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20192020-uchebnom-godu-20479)
-+ BelTA [Школьные каникулы в 2020/2021 учебном году](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20202021-uchebnom-godu-22004)
-+ BelTA [Школьные каникулы в 2021/2022 учебном году](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20212022-uchebnom-godu-26083/)
-+ BelTA [Школьные каникулы в 2022/2023 учебном году](https://www.belta.by/infographica/view/20222023-uchebnyj-god-grafik-organizatsii-uchebnogo-protsessa-i-kanikul-30248)
 + BelTA [Школьные каникулы в 2023/2024 учебном году](https://www.belta.by/infographica/view/20232024-uchebnyj-god-grafik-organizatsii-uchebnogo-protsessa-i-kanikul-34915/)
++ BelTA [Школьные каникулы в 2022/2023 учебном году](https://www.belta.by/infographica/view/20222023-uchebnyj-god-grafik-organizatsii-uchebnogo-protsessa-i-kanikul-30248)
++ BelTA [Школьные каникулы в 2021/2022 учебном году](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20212022-uchebnom-godu-26083/)
++ BelTA [Школьные каникулы в 2020/2021 учебном году](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20202021-uchebnom-godu-22004)
++ BelTA [Школьные каникулы в 2019/2020 учебном году](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20192020-uchebnom-godu-20479)
 
 ## Belgien
 
