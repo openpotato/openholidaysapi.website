@@ -125,8 +125,6 @@ Source:
 
 <h3>School Holidays</h3>
 
-2018-2021 - õppeaasta koolivaheajad
-
 The school holidays are set centrally by the Ministry of Education and Science. The spring holidays and the summer holidays differ depending on the grade level. The school year always starts on September 15.
 
 Sources:
