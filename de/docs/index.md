@@ -2,6 +2,7 @@
 
 + Albanien (Feiertage und Schulferien ab 2020)
 + Andorra (Feiertage und Schulferien ab 2020)
++ Belarus (Feiertage und Schulferien ab 2020)
 + Belgien (Feiertage und Schulferien ab 2020)
 + Bulgarien (Feiertage und Schulferien ab 2020)
 + Deutschland (Feiertage und Schulferien ab 2020)

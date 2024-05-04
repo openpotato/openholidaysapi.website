@@ -47,6 +47,28 @@ Quellen:
 + [S'aproven els calendaris de vacances escolars per als propers cursos 2021-2022 i 2022-2023](https://www.govern.ad/educacio-i-ensenyament-superior/item/12245-s-aproven-els-calendaris-de-vacances-escolars-per-als-propers-cursos-2021-2022-i-2022-2023)
 + [S'aproven els calendaris de vacances escolars per als propers cursos 2019-2020 i 2020-2021](https://www.govern.ad/educacio-i-ensenyament-superior/item/9947-s-aproven-els-calendaris-de-vacances-escolars-per-als-propers-cursos-2019-2020-i-2020-2021)
 
+## Belarus
+
+<h3>Feiertage</h3>
+
+Belarus hat 10 offizielle, arbeitsfreie Tage. 
+
+Quelle:
+
++ [National and Public Holidays and Commemorative Dates](https://president.gov.by/en/gosudarstvo/prazdniki)
+
+<h3>Schulferien</h3>
+
+Die Schulferien werden zentral vom Ministerium für Bildung festgelegt. Die Sommerferien sind stets vom 1. Juni bis zum 31. August.
+
+Quellen:
+
++ BelTA [Школьные каникулы в 2019/2020 учебном году](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20192020-uchebnom-godu-20479)
++ BelTA [Школьные каникулы в 2020/2021 учебном году](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20202021-uchebnom-godu-22004)
++ BelTA [Школьные каникулы в 2021/2022 учебном году](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20212022-uchebnom-godu-26083/)
++ BelTA [Школьные каникулы в 2022/2023 учебном году](https://www.belta.by/infographica/view/20222023-uchebnyj-god-grafik-organizatsii-uchebnogo-protsessa-i-kanikul-30248)
++ BelTA [Школьные каникулы в 2023/2024 учебном году](https://www.belta.by/infographica/view/20232024-uchebnyj-god-grafik-organizatsii-uchebnogo-protsessa-i-kanikul-34915/)
+
 ## Belgien
 
 <h3>Feiertage</h3>

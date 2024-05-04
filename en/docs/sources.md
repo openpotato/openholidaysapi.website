@@ -71,6 +71,28 @@ Sources:
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2020/2021](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_20_21.html) 
 + Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2019/2020](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_19_20.html)
 
+## Belarus
+
+<h3>Public Holidays</h3>
+
+Belarus has 10 official non-working days. 
+
+Source:
+
++ [National and Public Holidays and Commemorative Dates](https://president.gov.by/en/gosudarstvo/prazdniki)
+
+<h3>School Holidays</h3>
+
+The school holidays are determined centrally by the Ministry of Education. The summer holidays are always from 1 June to 31 August.
+
+Sources:
+
++ BelTA [Школьные каникулы в 2019/2020 учебном году](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20192020-uchebnom-godu-20479)
++ BelTA [Школьные каникулы в 2020/2021 учебном году](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20202021-uchebnom-godu-22004)
++ BelTA [Школьные каникулы в 2021/2022 учебном году](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20212022-uchebnom-godu-26083/)
++ BelTA [Школьные каникулы в 2022/2023 учебном году](https://www.belta.by/infographica/view/20222023-uchebnyj-god-grafik-organizatsii-uchebnogo-protsessa-i-kanikul-30248)
++ BelTA [Школьные каникулы в 2023/2024 учебном году](https://www.belta.by/infographica/view/20232024-uchebnyj-god-grafik-organizatsii-uchebnogo-protsessa-i-kanikul-34915/)
+
 ## Belgium
 
 <h3>Public Holidays</h3>
