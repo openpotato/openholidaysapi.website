@@ -384,6 +384,29 @@ Quellen:
 + [SCHOOL CALENDAR 2022/2023](https://upe.mt/school-calendar-2022-2023/)
 + [SCHOOL CALENDAR 2021/2022](https://upe.mt/school-calendar-2021-2022/)
 
+## Moldau
+
+<h3>Feiertage</h3>
+
+Die Republik Moldau hat 12 gesetzliche Feiertage, die arbeits- und schulfrei sind. 
+
+Quelle:
+
++ [Hotărârii Parlamentului Nr. 433 din 26.12.1990](http://lex.justice.md/viewdoc.php?action=view&view=doc&id=306859&lang=1)
+
+<h3>Schulferien</h3>
+
+Die Ferientermine werden jährlich durch das Ministerium für Bildung und Forschung festgelegt.
+
+Quellen:
+
++ [Planul-cadru 2024-2025 (PDF)](https://mecc.gov.md/sites/default/files/ordinul_mec_cu_privire_la_planul_cadru_pentru_2024-2025ro.pdf)
++ [Planul-cadru 2023-2024 (PDF)](https://mecc.gov.md/sites/default/files/ordin_si_plan_cadru_2023-2024_aprobat_si_plasat_pe_site.pdf)
++ [Planul-cadru 2022-2023 (PDF)](https://mecc.gov.md/sites/default/files/ordin_mec_nr_123_din_28.02.2022_plan-cadru_2022-2023.pdf)
++ [Planul-cadru 2021-2022 (PDF)](https://mecc.gov.md/sites/default/files/_plan-cadru_2021-2022_pt_siteul_mecc_plasat_la_20.04.2021.pdf)
++ [Planul-cadru 2020-2021 (PDF)](https://mecc.gov.md/sites/default/files/plan-cadru_2020-21.pdf)
++ [Planul-cadru 2019-2020 (PDF)](https://mecc.gov.md/sites/default/files/plan-cadru_2019-2020_web_sait.pdf)
+
 ## Monaco
 
 <h3>Feiertage</h3>
@@ -484,6 +507,29 @@ Quellen:
 + 2021/2022 - [Despacho n.º 12123-M/2021](https://diariodarepublica.pt/dr/detalhe/despacho/12123-m-2021-175816929)
 + 2020/2021 - [Despacho n.º 1689-A/2021](https://diariodarepublica.pt/dr/detalhe/despacho/1689-a-2021-157360559)
 + 2019/2020 - [Despacho n.º 5754-A/2019](https://diariodarepublica.pt/dr/detalhe/despacho/5754-a-2019-122609690)
+
+## Rumänien
+
+<h3>Feiertage</h3>
+
+Rumänien hat 14 gesetzliche Feiertage, die arbeits- und schulfrei sind. 
+
+Quelle:
+
++ [CODUL MUNCII din 24 ianuarie 2003 (Legea nr. 53/2003)](https://legislatie.just.ro/Public/DetaliiDocument/128647)
+
+<h3>Schulferien</h3>
+
+Die Ferientermine werden jährlich durch das Ministerium für nationale Bildung festgelegt. Seit dem Schuljahr 2022/2023 können jedoch die Kreise bzw. die Gemeinde Bukarest einwöchige, regionale Skiferien im Zeitraum Februar/März festlegen.
+
+Quellen:
+
++ [Privind structura anului școlar 2024-2025 (PDF)](https://www.edu.ro/sites/default/files/proiect_ordin_structura_an_scolar_24_25.pdf)
++ [Privind structura anului școlar 2023-2024 (PDF)](https://www.edu.ro/sites/default/files/Proiect_ordin_structura_an_scolar_2023_2024.pdf)
++ [Privind structura anului școlar 2022-2023 (PDF)](https://cdn.edupedu.ro/wp-content/uploads/2022/04/ordin_structura-an-scolar-2022-2023.pdf)
++ [Privind structura anului școlar 2021-2022 (PDF)](https://cdn.edupedu.ro/wp-content/uploads/2021/11/ordin-Structura-anului-Scolar.pdf)
++ [Privind structura anului școlar 2020-2021 (PDF)](https://www.edu.ro/sites/default/files/_fi%C8%99iere/Legislatie/2021/OM_3558.pdf)
++ [Privind structura anului școlar 2019-2020 (PDF)](https://www.edu.ro/sites/default/files/OMEN%203191-20.02.2019_Structura%20anului%20scolar%202019-2020.pdf)
 
 ## San Marino
 
