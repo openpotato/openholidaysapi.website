@@ -440,11 +440,12 @@ Quellen:
 
 <h3>Feiertage</h3>
 
-Die Niederlande hat 11 offizielle Feiertage, die landesweit gelten.
+Die Niederlande hat 11 offizielle Feiertage, die landesweit gelten. Der Königstag ist der Nationalfeiertag, an dem der Geburtstag des  Königs (aktuell der 27. April) gefeiert wird. Fällt dieser auf einen Sonntag, wird der Königstag am Vortag gefeiert.
 
-Quelle:
+Quellen:
 
 + Rijksoverheid: [Wanneer zijn de officiële feestdagen in Nederland?](https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/officiele-feestdagen)
++ Het Koninklijk Huis: [Koningsdag](https://www.koninklijkhuis.nl/onderwerpen/koningsdag)
 
 <h3>Schulferien</h3>
 

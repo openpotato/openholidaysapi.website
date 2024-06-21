@@ -512,11 +512,12 @@ Sources:
 
 <h3>Public Holidays</h3>
 
-The Netherlands has 11 official holidays that apply nationwide.
+The Netherlands has 11 official holidays that apply nationwide. King's Day is a national holiday on which the king's birthday (currently 27 April) is celebrated. If this falls on a Sunday, King's Day is celebrated the day before.
 
-Source:
+Sources:
 
 + Rijksoverheid: [Wanneer zijn de officiële feestdagen in Nederland?](https://www.rijksoverheid.nl/onderwerpen/arbeidsovereenkomst-en-cao/vraag-en-antwoord/officiele-feestdagen)
++ Het Koninklijk Huis: [Koningsdag](https://www.koninklijkhuis.nl/onderwerpen/koningsdag)
 
 <h3>School Holidays</h3>
 
