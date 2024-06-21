@@ -54,11 +54,11 @@ extra:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/openpotatis
   alternate:
-    - name: English
-      link: /en/
-      lang: en
     - name: Deutsch
+      link: /de/
       lang: de
+    - name: English
+      lang: en
 
 # Customization
 extra_css:
