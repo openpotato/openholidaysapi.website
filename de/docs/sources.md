@@ -506,7 +506,8 @@ Die Schulferien werden zentral vom Bildungsministerium festgelegt.
 
 Quellen:
 
-+ 2022/2023 und 2023/2024 - [Despacho n.º 8356/2022](https://diariodarepublica.pt/dr/detalhe/despacho/8356-2022-185829850)
++ 2024/2025 bis 2027/2028 - [Despacho n.º 8368/2024](https://diariodarepublica.pt/dr/detalhe/despacho/8368-2024-873447631)
++ 2022/2023 bis 2023/2024 - [Despacho n.º 8356/2022](https://diariodarepublica.pt/dr/detalhe/despacho/8356-2022-185829850)
 + 2021/2022 - [Despacho n.º 12123-M/2021](https://diariodarepublica.pt/dr/detalhe/despacho/12123-m-2021-175816929)
 + 2020/2021 - [Despacho n.º 1689-A/2021](https://diariodarepublica.pt/dr/detalhe/despacho/1689-a-2021-157360559)
 + 2019/2020 - [Despacho n.º 5754-A/2019](https://diariodarepublica.pt/dr/detalhe/despacho/5754-a-2019-122609690)
