@@ -105,7 +105,7 @@ Die Schulferien werden zentral vom Ministerium für Bildung und Wissenschaft fes
 Quellen:
 
 + Министерство на образованието и науката: [Ваканции](https://www.mon.bg/dyasno-menyu/vakantsii/)
-+ Заповед № РД09-2469/30.08.2024 г.: [Ваканции 2023/2024 (PDF)](https://www.mon.bg/nfs/2024/08/zap2469_uchebno-vreme_30082024.pdf)
++ Заповед № РД09-2469/30.08.2024 г.: [Ваканции 2024/2025 (PDF)](https://www.mon.bg/nfs/2024/08/zap2469_uchebno-vreme_30082024.pdf)
 + Заповед № РД09-2047/28.08.2023 г.: [Ваканции 2023/2024 (PDF)](https://www.mon.bg/nfs/2023/09/zap2047_uchebno-vreme_01092023.pdf)
 + Заповед № РД09-4066/30.08.2022 г.: [Ваканции 2022/2023 (PDF)](https://www.mon.bg/nfs/2022/09/zap4066_grafik_01092022.pdf)
 + Заповед № РД09-1474/24.01.2022 г.: [Ваканции 2021/2022 - Промени (PDF)](https://www.mon.bg/nfs/2022/09/zap4066_grafik_01092022.pdf)
@@ -381,7 +381,7 @@ Quellen:
 
 + [Agreement between the Government of Malta and the Malta Union of Teachers](https://upe.mt/wp-content/uploads/2021/03/Sectoral-Agreement.pdf)
 + [Clarification regarding public holidays falling during a weekend](https://mut.org.mt/clarification-regarding-public-holidays-falling-during-a-weekend/)
-+ [SCHOOL CALENDAR 2023/2024](https://upe.mt/school-calendar-2024-2025/)
++ [SCHOOL CALENDAR 2024/2025](https://upe.mt/school-calendar-2024-2025/)
 + [SCHOOL CALENDAR 2023/2024](https://upe.mt/school-calendar-2023-2024/)
 + [SCHOOL CALENDAR 2022/2023](https://upe.mt/school-calendar-2022-2023/)
 + [SCHOOL CALENDAR 2021/2022](https://upe.mt/school-calendar-2021-2022/)

@@ -129,7 +129,7 @@ The school holidays are set centrally by the Ministry of Education and Science. 
 Sources:
 
 + Министерство на образованието и науката: [Ваканции](https://www.mon.bg/dyasno-menyu/vakantsii/)
-+ Заповед № РД09-2469/30.08.2024 г.: [Ваканции 2023/2024 (PDF)](https://www.mon.bg/nfs/2024/08/zap2469_uchebno-vreme_30082024.pdf)
++ Заповед № РД09-2469/30.08.2024 г.: [Ваканции 2024/2025 (PDF)](https://www.mon.bg/nfs/2024/08/zap2469_uchebno-vreme_30082024.pdf)
 + Заповед № РД09-2047/28.08.2023 г.: [Ваканции 2023/2024 (PDF)](https://www.mon.bg/nfs/2023/09/zap2047_uchebno-vreme_01092023.pdf)
 + Заповед № РД09-4066/30.08.2022 г.: [Ваканции 2022/2023 (PDF)](https://www.mon.bg/nfs/2022/09/zap4066_grafik_01092022.pdf)
 + Заповед № РД09-1474/24.01.2022 г.: [Ваканции 2021/2022 - Промени (PDF)](https://www.mon.bg/nfs/2022/09/zap4066_grafik_01092022.pdf)
