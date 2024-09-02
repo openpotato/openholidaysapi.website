@@ -18,6 +18,7 @@ Die Schulferien für das jeweils nächste Schuljahr werden durch das Ministerium
 
 Quellen:
 
++ [Miratimi i strukturës së vitit shkollor 2024-2025 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdhrin-e-perbashket-nr-193-date-30-04-2024-te-ministrit-te-arsimit-dhe-sportit-dhe-ministrit-te-financave-dhe-ekonomise-per-miratimin-e-struktures-se-vitit-shkollor-2024-2025-ne-sistemin/)
 + [Miratimi i strukturës së vitit shkollor 2023-2024 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-191-date-20-4-2023-per-miratimin-e-struktures-se-vitit-shkollor-2023-2024-ne-sistemin-arsimor-parauniversitar/)
 + [Miratimi i strukturës së vitit shkollor 2022-2023 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-227-date-28-04-2022-per-miratimin-e-struktures-se-vitit-shkollor-2022-2023-ne-sistemin-arsimor-parauniversitar/)
 + [Miratimi i strukturës së vitit shkollor 2021-2022 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-300-date-25-08-2021-per-miratimin-e-struktures-se-vitit-shkollor-2021-2022-ne-sistemin-arsimor-parauniversitar/)
@@ -32,10 +33,7 @@ Andorra hat 14 offizielle Feiertage, die arbeits- und schulfrei sind. Zudem hat 
 
 Quellen:
 
-+ [S’aprova el calendari laboral per a l’any 2023](https://www.govern.ad/presidencia-economia-i-empresa/item/14927-s-aprova-el-calendari-laboral-per-a-l-any-2023)
-+ [S’aprova el calendari laboral per a l’any 2022](https://www.govern.ad/presidencia-economia-i-empresa/item/13419-s-aprova-el-calendari-laboral-per-a-l-any-2022-amb-14-dies-festius)
-+ [S’aprova el calendari laboral per a l’any 2021](https://www.govern.ad/presidencia-economia-i-empresa/item/12148-s-aprova-el-calendari-laboral-per-a-l-any-2021)
-+ [S'aprova el calendari laboral per a l'any 2020](https://www.govern.ad/presidencia-economia-i-empresa/item/10899-s-aprova-el-calendari-laboral-per-a-l-any-2020)
++ [Salari mínim i festius nacionals i parroquials](https://www.treball.ad/salari-minim-i-festius)
 
 <h3>Schulferien</h3>
 
@@ -63,6 +61,7 @@ Die Schulferien werden zentral vom Ministerium für Bildung festgelegt. Die Somm
 
 Quellen:
 
++ Министерство образования Республики: [2024/2025 учебный год](https://edu.gov.by/urovni-obrazovaniya/srenee-obr/srenee-obr/informatsiya/2024-2025-uchebnyy-god/)
 + BelTA [Школьные каникулы в 2023/2024 учебном году](https://www.belta.by/infographica/view/20232024-uchebnyj-god-grafik-organizatsii-uchebnogo-protsessa-i-kanikul-34915/)
 + BelTA [Школьные каникулы в 2022/2023 учебном году](https://www.belta.by/infographica/view/20222023-uchebnyj-god-grafik-organizatsii-uchebnogo-protsessa-i-kanikul-30248)
 + BelTA [Школьные каникулы в 2021/2022 учебном году](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20212022-uchebnom-godu-26083/)
@@ -106,6 +105,7 @@ Die Schulferien werden zentral vom Ministerium für Bildung und Wissenschaft fes
 Quellen:
 
 + Министерство на образованието и науката: [Ваканции](https://www.mon.bg/dyasno-menyu/vakantsii/)
++ Заповед № РД09-2469/30.08.2024 г.: [Ваканции 2023/2024 (PDF)](https://www.mon.bg/nfs/2024/08/zap2469_uchebno-vreme_30082024.pdf)
 + Заповед № РД09-2047/28.08.2023 г.: [Ваканции 2023/2024 (PDF)](https://www.mon.bg/nfs/2023/09/zap2047_uchebno-vreme_01092023.pdf)
 + Заповед № РД09-4066/30.08.2022 г.: [Ваканции 2022/2023 (PDF)](https://www.mon.bg/nfs/2022/09/zap4066_grafik_01092022.pdf)
 + Заповед № РД09-1474/24.01.2022 г.: [Ваканции 2021/2022 - Промени (PDF)](https://www.mon.bg/nfs/2022/09/zap4066_grafik_01092022.pdf)
@@ -276,6 +276,7 @@ Die Schulferien werden zentral vom Ministerium für Wissenschaft und Bildung fes
 
 Quellen:
 
++ Ministarstvo znanosti i obrazovanja: [školsku godinu 2024/2025](https://narodne-novine.nn.hr/eli/sluzbeni/2024/55/968)
 + Ministarstvo znanosti i obrazovanja: [školsku godinu 2023/2024](https://narodne-novine.nn.hr/eli/sluzbeni/2023/50/833)
 + Ministarstvo znanosti i obrazovanja: [školsku godinu 2022/2023](https://narodne-novine.nn.hr/eli/sluzbeni/2022/54/715)
 + Ministarstvo znanosti i obrazovanja: [školsku godinu 2021/2022](https://narodne-novine.nn.hr/eli/sluzbeni/2021/45/924)
@@ -380,6 +381,7 @@ Quellen:
 
 + [Agreement between the Government of Malta and the Malta Union of Teachers](https://upe.mt/wp-content/uploads/2021/03/Sectoral-Agreement.pdf)
 + [Clarification regarding public holidays falling during a weekend](https://mut.org.mt/clarification-regarding-public-holidays-falling-during-a-weekend/)
++ [SCHOOL CALENDAR 2023/2024](https://upe.mt/school-calendar-2024-2025/)
 + [SCHOOL CALENDAR 2023/2024](https://upe.mt/school-calendar-2023-2024/)
 + [SCHOOL CALENDAR 2022/2023](https://upe.mt/school-calendar-2022-2023/)
 + [SCHOOL CALENDAR 2021/2022](https://upe.mt/school-calendar-2021-2022/)
@@ -639,8 +641,8 @@ Die Herbstferien und Sommerferien sind für alle Schulen gleich. Die Winterferie
 
 Quellen:
 
-+ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za srednje šole](https://www.gov.si/teme/solski-koledar-za-srednje-sole/)
 + Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za osnovne šole](https://www.gov.si/teme/solski-koledar-za-osnovne-sole/)
++ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za srednje šole](https://www.gov.si/teme/solski-koledar-za-srednje-sole/)
 
 ## Spanien
 
@@ -1033,6 +1035,7 @@ Die Schulferien werden zentral durch Regierungsverordnungen festgelegt.
 
 Quellen:
 
++ [32/2024. (VIII. 8.) BM rendelet a 2024/2025. tanév rendjéről](https://njt.hu/eli/R/2024/BM/32)
 + [30/2023. (VIII. 22.) BM rendelet a 2023/2024. tanév rendjéről](https://njt.hu/eli/R/2023/BM/30)
 + [22/2022. (VII. 29.) BM rendelet a 2022/2023. tanév rendjéről](https://njt.hu/eli/R/2022/BM/22)
 + [20/2021. (VI. 8.) EMMI rendelet a 2021/2022. tanév rendjéről](https://njt.hu/eli/R/2021/EMMI/20)
