@@ -632,6 +632,24 @@ Sources:
 + [Decreto Delegato 9 luglio 2020 n.115 - Calendario Scolastico 2020-2021](https://www.consigliograndeegenerale.sm/on-line/home/scheda17169006.html)
 + [Decreto Delegato 22 maggio 2019 n.83 - Calendario Scolastico 2019-2020](https://www.consigliograndeegenerale.sm/on-line/home/scheda17163140.html)
 
+## Serbia
+
+<h3>Public Holidays</h3>
+
+Serbia has 9 public holidays that are free from work and school.
+
+Source:
+
++ [Државни и верски празници Републике Србије](https://www.minrzs.gov.rs/sr/ministarstvo/drzavni-i-verski-praznici-republike-srbije)
+
+<h3>School Holidays</h3>
+
+The school holidays for the next school year are determined annually by the Ministry of Education. A distinction is made between primary schools (Основна Школа) and post-primary schools (Средња Школа).
+
+Source:
+
++ [Школски Календар](https://prosveta.gov.rs/skolski-kalendar/)
+
 ## Slovakia
 
 <h3>Public Holidays</h3>

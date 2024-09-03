@@ -608,6 +608,24 @@ Quellen:
 + Zug: [Schulferien](https://www.zg.ch/behoerden/direktion-fur-bildung-und-kultur/amt-fur-gemeindliche-schulen/inhalte-ags/schulaufsicht/inhalte-schulaufsicht/schulferien)
 + Zürich: [Ferien und schulfreie Tage](https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulferien.html)
 
+## Serbien
+
+<h3>Feiertage</h3>
+
+Serbien hat 9 gesetzliche Feiertage, die arbeits- und schulfrei sind.
+
+Quelle:
+
++ [Државни и верски празници Републике Србије](https://www.minrzs.gov.rs/sr/ministarstvo/drzavni-i-verski-praznici-republike-srbije)
+
+<h3>Schulferien</h3>
+
+Die Schulferien für das jeweils nächste Schuljahr werden jährlich durch das Bildungsministerium festgelegt. Dabei wird zwischen Grundschulen (Основна Школа) und weiterführenden Schulen (Средња Школа) unterschieden.
+
+Quelle:
+
++ [Школски Календар](https://prosveta.gov.rs/skolski-kalendar/)
+
 ## Slowakei
 
 <h3>Feiertage</h3>

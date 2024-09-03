@@ -24,6 +24,7 @@
 + Rumänien (Feiertage und Schulferien ab 2020)
 + San Marino (Feiertage und Schulferien ab 2020)
 + Schweiz (Feiertage und Schulferien ab 2020)
++ Serbien (Feiertage und Schulferien ab 2020)
 + Slowakei (Feiertage und Schulferien ab 2020)
 + Slowenien (Feiertage und Schulferien ab 2020)
 + Spanien (Feiertage und Schulferien ab 2020)
