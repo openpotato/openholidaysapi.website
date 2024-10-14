@@ -1042,9 +1042,500 @@ Sources:
 
 In Switzerland, public holidays and days treated as public holidays, with the exception of 1 August, are determined by the cantons. New Year's Day, Ascension Day and Christmas Day are the only public holidays that all cantons have designated as public holidays.
 
-Source:
+<h4>Allgemein</h4>
+
+Die folgenden Quellen bieten einen guten Überblick über alle Kantone, sind aber zum Teil nicht mehr ganz aktuell bzw. unvollständig. Als Primärquelle dienen deshalb stets die Publikationen der einzelnen Kantone.
+
+Sources:
 
 + Bundesamt für Justiz: [Gesetzliche Feiertage und Tage, die in der Schweiz wie gesetzliche Feiertage behandelt werden (PDF)](https://www.bj.admin.ch/dam/bj/de/data/publiservice/service/zivilprozessrecht/kant-feiertage.pdf.download.pdf/kant-feiertage.pdf)
++ Staatssekretariat für Wirtschaft SECO: [Feiertage Schweiz (PDF)](https://www.seco.admin.ch/dam/seco/de/dokumente/Arbeit/Arbeitsbedingungen/Arbeitsgesetz%20und%20Verordnungen/Feiertage-Schweiz.pdf.download.pdf/Feiertage_2015_web_de.pdf)
+
+<h4>Canton Aargau<small>- CH-AG</small></h4>
+
+In the canton of Aargau, the following additional public holidays apply, depending on the district or municipality:
+
++ Berchtoldstag (2 January): Aarau, Baden (only municipality of Bergdietikon), Brugg, Kulm, Lenzburg, Zofingen, Zurzach
++ Good Friday: All districts
++ Easter Monday: Aarau, Baden, Brugg, Kulm, Lenzburg, Rheinfelden (only in the municipalities of Kaiseraugst, Magden, Möhlin, Olsberg, Rheinfelden, Wallbach, Zeiningen and Zuzgen), Zofingen
++ Whit Monday: Aarau, Baden, Brugg, Kulm, Lenzburg, Rheinfelden (only in the municipalities of Kaiseraugst, Magden, Möhlin, Olsberg, Rheinfelden, Wallbach, Zeiningen and Zuzgen), Zofingen
++ Corpus Christi: Baden (all municipalities except Bergdietikon), Bremgarten, Laufenburg, Muri, Rheinfelden (only in the municipalities of Hellikon, Mumpf, Obermumpf, Schupfart, Stein, Wegstetten), Zurzach
++ Assumption Day (15 August): Bremgarten, Laufenburg, Muri, Rheinfelden (only in the municipalities of Hellikon, Mumpf, Obermumpf, Schupfart, Stein, Wegstetten)
++ All Saints' Day (1 November): Bremgarten, Laufenburg, Muri, Rheinfelden, Zurzach
++ Conception of the Virgin Mary (8 December): Laufenburg, Muri, Rheinfelden (only in the municipalities of Hellikon, Mumpf, Obermumpf, Schupfart, Stein, Wegstetten)
++ St Stephen's Day (26 December): Aarau, Baden, Bremgarten, Brugg, Kulm, Lenzburg, Rheinfelden (only in the municipalities of Kaiseraugst, Magden, Möhlin, Olsberg, Rheinfelden, Wallbach, Zeiningen and Zuzgen), Zofingen, Zurzach
+
+Source:
+
++ [Gesetzliche Feiertage im Kanton Aargau (PDF)](https://www.ag.ch/media/kanton-aargau/dvi/dokumente/awa/awa/arbeitnehmerschutz-im-betrieb/feiertage.pdf)
+
+<h4>Canton Appenzell Ausserrhoden<small>- CH-AR</small></h4>
+
+The following additional public holidays apply in the canton of Appenzell Ausserrhoden:
+
++ Good Friday
++ Easter Monday
++ Whit Monday
++ St Stephen's Day (26 December): However, only if Christmas Day does not fall on a Monday or Friday.
+
+Source:
+
++ [bGS 822.11: Art. 7 - Feiertage](https://ar.clex.ch/app/de/texts_of_law/822.11)
+
+<h4>Canton Appenzell Innerrhoden<small>- CH-AI</small></h4>
+
+The following additional public holidays apply in the canton of Appenzell Innerrhoden:
+
++ Good Friday
++ Easter Monday
++ Whit Monday
++ Corpus Christi
++ Assumption Day (15 August)
++ St Maurice's Day (22 September): In all districts except Oberegg
++ All Saints' Day (1 November)
++ Conception of Mary (8 December)
++ St Stephen's Day (26 December): However, only if its celebration does not result in three consecutive days of rest.
+
+Source:
+
++ [GS 822.200: Art. 2 - Öffentliche Ruhetage und Feiertage](https://ai.clex.ch/app/de/texts_of_law/822.200)
+
+<h4>Canton Basel-Landschaft<small>- CH-BL</small></h4>
+
+The following additional public holidays apply in the canton of Basel-Landschaft:
+
++ Good Friday
++ Easter Sunday
++ Easter Monday
++ Labour Day (1 May)
++ Whit Sunday
++ Whit Monday
++ Federal Day of Thanksgiving, Repentance and Prayer
++ St Stephen's Day (26 December)
+
+The municipalities may determine further local public holidays.
+
+Source:
+
++ [SGS 547: $2 - Öffentliche Ruhetage](https://bl.clex.ch/app/de/texts_of_law/547)
+
+<h4>Canton Basel-Stadt<small>- CH-BS</small></h4>
+
+The following additional public holidays apply in the canton of Basel-Stadt:
+
++ Good Friday
++ Easter Sunday
++ Easter Monday
++ Labour Day (1 May)
++ Whit Sunday
++ Whit Monday
++ Federal Day of Thanksgiving, Repentance and Prayer
++ St Stephen's Day (26 December)
+
+Source:
+
++ [SG 811.100: $2 - Ruhetage](https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/811.100)
+
+<h4>Canton Bern<small>- CH-BE</small></h4>
+
+The following additional public holidays apply in the canton of Bern:
+
++ Berchtold's Day (2 January)
++ Good Friday
++ Easter Sunday
++ Easter Monday
++ Whit Sunday
++ Whit Monday
++ Federal Day of Thanksgiving, Repentance and Prayer
++ St Stephen's Day (26 December)
+Source:
+
++ [BSG 555.1: Art. 2](https://www.belex.sites.be.ch/app/de/texts_of_law/555.1)
+
+<h4>Canton Fribourg<small>- CH-FR</small></h4>
+
+The canton of Fribourg is divided into a Catholic and a Reformed part. Reformed municipalities are:
+
++ Courgevaux, Fräschels, Greng, Kerzers, Meyriez, Mont-Vully, Muntelier, Murten, Ried bei Kerzers, Ulmiz and the villages of Flamatt and Sensebrügg in the municipality of Wünnewil-Flamatt.
+
+The following additional public holidays apply in the Catholic municipalities:
+
++ Good Friday
++ Corpus Christi
++ Assumption Day (15 August)
++ All Saints' Day (1 November)
++ Conception of the Virgin Mary (8 December)
+
+The following additional public holidays apply in the Reformed parishes:
+
++ Berchtold's Day (2 January)
++ Good Friday
++ Easter Monday
++ Whit Monday
++ St Stephen's Day (26 December)
+Source:
+
++ Amt für den Arbeitsmarkt: [Feiertage](https://www.fr.ch/de/arbeit-und-unternehmen/arbeitnehmer/feiertage)
+
+<h4>Canton Geneva <small>- CH-GE</small></h4>
+
+The following additional public holidays apply in the canton of Geneva:
+
++ Berchtold's Day (2 January): but only if New Year's Day (1 January) falls on a Sunday
++ Good Friday
++ Easter Monday
++ Whit Monday
++ 2. August, if the bank holidays (1 August) falls on a Sunday
++ Geneva Day of Prayer
++ St Stephen's Day (26 December): However, only if Christmas (25 December) falls on a Sunday
++ Restoration of the Republic (31 December)
+
+Source:
+
++ [03.03.01 - Congés officiels (jours fériés) ou chômés](https://www.ge.ch/document/030301-conges-officiels-jours-feries-chomes)
+
+<h4>Canton Glarus <small>- CH-GL</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Glarus:
+
++ Näfelser Fahrt
++ Good Friday
++ Easter Monday
++ Easter Sunday
++ Whit Sunday
++ Whit Monday
++ Federal Day of Thanksgiving, Repentance and Prayer
++ All Saints' Day (1 November)
++ St Stephen's Day (26 December)
+
+Source:
+
++ [GS IX B/21/1 - Gesetz über die öffentlichen Ruhetage (Ruhetagsgesetz)](https://gesetze.gl.ch/app/de/texts_of_law/IX%20B%2F21%2F1)
+
+<h4>Canton Graubünden <small>- CH-GR</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Graubünden:
+
++ Good Friday
++ Easter Monday
++ Easter Sunday
++ Whit Sunday
++ Whit Monday
++ Federal Day of Thanksgiving, Repentance and Prayer
++ St Stephen's Day (26 December)
+
+The competent municipal authorities are also authorised to designate other religious holidays as local days of rest for their municipal area.
+
+Source:
+
++ [BR 520.100 - Gesetz über die öffentlichen Ruhetage (Ruhetagsgesetz)](https://www.gr-lex.gr.ch/app/de/texts_of_law/520.100)
+
+<h4>Canton Jura <small>- CH-JU</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Jura:
+
++ Berchtold's Day (2 January)
++ Good Friday
++ Easter Sunday
++ Easter Monday,
++ Labour Day (1 May)
++ Whit Sunday
++ Whit Monday
++ Corpus Christi,
++ Jura Independence Day (23 June)
++ Assumption Day (15 August)
++ All Saints' Day (1 November)
+
+Source:
+
++ [555.1 - Loisur les jours fériés officiels et le repos dominical](https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948)
+
+<h4>Canton Lucerne <small>- CH-LU</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Lucerne:
+
++ Good Friday
++ Easter Sunday
++ Whitsunday
++ Corpus Christi
++ Assumption Day (15 August)
++ Federal Day of Thanksgiving, Repentance and Prayer
++ All Saints' Day (1 November)
++ Assumption Day (8 December)
++ St Stephen's Day (26 December)
+
+St Joseph's Day and the day of the patronal feast designated in the parishes may be regarded as additional local days of rest if they are declared public days of rest by the local parishes.
+
+Source:
+
++ [SRL Nr. 855 - Ruhetags- und Ladenschlussgesetz (RLG)](https://srl.lu.ch/app/de/texts_of_law/855)
+
+<h4>Canton Neuchâtel <small>- CH-NE</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Neuchâtel:
+
++ Berchtoldstag (2. Januar): But only if New Year's Day (1 January) falls on a Sunday
++ Anniversary of the proclamation of the Republic of Neuchâtel (1 March)
++ Good Friday 
++ Labour Day (1 May)
++ St Stephen's Day (26 December): However, only if Christmas Day falls on a Sunday
+
+Other regional public holidays may be recognised as local days of rest, but no more than one per year and municipality.
+
+Source:
+
++ [941.02 – Loi sur le dimanche et les jours fériés](https://www.lexfind.ch/fe/de/tol/10049/fr)
+
+<h4>Canton Nidwalden <small>- CH-NW</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Nidwalden:
+
++ St Joseph's Day (19 March)
++ Good Friday
++ Easter Sunday
++ Whit Sunday 
++ Corpus Christi
++ Assumption Day (15 August)
++ Federal Day of Thanksgiving, Repentance and Prayer
++ All Saints' Day (1 November)
++ Conception of Mary (8 December)
+
+Other regional public holidays may be considered local days off.
+
+Source:
+
++ [NG 921.1 - Gesetz über die öffentlichen Ruhetage (Ruhetagsgesetz, RTG)](https://gesetze.nw.ch/app/de/texts_of_law/921.1)
+
+<h4>Canton Obwalden <small>- CH-OW</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Obwalden:
+
++ Good Friday
++ Easter Sunday
++ Whitsunday
++ Corpus Christi
++ Assumption Day (15 August)
++ Federal Day of Thanksgiving, Repentance and Prayer
++ Brotherhood Day (25 September)
++ All Saints' Day (1 November)
++ Conception of the Virgin Mary (8 December)
+
+The following local public holidays also apply:
+
++ Saint Benedict (21 March): Municipality Engelberg
+
+All other parishes have moved the local feast day (patrocinium) to a Sunday. 
+
+Sources:
+
++ [GDB 975.2 - Gesetz über die öffentlichen Ruhetage (Ruhetagsgesetz)](https://gdb.ow.ch/app/de/texts_of_law/975.2)
++ [Feiertage im Kanton Obwalden (PDF)](https://www.ow.ch/_docn/6325/Feiertage.pdf)
+
+<h4>Canton Schaffhausen <small>- CH-SH</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Schaffhausen:
+
++ Good Friday
++ Easter Monday
++ Labour Day (1 May)
++ Whit Monday
++ Federal Day of Thanksgiving, Repentance and Prayer
++ St Stephen's Day (26 December)
+
+Source:
+
++ [900.200 – Gesetz betreffend die öffentlichen Ruhetage und den Ladenschluss](https://www.lexfind.ch/fe/de/tol/14722/versions/74361/de)
+
+<h4>Canton Schwyz <small>- CH-SZ</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Schwyz:
+
++ Epiphany (6 January)
++ St Joseph's Day (19 March) 
++ Good Friday
++ Easter Sunday
++ Easter Monday
++ Whit Sunday
++ Whit Monday,
++ Corpus Christi
++ Assumption Day (15 August)
++ Federal Day of Thanksgiving, Repentance and Prayer
++ All Saints' Day (1 November)
++ Assumption Day (8 December)
++ St Stephen's Day (26 December)
+
+The following patronal feasts also apply in the districts of Einsiedeln and Schwyz:
+
++ District Einsiedeln: Meinrad Day (21 January) and Angel Consecration (14 September)
++ District Schwyz:
+    + Municipality Rothenturm: St Anthony's Day (17 January)
+	+ Municipality Unteriberg: Candlemas (2 February)
+	+ Municipality of Muotathal: Saint Sigismund (1 May)
+	+ Municipality of Morschach: Gallus Day (16 October)
+	+ Municipality of Sattel: Agatha Day (5 February)
+	+ Municipality of Schwyz: St Martin's Day (11 November)
+
+Sources:
+
++ [545.110 – Ruhetagsgesetz (PDF)](https://www.sz.ch/public/upload/assets/28055/545_110.pdf)
++ [Wegleitung - Ruhetagsgesetz (PDF)](https://www.sz.ch/public/upload/assets/8543/Titelblatt_Inhalt_weg_rtg_V2R2.pdf)
+
+<h4>Canton Solothurn <small>- CH-SO</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Solothurn:
+
++ Good Friday
++ Easter Sunday
++ Labour Day (1 May), but only from 12:00 noon
++ Whit Sunday
++ Corpus Christi: Does not apply to the Bucheggberg district
++ Assumption Day (15 August): Does not apply to the district of Bucheggberg
++ All Saints' Day (1 November): Does not apply to the district of Bucheggberg
+
+Additional municipal rest days may apply regionally.
+
+Source:
+
++ [512.41 – Gesetz über die öffentlichen Ruhetage](https://www.lexfind.ch/fe/fr/tol/15344/de)
+
+<h4>Canton St. Gallen <small>- CH-SG</small></h4>
+
+The following additional rest days and public holidays apply in the canton of St. Gallen:
+
++ Good Friday
++ Easter Sunday
++ Easter Monday
++ Whit Sunday
++ Whit Monday, 
++ Federal Day of Thanksgiving, Repentance and Prayer
++ All Saints' Day (1 November)
++ St Stephen's Day (26 December)
+
+Source:
+
++ [sGS 552.1 - Gesetz über Ruhetag und Ladenöffnung (RLG)](https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/552.1)
+
+<h4>Canton Ticino <small>- CH-TI</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Ticino:
+
++ Epiphany
++ St. Joseph (19 March)
++ Easter Monday
++ Labour Day (1 May)
++ Whit Monday
++ Corpus Christi
++ St Peter and St Paul (29 June)
++ Assumption Day (15 August)
++ All Saints' Day (1 November)
++ Conception of the Virgin Mary (8 December)
++ St Stephen's Day (26 December)
+
+Source:
+
++ [843.200 - Legge concernente i giorni festivi ufficiali nel Cantone Ticino](https://www3.ti.ch/CAN/RLeggi/public/index.php/raccolta-leggi/legge/num/568)
+
+<h4>Canton Thurgau <small>- CH-TG</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Thurgau:
+
++ Berchtold's Day (2 January)
++ Good Friday
++ Easter Monday
++ Labour Day (1 May)
++ Whit Monday
++ Federal Day of Thanksgiving, Repentance and Prayer
++ St Stephen's Day (26 December)
+
+Sources:
+
++ [822.9 - Gesetz über die öffentlichen Ruhetage (Ruhetagsgesetz, RTG)](https://www.rechtsbuch.tg.ch/app/de/texts_of_law/822.9)
++ [Feiertage und Ruhetage 2022 / 2023 / 2024 im Kanton Thurgau (PDF)](https://awa.tg.ch/public/upload/assets/121349/Merkblatt_Feier_Ruhetage_2022_2024.pdf)
+
+<h4>Canton Uri <small>- CH-UR</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Uri:
+
++ Epiphany (6 January)
++ St Joseph's Day (19 March)
++ Good Friday
++ Easter Monday 
++ Whit Monday 
++ Corpus Christi
++ Assumption Day (15 August)
++ All Saints' Day (1 November)
++ Conception of the Virgin Mary (8 December)
++ St Stephen's Day (26 December)
+
+Other local community holidays may apply regionally.
+
+Sources:
+
++ [70.1421 – Gesetz über den Ladenschluss und die Sonntagsruhe (LSG)](https://www.lexfind.ch/fe/de/tol/17967/de)
++ [Feiertage im Kanton Uri (PDF)](https://www.ur.ch/_docn/333784/bersicht_Feiertage_Kanton_Uri_gem._ArG_und_LSG_2023.pdf)
+
+<h4>Canton Vaud <small>- CH-VD</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Vaud:
+
++ Berchtold's Day (2 January) 
++ Good Friday
++ Easter Monday
++ Whit Monday
++ Whit Monday
+
+Source:
+
++ [Jours fériés et vacances scolaires](https://www.vd.ch/themes/formation/jours-feries-et-vacances-scolaires)
+
+<h4>Canton Valais <small>- CH-VS</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Valais:
+
++ St. Joseph (19 March)
++ Corpus Christi
++ Assumption Day (15 August)
++ All Saints' Day (1 November)
++ Conception of the Virgin Mary (8 December)
+	
+Source:
+
++ [Jours fériés ou chômés à l'Etat du Valais](https://www.vs.ch/web/srh/plan-de-travail)
+
+<h4>Canton Zug <small>- CH-ZG</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Zug:
+
++ Good Friday
++ Corpus Christi
++ Assumption Day (15 August)
++ All Saints' Day (1 November)
++ Conception of the Virgin Mary (8 December)
+	
+Sources:
+
++ [942.31 - Ruhetags- und Ladenöffnungsgesetz](https://bgs.zg.ch/app/de/texts_of_law/942.31)
++ [Feiertage im Kanton Zug (PDF)](https://zg.ch/dam/jcr:073de1a2-a2ed-4b8a-a640-87951354b1d5/Feiertage_2022_2025_Kt-ZG_Daten.pdf)
+
+<h4>Canton Zürich <small>- CH-ZH</small></h4>
+
+The following additional rest days and public holidays apply in the canton of Zurich:
+
++ Good Friday
++ Easter Sunday
++ Easter Monday
++ Sechseläuten (city of Zurich only, half day)
++ Labour Day (1 May)
++ Whit Sunday
++ Whit Monday
++ Knabenschiessen (city of Zurich only, half day)
++ Federal Day of Thanksgiving, Repentance and Prayer
++ St Stephen's Day (26 December)
+
+Sources:
+
++ [822.4 - Ruhetags- und Ladenöffnungsgesetz](https://www.zhlex.zh.ch/Erlass.html?Open&Ordnr=822.4)
++ [Feiertage](https://www.zh.ch/de/wirtschaft-arbeit/arbeitsbedingungen/arbeitsssicherheit-gesundheitsschutz/arbeits-ruhezeiten/feiertage.html)
 
 <h3>School Holidays</h3>
 
@@ -1052,38 +1543,21 @@ The cantons and their municipalities are responsible for determining the school 
 
 Sources:
 
++ Schweizerische Dokumentenserver Bildung: [Schulferien 2025 (PDF)](https://edudoc.ch/record/230469/files/Schulferien_2025.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2024 (PDF)](https://edudoc.ch/record/224765/files/Schulferien_2024.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2023 (PDF)](https://edudoc.ch/record/218325/files/Schulferien_2023.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2022 (PDF)](https://edudoc.ch/record/209813/files/Schulferien_2022.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2021 (PDF)](https://edudoc.ch/record/204064/files/Schulferien_2021.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2020 (PDF)](https://edudoc.ch/record/131016/files/Schulferien_2020_def.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2019 (PDF)](https://edudoc.ch/record/126296/files/Schulferien_2019_def.pdf)
-+ Aargau: [Stunden- und Ferienplanung](https://www.schulen-aargau.ch/regelschule/schulorganisation/planung-ressourcen/stunden-ferienplanung)
-+ Appenzell Ausserrhoden: [Ferien-Richtdaten (PDF)](https://www.ar.ch/fileadmin/user_upload/Departement_Bildung_Kultur/Amt_fuer_Volksschule/E-Handbuch_Volksschule/16_01_Ferienrichtdaten.pdf)
-+ Appenzell Innerrhoden: [Ferienplan und schulfreie Tage](https://www.ai.ch/themen/bildung/eltern-und-schule/ferienplan)
-+ Basel Landschaft: [Schulferien](https://www.baselland.ch/politik-und-behorden/direktionen/bildungs-kultur-und-sportdirektion/bildung/Schulferien)
-+ Basel-Stadt: [Schulferien](https://www.ed.bs.ch/schulferien.html)
-+ Bern: [Ferienordnung für den Kindergarten und die Volksschule des deutschsprachigen Kantonsteils 2019/20 bis 2025/26 (PDF)](https://csbe.ch/assets/Downloads/Schulferien-fuer-die-Volksschulen-im-deutschsprachigen-Teil-des-Kantons-Bern-2019_20-bis-2025_26.pdf) + [Planification des vacances scolaires](https://www.akvb-gemeinden.bkd.be.ch/fr/start/organisation-finanzierung/schulorganisation/schulferienplanung.html)
-+ Freiburg: [Schulferien](https://www.fr.ch/de/bildung-und-schulen/obligatorische-schule/schulferien-2021-bis-2025)
-+ Genève: [Vacances scolaires et jours fériés](https://www.ge.ch/vacances-scolaires-jours-feries)
-+ Glarus: [Ferienkalender](https://www.schule-glarus.ch/services/aktuelles.html/6152/news/25511)
-+ Graubünden: [Ferienplan für das aktuelle Schuljahr](https://www.gr.ch/DE/institutionen/verwaltung/ekud/ahb/bks/uberuns/ferienplan/Seiten/default.aspx)
-+ Jura: [Vacances scolaires](https://www.jura.ch/DFC/SEN/Vacances-scolaires.html)
-+ Luzern: [Schulferien und Feiertage](https://www.stadtluzern.ch/aktuelles/ferienplan)
-+ Neuchâtel: [Calendrier scolaire](https://www.ne.ch/themes/enseignement-formation/Pages/calendrier-scolaire.aspx)
-+ Nidwalden: [Schulferienplan Volks-, Mittel- und Berufsfachschule](https://www.nw.ch/biddirektionssekrpub/266)
-+ Obwalden: [Schulferienplan](https://www.ow.ch/dienstleistungen/5276)
-+ Schaffhausen: [Schulferien](https://schule.sh.ch/CMS/frontend/index.jsp?contentid=1280144&language=DE&globalshared=true)
-+ Schwyz: [Schulferien](https://www.sz.ch/privatpersonen/bildung-schulen-sport/volksschulen/schulorganisation/ferienplaene.html/72-512-468-463-2186-2176)
-+ Solothurn: [Volksschulamt: Ferienplan](https://so.ch/verwaltung/departement-fuer-bildung-und-kultur/volksschulamt/aktuell/ferienplan/) + [Amt für Berufsbildung, Mittel- und Hochschulen: Ferienpläne](https://so.ch/verwaltung/departement-fuer-bildung-und-kultur/amt-fuer-berufsbildung-mittel-und-hochschulen/aktuell/ferienplaene/)
-+ St. Gallen: [Schulferien und Feiertage](https://www.stadt.sg.ch/home/schule-bildung/Schulferien.html)
-+ Thurgau: [Ferienpläne](https://dek.tg.ch/ferienplaene.html/4653#js-accordion_control--00)
-+ Ticino: [Calendario scolastico](https://www4.ti.ch/decs/dfp/ufci/ifc/cpa/informazioni/scadenze-e-vacanze-scolastiche)
-+ Uri: [Ferienplan](https://www.ur.ch/dienstleistungen/3125)
-+ Valais: [Plans de scolarité](https://www.vs.ch/fr/web/se/plans-de-scolarite)
-+ Vaud: [Jours fériés et vacances scolaires](https://www.vd.ch/themes/formation/jours-feries-et-vacances-scolaires)
-+ Zug: [Schulferien](https://www.zg.ch/behoerden/direktion-fur-bildung-und-kultur/amt-fur-gemeindliche-schulen/inhalte-ags/schulaufsicht/inhalte-schulaufsicht/schulferien)
-+ Zürich: [Ferien und schulfreie Tage](https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulferien.html)
+
+<h4>Canton Jura <small>- CH-JU</small></h4>
+
+The school holidays in the canton of Jura are the same for all public schools:
+
++ [Vacances scolaires](https://www.jura.ch/DFC/SEN/Vacances-scolaires.html)
++ [Dates des vacances scolaires 2023 à 2028 (PDF)](https://www.jura.ch/Htdocs/Files/v/40088.pdf/Departements/DFCS/SEN/Vacances/220531_Arrete_Vacances_scolaires-2023---2028_Decision-GVT.pdf?download=1)
++ [Dates des vacances scolaires 2018 à 2023 (PDF)](https://www.jura.ch/Htdocs/Files/v/24641.pdf/Departements/DFCS/SEN/Vacances/1819_2324_Arrete_Vacances_scolaires.pdf?download=1)
 
 ## Vatican City
 

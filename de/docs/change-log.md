@@ -1,5 +1,26 @@
 ## OpenHolidays API Data
 
+### 0.0.21 <small>_ 14. Oktober 2024</small>
+
+- Feiertage/Schulferien für Belarus hinzugefügt
+- Feiertage/Schulferien für Moldau hinzugefügt 
+- Feiertage/Schulferien für Rumänien hinzugefügt
+- Feiertage/Schulferien für Serbien hinzugefügt
+- Feiertage/Schulferien für Französische Überseegebiete hinzugefügt
+- Neue Schulferien 2023/2024 und 2024/2025 für Litauen hinzugefügt
+- Neue Schulferien 2024/2025 für Albanien hinzugefügt
+- Neue Schulferien 2024/2025 für Italien hinzugefügt
+- Neue Schulferien 2024/2025 für Korsika (Frankreich) hinzugefügt
+- Neue Schulferien 2024/2025 für Kroatien hinzugefügt
+- Neue Schulferien 2024/2025 für Malta hinzugefügt
+- Neue Schulferien 2024/2025 für Polen hinzugefügt
+- Neue Schulferien 2024/2025 für Slowenien hinzugefügt
+- Neue Schulferien 2024/2025 für Ungarn hinzugefügt
+- Neue Schulferien 2024/2025, 2025/2026, 2026/2027 und 2027/2028 für Portugal hinzugefügt
+- Neue Schulferien bis 2027/2028 für Schweizer Kanton Jura hinzugefügt
+- Feiertage für die Schweiz komplett überarbeitet (zum Teil bis auf Gemeindeebene)
+- Fehlerkorrekturen
+
 ### 0.0.20 <small>_ 02. Mai 2024</small>
 
 - Feiertage/Schulferien für Spanien hinzugefügt

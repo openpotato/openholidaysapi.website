@@ -565,48 +565,529 @@ Quellen:
 
 In der Schweiz werden die gesetzlichen Feiertage und die Tage, die wie gesetzliche Feiertage behandelt werden, mit Ausnahme des 1. August, durch die Kantone bestimmt. Der Neujahrstag, die Auffahrt und der Weihnachtstag sind die einzigen Feiertage, die alle Kantone als gesetzliche Feiertage bezeichnet haben.
 
+<h4>Allgemein</h4>
+
+Die folgenden Quellen bieten einen guten Überblick über alle Kantone, sind aber zum Teil nicht mehr ganz aktuell bzw. unvollständig. Als Primärquelle dienen deshalb stets die Publikationen der einzelnen Kantone.
+
 Quellen:
 
 + Bundesamt für Justiz: [Gesetzliche Feiertage und Tage, die in der Schweiz wie gesetzliche Feiertage behandelt werden (PDF)](https://www.bj.admin.ch/dam/bj/de/data/publiservice/service/zivilprozessrecht/kant-feiertage.pdf.download.pdf/kant-feiertage.pdf)
++ Staatssekretariat für Wirtschaft SECO: [Feiertage Schweiz (PDF)](https://www.seco.admin.ch/dam/seco/de/dokumente/Arbeit/Arbeitsbedingungen/Arbeitsgesetz%20und%20Verordnungen/Feiertage-Schweiz.pdf.download.pdf/Feiertage_2015_web_de.pdf)
+
+<h4>Kanton Aargau<small>- CH-AG</small></h4>
+
+Im Kanton Aargau gelten, je nach Bezirk bzw. Gemeinde, folgende zusätzliche Feiertage:
+
++ Berchtoldstag (2. Januar): Aarau, Baden (nur Gemeinde Bergdietikon), Brugg, Kulm, Lenzburg, Zofingen, Zurzach
++ Karfreitag: Alle Bezirke
++ Ostermontag: Aarau, Baden, Brugg, Kulm, Lenzburg, Rheinfelden (nur in den Gemeinden Kaiseraugst, Magden, Möhlin, Olsberg, Rheinfelden, Wallbach, Zeiningen und Zuzgen), Zofingen
++ Pfingstmontag: Aarau, Baden, Brugg, Kulm, Lenzburg, Rheinfelden (nur in den Gemeinden Kaiseraugst, Magden, Möhlin, Olsberg, Rheinfelden, Wallbach, Zeiningen und Zuzgen), Zofingen
++ Fronleichnam: Baden (alle Gemeinden außer Bergdietikon), Bremgarten, Laufenburg, Muri, Rheinfelden (nur in den Gemeinden Hellikon, Mumpf, Obermumpf, Schupfart, Stein, Wegstetten), Zurzach
++ Maria Himmelfahrt (15. August): Bremgarten, Laufenburg, Muri, Rheinfelden (nur in den Gemeinden Hellikon, Mumpf, Obermumpf, Schupfart, Stein, Wegstetten)
++ Allerheiligen (1. November): Bremgarten, Laufenburg, Muri, Rheinfelden, Zurzach
++ Mariä Empfängnis (8. Dezember): Laufenburg, Muri, Rheinfelden (nur in den Gemeinden Hellikon, Mumpf, Obermumpf, Schupfart, Stein, Wegstetten)
++ Stephanstag (26. Dezember): Aarau, Baden, Bremgarten, Brugg, Kulm, Lenzburg, Rheinfelden (nur in den Gemeinden Kaiseraugst, Magden, Möhlin, Olsberg, Rheinfelden, Wallbach, Zeiningen und Zuzgen), Zofingen, Zurzach
+
+Quelle:
+
++ [Gesetzliche Feiertage im Kanton Aargau (PDF)](https://www.ag.ch/media/kanton-aargau/dvi/dokumente/awa/awa/arbeitnehmerschutz-im-betrieb/feiertage.pdf)
+
+<h4>Kanton Appenzell Ausserrhoden<small>- CH-AR</small></h4>
+
+Im Kanton Appenzell Ausserrhoden gelten folgende zusätzliche Feiertage:
+
++ Karfreitag
++ Ostermontag
++ Pfingstmontag
++ Stephanstag (26. Dezember): Allerdings nur, wenn der 1. Weihnachtstag nicht auf einen Montag oder Freitag fällt.
+
+Quelle:
+
++ [bGS 822.11: Art. 7 - Feiertage](https://ar.clex.ch/app/de/texts_of_law/822.11)
+
+<h4>Kanton Appenzell Innerrhoden<small>- CH-AI</small></h4>
+
+Im Kanton Appenzell Innerrhoden gelten folgende zusätzliche Feiertage:
+
++ Karfreitag
++ Ostermontag
++ Pfingstmontag
++ Fronleichnam
++ Maria Himmelfahrt (15. August)
++ Mauritiustag (22. September): In allen Bezirken außer Oberegg
++ Allerheiligen (1. November)
++ Maria Empfängnis (8. Dezember)
++ Stephanstag (26. Dezember): Allerdings nur, wenn durch dessen Feier nicht drei Ruhetage aufeinander folgen.
+
+Quelle:
+
++ [GS 822.200: Art. 2 - Öffentliche Ruhetage und Feiertage](https://ai.clex.ch/app/de/texts_of_law/822.200)
+
+<h4>Kanton Basel-Landschaft<small>- CH-BL</small></h4>
+
+Im Kanton Basel-Landschaft gelten folgende zusätzliche Feiertage:
+
++ Karfreitag
++ Ostersonntag
++ Ostermontag
++ Tag der Arbeit (1. Mai)
++ Pfingstsonntag
++ Pfingstmontag
++ Eidgenössischer Dank-, Buss- und Bettag
++ Stephanstag (26. Dezember)
+
+Die Gemeinden können weitere lokale Feiertage festlegen.
+
+Quelle:
+
++ [SGS 547: $2 - Öffentliche Ruhetage](https://bl.clex.ch/app/de/texts_of_law/547)
+
+<h4>Kanton Basel-Stadt<small>- CH-BS</small></h4>
+
+Im Kanton Basel-Stadt gelten folgende zusätzliche Feiertage:
+
++ Karfreitag
++ Ostersonntag
++ Ostermontag
++ Tag der Arbeit (1. Mai)
++ Pfingstsonntag
++ Pfingstmontag
++ Eidgenössischer Dank-, Buss- und Bettag
++ Stephanstag (26. Dezember)
+
+Quelle:
+
++ [SG 811.100: $2 - Ruhetage](https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/811.100)
+
+<h4>Kanton Bern<small>- CH-BE</small></h4>
+
+Im Kanton Bern gelten folgende zusätzliche Feiertage:
+
++ Berchtoldstag (2. Januar)
++ Karfreitag
++ Ostersonntag
++ Ostermontag
++ Pfingstsonntag
++ Pfingstmontag
++ Eidgenössischer Dank-, Buss- und Bettag
++ Stephanstag (26. Dezember)
+
+Quelle:
+
++ [BSG 555.1: Art. 2](https://www.belex.sites.be.ch/app/de/texts_of_law/555.1)
+
+<h4>Kanton Freiburg<small>- CH-FR</small></h4>
+
+Der Kanton Freiburg teilt sich in einen katholischen und einen reformierten Teil. Reformierte Gemeinden sind:
+
++ Courgevaux, Fräschels, Greng, Kerzers, Meyriez, Mont-Vully, Muntelier, Murten, Ried bei Kerzers, Ulmiz sowie die Orte Flamatt und Sensebrügg der Gemeinde Wünnewil-Flamatt.
+
+In den katholischen Gemeinden gelten folgende zusätzliche Feiertage:
+
++ Karfreitag
++ Fronleichnam
++ Maria Himmelfahrt (15. August)
++ Allerheiligen (1. November)
++ Mariä Empfängnis (8. Dezember)
+
+In den reformierten Gemeinden gelten folgende zusätzliche Feiertage:
+
++ Berchtoldstag (2. Januar)
++ Karfreitag
++ Ostermontag
++ Pfingstmontag
++ Stephanstag (26. Dezember)
+
+Quelle:
+
++ Amt für den Arbeitsmarkt: [Feiertage](https://www.fr.ch/de/arbeit-und-unternehmen/arbeitnehmer/feiertage)
+
+<h4>Kanton Genf <small>- CH-GE</small></h4>
+
+Im Kanton Genf gelten folgende zusätzliche Feiertage:
+
++ Berchtoldstag (2. Januar): Allerdings nur, wenn Neujahr (1. Januar) auf einen Sonntag fällt
++ Karfreitag
++ Ostermontag
++ Pfingstmontag
++ 2\. August, wenn der Bundesfeiertag (1. August) auf einen Sonntag fällt
++ Genfer Bettag
++ Stephanstag (26. Dezember): Allerdings nur, wenn Weihnachten (25. Dezember) auf einen Sonntag fällt
++ Wiederherstellung der Republik (31. Dezember)
+
+Quelle:
+
++ [03.03.01 - Congés officiels (jours fériés) ou chômés](https://www.ge.ch/document/030301-conges-officiels-jours-feries-chomes)
+
+<h4>Kanton Glarus <small>- CH-GL</small></h4>
+
+Im Kanton Glarus gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Näfelser Fahrt
++ Karfreitag
++ Ostermontag
++ Ostersonntag
++ Pfingstsonntag
++ Pfingstmontag
++ Eidgenössischer Dank-, Buss- und Bettag
++ Allerheiligen (1. November)
++ Stephanstag (26. Dezember)
+
+Quelle:
+
++ [GS IX B/21/1 - Gesetz über die öffentlichen Ruhetage (Ruhetagsgesetz)](https://gesetze.gl.ch/app/de/texts_of_law/IX%20B%2F21%2F1)
+
+<h4>Kanton Graubünden <small>- CH-GR</small></h4>
+
+Im Kanton Graubünden gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Karfreitag
++ Ostermontag
++ Ostersonntag
++ Pfingstsonntag
++ Pfingstmontag
++ Eidgenössischer Dank-, Buss- und Bettag
++ Stephanstag (26. Dezember)
+
+Die zuständigen Gemeindebehörden sind zudem berechtigt, für ihr Gemeindegebiet weitere konfessionelle Feiertage als lokale Ruhetage festzulegen.
+
+Quelle:
+
++ [BR 520.100 - Gesetz über die öffentlichen Ruhetage (Ruhetagsgesetz)](https://www.gr-lex.gr.ch/app/de/texts_of_law/520.100)
+
+<h4>Kanton Jura <small>- CH-JU</small></h4>
+
+Im Kanton Jura gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Berchtoldstag (2. Januar)
++ Karfreitag
++ Ostersonntag
++ Ostermontag,
++ Tag der Arbeit (1. Mai)
++ Pfingstsonntag
++ Pfingstmontag
++ Fronleichnam,
++ Fest der Unabhängigkeit Jura (23. Juni)
++ Maria Himmelfahrt (15. August)
++ Allerheiligen (1. November)
+
+Quelle:
+
++ [555.1 - Loisur les jours fériés officiels et le repos dominical](https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948)
+
+<h4>Kanton Luzern <small>- CH-LU</small></h4>
+
+Im Kanton Luzern gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Karfreitag
++ Ostersonntag
++ Pfingstsonntag
++ Fronleichnam
++ Maria Himmelfahrt (15. August)
++ Eidgenössischer Dank-, Buss- und Bettag
++ Allerheiligen (1. November)
++ Mariä Empfängnis (8. Dezember)
++ Stephanstag (26. Dezember)
+
+Der Josefstag und der Tag des in den Kirchgemeinden bezeichneten Patroziniumsfestes können als weitere lokale Ruhetage gelten, wenn sie von den Einwohnergemeinden zu öffentlichen Ruhetagen erklärt werden.
+
+Quelle:
+
++ [SRL Nr. 855 - Ruhetags- und Ladenschlussgesetz (RLG)](https://srl.lu.ch/app/de/texts_of_law/855)
+
+<h4>Kanton Neuenburg <small>- CH-NE</small></h4>
+
+Im Kanton Neuenburg gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Berchtoldstag (2. Januar): Allerdings nur, wenn Neujahr (1. Januar) auf einen Sonntag fällt
++ Jahrestag der Ausrufung der Republik Neuenburg (1. März)
++ Karfreitag 
++ Tag der Arbeit (1. Mai)
++ Stephanstag (26. Dezember): Allerdings nur, wenn der 1. Weihnachtstag auf einen Sonntag fällt
+
+Es können regional weitere Feiertage als lokale Ruhetage gelten, jedoch höchstens einer pro Jahr und Gemeinde.
+
+Quelle:
+
++ [941.02 – Loi sur le dimanche et les jours fériés](https://www.lexfind.ch/fe/de/tol/10049/fr)
+
+<h4>Kanton Nidwalden <small>- CH-NW</small></h4>
+
+Im Kanton Nidwalden gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Josefstag (19. März)
++ Karfreitag
++ Ostersonntag
++ Pfingstsonntag 
++ Fronleichnam
++ Maria Himmelfahrt (15. August)
++ Eidgenössischer Dank-, Buss- und Bettag
++ Allerheiligen (1. November)
++ Maria Empfängnis (8. Dezember)
+
+Es können regional weitere Feiertage als lokale Ruhetage gelten.
+
+Quelle:
+
++ [NG 921.1 - Gesetz über die öffentlichen Ruhetage (Ruhetagsgesetz, RTG)](https://gesetze.nw.ch/app/de/texts_of_law/921.1)
+
+<h4>Kanton Obwalden <small>- CH-OW</small></h4>
+
+Im Kanton Obwalden gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Karfreitag
++ Ostersonntag
++ Pfingstsonntag
++ Fronleichnam
++ Mariä Himmelfahrt (15. August)
++ Eidgenössischer Dank-, Buss- und Bettag
++ Bruderklausenfest (25. September)
++ Allerheiligen (1. November)
++ Mariä Empfängnis (8. Dezember)
+
+Es gelten zudem folgende lokale Feiertage:
+
++ Heiliger Benedikt (21. März): Gemeinde Engelberg
+
+Alle übrigen Gemeinden haben den Lokalfeiertag (Patrozinium) auf einen Sonntag verlegt. 
+
+Quellen:
+
++ [GDB 975.2 - Gesetz über die öffentlichen Ruhetage (Ruhetagsgesetz)](https://gdb.ow.ch/app/de/texts_of_law/975.2)
++ [Feiertage im Kanton Obwalden (PDF)](https://www.ow.ch/_docn/6325/Feiertage.pdf)
+
+<h4>Kanton Schaffhausen <small>- CH-SH</small></h4>
+
+Im Kanton Schaffhausen gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Karfreitag
++ Ostermontag
++ Tag der Arbeit (1. Mai)
++ Pfingstmontag
++ Eidgenössischer Dank-, Buss- und Bettag
++ Stephanstag (26. Dezember)
+
+Quelle:
+
++ [900.200 – Gesetz betreffend die öffentlichen Ruhetage und den Ladenschluss](https://www.lexfind.ch/fe/de/tol/14722/versions/74361/de)
+
+<h4>Kanton Schwyz <small>- CH-SZ</small></h4>
+
+Im Kanton Schwyz gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Dreikönigstag (6. Januar)
++ St. Josef (19. März) 
++ Karfreitag
++ Ostersonntag
++ Ostermontag
++ Pfingstsonntag
++ Pfingstmontag,
++ Fronleichnam
++ Mariä Himmelfahrt (15. August)
++ Eidgenössischer Dank-, Buss- und Bettag
++ Allerheiligen (1. November)
++ Mariä Empfängnis (8. Dezember)
++ Stephanstag (26. Dezember)
+
+Es gelten zudem folgende Patrozinumsfeste in den Bezirken Einsiedeln und Schwyz:
+
++ Bezirk Einsiedeln: Meinradstag (21. Januar) und Engelweihe (14. September)
++ Bezirk Schwyz:
+    + Gemeinde Rothenturm: Antoniustag (17. Januar)
+	+ Gemeinde Unteriberg: Mariä Lichtmess (2. Februar)
+	+ Gemeinde Muotathal: Heiliger Sigismund (1. Mai)
+	+ Gemeinde Morschach: Gallustag (16. Oktober)
+	+ Gemeinde Sattel: Agathatag (5. Februar)
+	+ Gemeinde Schwyz: Martinstag (11. November)
+
+Quellen:
+
++ [545.110 – Ruhetagsgesetz (PDF)](https://www.sz.ch/public/upload/assets/28055/545_110.pdf)
++ [Wegleitung - Ruhetagsgesetz (PDF)](https://www.sz.ch/public/upload/assets/8543/Titelblatt_Inhalt_weg_rtg_V2R2.pdf)
+
+<h4>Kanton Solothurn <small>- CH-SO</small></h4>
+
+Im Kanton Solothurn gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Karfreitag
++ Ostersonntag
++ Tag der Arbeit (1. Mai), aber erst ab 12:00 Uhr
++ Pfingstsonntag
++ Fronleichnam: Gilt nicht für den Bezirk Bucheggberg
++ Mariä Himmelfahrt (15. August): Gilt nicht für den Bezirk Bucheggberg
++ Allerheiligen (1. November): Gilt nicht für den Bezirk Bucheggberg
+
+Es können regional weitere kommunale Ruhetage gelten.
+
+Quelle:
+
++ [512.41 – Gesetz über die öffentlichen Ruhetage](https://www.lexfind.ch/fe/fr/tol/15344/de)
+
+<h4>Kanton St. Gallen <small>- CH-SG</small></h4>
+
+Im Kanton St. Gallen gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Karfreitag
++ Ostersonntag
++ Ostermontag
++ Pfingstsonntag
++ Pfingstmontag, 
++ Eidgenössischer Dank-, Buss- und Bettag
++ Allerheiligen (1. November)
++ Stephanstag (26. Dezember)
+
+Quelle:
+
++ [sGS 552.1 - Gesetz über Ruhetag und Ladenöffnung (RLG)](https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/552.1)
+
+<h4>Kanton Tessin <small>- CH-TI</small></h4>
+
+Im Kanton Tessin gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Dreikönigsfest
++ St. Josef (19. März)
++ Ostermontag
++ Tag der Arbeit (1. Mai)
++ Pfingstmontag
++ Fronleichnam
++ St. Peter und St. Paul (29. Juni)
++ Maria Himmelfahrt (15. August)
++ Allerheiligen (1. November)
++ Mariä Empfängnis (8. Dezember)
++ Stephanstag (26. Dezember)
+
+Quelle:
+
++ [843.200 - Legge concernente i giorni festivi ufficiali nel Cantone Ticino](https://www3.ti.ch/CAN/RLeggi/public/index.php/raccolta-leggi/legge/num/568)
+
+<h4>Kanton Thurgau <small>- CH-TG</small></h4>
+
+Im Kanton Thurgau gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Berchtoldstag (2. Januar)
++ Karfreitag
++ Ostermontag
++ Tag der Arbeit (1. Mai)
++ Pfingstmontag
++ Eidgenössischer Dank-, Buss- und Bettag
++ Stephanstag (26. Dezember)
+
+Quellen:
+
++ [822.9 - Gesetz über die öffentlichen Ruhetage (Ruhetagsgesetz, RTG)](https://www.rechtsbuch.tg.ch/app/de/texts_of_law/822.9)
++ [Feiertage und Ruhetage 2022 / 2023 / 2024 im Kanton Thurgau (PDF)](https://awa.tg.ch/public/upload/assets/121349/Merkblatt_Feier_Ruhetage_2022_2024.pdf)
+
+<h4>Kanton Uri <small>- CH-UR</small></h4>
+
+Im Kanton Uri gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Dreikönigstag (6. Januar)
++ St. Josef (19. März)
++ Karfreitag
++ Ostermontag 
++ Pfingstmontag 
++ Fronleichnam
++ Maria Himmelfahrt (15. August)
++ Allerheiligen (1. November)
++ Mariä Empfängnis (8. Dezember)
++ Stephanstag (26. Dezember)
+
+Es können regional weitere lokale Gemeindefeiertage gelten.
+
+Quellen:
+
++ [70.1421 – Gesetz über den Ladenschluss und die Sonntagsruhe (LSG)](https://www.lexfind.ch/fe/de/tol/17967/de)
++ [Feiertage im Kanton Uri (PDF)](https://www.ur.ch/_docn/333784/bersicht_Feiertage_Kanton_Uri_gem._ArG_und_LSG_2023.pdf)
+
+<h4>Kanton Waadt <small>- CH-VD</small></h4>
+
+Im Kanton Waadt gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Berchtoldstag (2. Januar) 
++ Karfreitag
++ Ostermontag
++ Pfingstmontag
++ Bettagsmontag
+
+Quelle:
+
++ [Jours fériés et vacances scolaires](https://www.vd.ch/themes/formation/jours-feries-et-vacances-scolaires)
+
+<h4>Kanton Wallis <small>- CH-VS</small></h4>
+
+Im Kanton Wallis gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ St. Josef (19. März)
++ Fronleichnam
++ Maria Himmelfahrt (15. August)
++ Allerheiligen (1. November)
++ Mariä Empfängnis (8. Dezember)
+	
+Quelle:
+
++ [Jours fériés ou chômés à l'Etat du Valais](https://www.vs.ch/web/srh/plan-de-travail)
+
+<h4>Kanton Zug <small>- CH-ZG</small></h4>
+
+Im Kanton Zug gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Karfreitag
++ Fronleichnam
++ Maria Himmelfahrt (15. August)
++ Allerheiligen (1. November)
++ Mariä Empfängnis (8. Dezember)
+	
+Quellen:
+
++ [942.31 - Ruhetags- und Ladenöffnungsgesetz](https://bgs.zg.ch/app/de/texts_of_law/942.31)
++ [Feiertage im Kanton Zug (PDF)](https://zg.ch/dam/jcr:073de1a2-a2ed-4b8a-a640-87951354b1d5/Feiertage_2022_2025_Kt-ZG_Daten.pdf)
+
+<h4>Kanton Zürich <small>- CH-ZH</small></h4>
+
+Im Kanton Zürich gelten folgende zusätzliche Ruhetage bzw. Feiertage:
+
++ Karfreitag
++ Ostersonntag
++ Ostermontag
++ Sechseläuten (nur Stadt Zürich, halber Tag)
++ Tag der Arbeit (1. Mai)
++ Pfingstsonntag
++ Pfingstmontag
++ Knabenschiessen (nur Stadt Zürich, halber Tag)
++ Eidgenössischer Dank-, Buss- und Bettag
++ Stephanstag (26. Dezember)
+
+Quellen:
+
++ [822.4 - Ruhetags- und Ladenöffnungsgesetz](https://www.zhlex.zh.ch/Erlass.html?Open&Ordnr=822.4)
++ [Feiertage](https://www.zh.ch/de/wirtschaft-arbeit/arbeitsbedingungen/arbeitsssicherheit-gesundheitsschutz/arbeits-ruhezeiten/feiertage.html)
 
 <h3>Schulferien</h3>
 
 Für die Festlegung der Schulferien sind die Kantone und ihre Gemeinden zuständig. Die Koordination erfolgt durch die [Schweizerische Konferenz der kantonalen Erziehungsdirektoren (EDK)](https://www.edk.ch/de).
 
+<h4>Allgemein</h4>
+
+Auf dem [Schweizerische Dokumentenserver Bildung](https://edudoc.ch) werden jedes Jahr eine Liste der kommenden Schulferien für alle Kantone veröffentlicht. 
+
 Quellen:
 
++ Schweizerische Dokumentenserver Bildung: [Schulferien 2025 (PDF)](https://edudoc.ch/record/230469/files/Schulferien_2025.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2024 (PDF)](https://edudoc.ch/record/224765/files/Schulferien_2024.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2023 (PDF)](https://edudoc.ch/record/218325/files/Schulferien_2023.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2022 (PDF)](https://edudoc.ch/record/209813/files/Schulferien_2022.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2021 (PDF)](https://edudoc.ch/record/204064/files/Schulferien_2021.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2020 (PDF)](https://edudoc.ch/record/131016/files/Schulferien_2020_def.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2019 (PDF)](https://edudoc.ch/record/126296/files/Schulferien_2019_def.pdf)
-+ Aargau: [Stunden- und Ferienplanung](https://www.schulen-aargau.ch/regelschule/schulorganisation/planung-ressourcen/stunden-ferienplanung)
-+ Appenzell Ausserrhoden: [Ferien-Richtdaten (PDF)](https://www.ar.ch/fileadmin/user_upload/Departement_Bildung_Kultur/Amt_fuer_Volksschule/E-Handbuch_Volksschule/16_01_Ferienrichtdaten.pdf)
-+ Appenzell Innerrhoden: [Ferienplan und schulfreie Tage](https://www.ai.ch/themen/bildung/eltern-und-schule/ferienplan)
-+ Basel Landschaft: [Schulferien](https://www.baselland.ch/politik-und-behorden/direktionen/bildungs-kultur-und-sportdirektion/bildung/Schulferien)
-+ Basel-Stadt: [Schulferien](https://www.ed.bs.ch/schulferien.html)
-+ Bern: [Ferienordnung für den Kindergarten und die Volksschule des deutschsprachigen Kantonsteils 2019/20 bis 2025/26 (PDF)](https://csbe.ch/assets/Downloads/Schulferien-fuer-die-Volksschulen-im-deutschsprachigen-Teil-des-Kantons-Bern-2019_20-bis-2025_26.pdf) + [Planification des vacances scolaires](https://www.akvb-gemeinden.bkd.be.ch/fr/start/organisation-finanzierung/schulorganisation/schulferienplanung.html)
-+ Freiburg: [Schulferien](https://www.fr.ch/de/bildung-und-schulen/obligatorische-schule/schulferien-2021-bis-2025)
-+ Genève: [Vacances scolaires et jours fériés](https://www.ge.ch/vacances-scolaires-jours-feries)
-+ Glarus: [Ferienkalender](https://www.schule-glarus.ch/services/aktuelles.html/6152/news/25511)
-+ Graubünden: [Ferienplan für das aktuelle Schuljahr](https://www.gr.ch/DE/institutionen/verwaltung/ekud/ahb/bks/uberuns/ferienplan/Seiten/default.aspx)
-+ Jura: [Vacances scolaires](https://www.jura.ch/DFC/SEN/Vacances-scolaires.html)
-+ Luzern: [Schulferien und Feiertage](https://www.stadtluzern.ch/aktuelles/ferienplan)
-+ Neuchâtel: [Calendrier scolaire](https://www.ne.ch/themes/enseignement-formation/Pages/calendrier-scolaire.aspx)
-+ Nidwalden: [Schulferienplan Volks-, Mittel- und Berufsfachschule](https://www.nw.ch/biddirektionssekrpub/266)
-+ Obwalden: [Schulferienplan](https://www.ow.ch/dienstleistungen/5276)
-+ Schaffhausen: [Schulferien](https://schule.sh.ch/CMS/frontend/index.jsp?contentid=1280144&language=DE&globalshared=true)
-+ Schwyz: [Schulferien](https://www.sz.ch/privatpersonen/bildung-schulen-sport/volksschulen/schulorganisation/ferienplaene.html/72-512-468-463-2186-2176)
-+ Solothurn: [Volksschulamt: Ferienplan](https://so.ch/verwaltung/departement-fuer-bildung-und-kultur/volksschulamt/aktuell/ferienplan/) + [Amt für Berufsbildung, Mittel- und Hochschulen: Ferienpläne](https://so.ch/verwaltung/departement-fuer-bildung-und-kultur/amt-fuer-berufsbildung-mittel-und-hochschulen/aktuell/ferienplaene/)
-+ St. Gallen: [Schulferien und Feiertage](https://www.stadt.sg.ch/home/schule-bildung/Schulferien.html)
-+ Thurgau: [Ferienpläne](https://dek.tg.ch/ferienplaene.html/4653#js-accordion_control--00)
-+ Ticino: [Calendario scolastico](https://www4.ti.ch/decs/dfp/ufci/ifc/cpa/informazioni/scadenze-e-vacanze-scolastiche)
-+ Uri: [Ferienplan](https://www.ur.ch/dienstleistungen/3125)
-+ Valais: [Plans de scolarité](https://www.vs.ch/fr/web/se/plans-de-scolarite)
-+ Vaud: [Jours fériés et vacances scolaires](https://www.vd.ch/themes/formation/jours-feries-et-vacances-scolaires)
-+ Zug: [Schulferien](https://www.zg.ch/behoerden/direktion-fur-bildung-und-kultur/amt-fur-gemeindliche-schulen/inhalte-ags/schulaufsicht/inhalte-schulaufsicht/schulferien)
-+ Zürich: [Ferien und schulfreie Tage](https://www.stadt-zuerich.ch/ssd/de/index/volksschule/schulferien.html)
+
+<h4>Kanton Jura <small>- CH-JU</small></h4>
+
+Die Schulferien im Kanton Jura sind für alle öffentlichen Schulen gleich:
+
++ [Vacances scolaires](https://www.jura.ch/DFC/SEN/Vacances-scolaires.html)
++ [Dates des vacances scolaires 2023 à 2028 (PDF)](https://www.jura.ch/Htdocs/Files/v/40088.pdf/Departements/DFCS/SEN/Vacances/220531_Arrete_Vacances_scolaires-2023---2028_Decision-GVT.pdf?download=1)
++ [Dates des vacances scolaires 2018 à 2023 (PDF)](https://www.jura.ch/Htdocs/Files/v/24641.pdf/Departements/DFCS/SEN/Vacances/1819_2324_Arrete_Vacances_scolaires.pdf?download=1)
+
 
 ## Serbien
 
@@ -1011,6 +1492,25 @@ Quellen:
     + [Calendario escolar 2021-2022 (PDF)](https://dogv.gva.es/datos/2021/06/04/pdf/2021_6190.pdf)
 	+ [Calendario escolar 2020-2021 (PDF)](https://dogv.gva.es/datos/2020/06/03/pdf/2020_3919.pdf)
 	+ [Calendario escolar 2019-2020 (PDF)](https://dogv.gva.es/datos/2019/06/13/pdf/2019_6051.pdf)
+
+## Spanien
+
+<h3>Feiertage</h3>
+
+Slowenien hat 15 Feiertage, die arbeitsfrei gelten.
+
+Quelle:
+
++ [National holidays and other work-free days](https://www.gov.si/en/topics/national-holidays/)
+
+<h3>Schulferien</h3>
+
+Die Herbstferien und Sommerferien sind für alle Schulen gleich. Die Winterferien sind in zwei Teile unterteilt. Einem Teil sind die westliche Regionen (zahodne regije) zugeordnet, dem anderen Teil die östlichen Regionen (vzhodne regije). Neujahrsferien und die Maifeiertage unterscheiden sich für Grundschulen und Sekundarschulen.
+
+Quellen:
+
++ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za srednje šole](https://www.gov.si/teme/solski-koledar-za-srednje-sole/)
++ Ministrstvo za izobraževanje, znanost in šport: [Šolski koledar za osnovne šole](https://www.gov.si/teme/solski-koledar-za-osnovne-sole/)
 
 ## Tschechien
 

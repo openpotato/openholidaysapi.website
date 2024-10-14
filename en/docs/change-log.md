@@ -1,5 +1,26 @@
 ## OpenHolidays API Data
 
+### 0.0.21 <small>_ October 14, 2024</small>
+
+- Added holidays for Belarus
+- Added holidays for Moldova 
+- Added holidays for Romania
+- Added holidays for Serbia
+- Added holidays for French Overseas Territories
+- Added school holidays 2023/2024 and 2024/2025 for Lithuania
+- Added school holidays 2024/2025 for Albania
+- Added school holidays 2024/2025 for Corse (France)
+- Added school holidays 2024/2025 for Croatia
+- Added school holidays 2024/2025 for Hungary
+- Added school holidays 2024/2025 for Italy
+- Added school holidays 2024/2025 for Malta
+- Added school holidays 2024/2025 for Poland
+- Added school holidays 2024/2025 for Slovenia
+- Added school holidays 2024/2025, 2025/2026, 2026/2027 and 2027/2028 for Portugal
+- Added school holidays until 2027/2028 for Swiss canton Jura.
+- Public holidays for Switzerland refactored
+- Bug fixes
+
 ### 0.0.20 <small>_ May 02, 2024</small>
 
 - Added holidays for Spain
