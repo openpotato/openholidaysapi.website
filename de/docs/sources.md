@@ -31,7 +31,7 @@ Quellen:
 
 Andorra hat 14 offizielle Feiertage, die arbeits- und schulfrei sind. Zudem hat jede Gemeinde einen zusätzlichen lokalen Feiertag.
 
-Quellen:
+Quelle:
 
 + [Salari mínim i festius nacionals i parroquials](https://www.treball.ad/salari-minim-i-festius)
 
@@ -563,11 +563,13 @@ Quellen:
 
 <h3>Feiertage</h3>
 
-In der Schweiz werden die gesetzlichen Feiertage und die Tage, die wie gesetzliche Feiertage behandelt werden, mit Ausnahme des 1. August, durch die Kantone bestimmt. Der Neujahrstag, die Auffahrt und der Weihnachtstag sind die einzigen Feiertage, die alle Kantone als gesetzliche Feiertage bezeichnet haben.
+In der Schweiz werden die gesetzlichen Feiertage und die Tage, die wie gesetzliche Feiertage behandelt werden, mit Ausnahme des 1. August, durch die Kantone bestimmt. Der Neujahrstag, die Auffahrt und der Weihnachtstag sind die einzigen Feiertage, die alle Kantone als gesetzliche Feiertage bezeichnet haben. 
+
+Tage, die die wie gesetzliche Feiertage behandelt werden, sind gemäss kantonalem Gesetz ganz normale Werktage. Damit ist deren rechtlicher Status oft unklar. In der Praxis sind die meisten Behörden und Geschäfte jedoch geschlossen.
 
 <h4>Allgemein</h4>
 
-Die folgenden Quellen bieten einen guten Überblick über alle Kantone, sind aber zum Teil nicht mehr ganz aktuell bzw. unvollständig. Als Primärquelle dienen deshalb stets die Publikationen der einzelnen Kantone.
+Die folgenden Quellen bieten einen guten Überblick über alle Kantone, umfassen aber nur zum Teil die lokalen Ruhe- bzw. Feiertage.
 
 Quellen:
 
@@ -733,6 +735,10 @@ Im Kanton Glarus gelten folgende zusätzliche Ruhetage bzw. Feiertage:
 + Allerheiligen (1. November)
 + Stephanstag (26. Dezember)
 
+Tage, die wie gesetzliche Feiertage behandelt werden:
+
++ Berchtoldstag (2. Januar)
+
 Quelle:
 
 + [GS IX B/21/1 - Gesetz über die öffentlichen Ruhetage (Ruhetagsgesetz)](https://gesetze.gl.ch/app/de/texts_of_law/IX%20B%2F21%2F1)
@@ -789,11 +795,18 @@ Im Kanton Luzern gelten folgende zusätzliche Ruhetage bzw. Feiertage:
 + Mariä Empfängnis (8. Dezember)
 + Stephanstag (26. Dezember)
 
+Tage, die wie gesetzliche Feiertage behandelt werden:
+
++ Berchtoldstag (2. Januar), 
++ Ostermontag
++ Pfingstmontag
+
 Der Josefstag und der Tag des in den Kirchgemeinden bezeichneten Patroziniumsfestes können als weitere lokale Ruhetage gelten, wenn sie von den Einwohnergemeinden zu öffentlichen Ruhetagen erklärt werden.
 
-Quelle:
+Quellen:
 
 + [SRL Nr. 855 - Ruhetags- und Ladenschlussgesetz (RLG)](https://srl.lu.ch/app/de/texts_of_law/855)
++ [Öffnungszeiten / Feiertage](https://gruezi.lu.ch/gut_zu_wissen/oeffnungszeiten_feiertage)
 
 <h4>Kanton Neuenburg <small>- CH-NE</small></h4>
 
@@ -825,6 +838,13 @@ Im Kanton Nidwalden gelten folgende zusätzliche Ruhetage bzw. Feiertage:
 + Allerheiligen (1. November)
 + Maria Empfängnis (8. Dezember)
 
+Tage, die wie gesetzliche Feiertage behandelt werden:
+
++ Berchtoldstag (2. Januar)
++ Ostermontag
++ Pfingstmontag
++ Stephanstag (26. Dezember)
+
 Es können regional weitere Feiertage als lokale Ruhetage gelten.
 
 Quelle:
@@ -844,6 +864,13 @@ Im Kanton Obwalden gelten folgende zusätzliche Ruhetage bzw. Feiertage:
 + Bruderklausenfest (25. September)
 + Allerheiligen (1. November)
 + Mariä Empfängnis (8. Dezember)
+
+Tage, die wie gesetzliche Feiertage behandelt werden:
+
++ Berchtoldstag (2. Januar)
++ Ostermontag
++ Pfingstmontag	
++ Stephanstag (26. Dezember)
 
 Es gelten zudem folgende lokale Feiertage:
 
@@ -867,9 +894,13 @@ Im Kanton Schaffhausen gelten folgende zusätzliche Ruhetage bzw. Feiertage:
 + Eidgenössischer Dank-, Buss- und Bettag
 + Stephanstag (26. Dezember)
 
+Tage, die wie gesetzliche Feiertage behandelt werden:
+
++ Berchtoldstag (2. Januar)
+
 Quelle:
 
-+ [900.200 – Gesetz betreffend die öffentlichen Ruhetage und den Ladenschluss](https://www.lexfind.ch/fe/de/tol/14722/versions/74361/de)
++ [900.200 – Gesetz betreffend die öffentlichen Ruhetage und den Ladenschluss](https://www.lexfind.ch/fe/de/tol/14722/)
 
 <h4>Kanton Schwyz <small>- CH-SZ</small></h4>
 
@@ -917,7 +948,50 @@ Im Kanton Solothurn gelten folgende zusätzliche Ruhetage bzw. Feiertage:
 + Mariä Himmelfahrt (15. August): Gilt nicht für den Bezirk Bucheggberg
 + Allerheiligen (1. November): Gilt nicht für den Bezirk Bucheggberg
 
-Es können regional weitere kommunale Ruhetage gelten.
+Tage, die wie gesetzliche Feiertage behandelt werden:
+
++ Berchtoldstag (2. Januar)
++ Ostermontag
++ Pfingstmontag
++ Stephanstag (26. Dezember)
+
+Es gelten regional weitere kommunale Ruhetage: 
+
++ Josephstag (19. März): Fulenbach, Walterswil, Wisen, Metzerlen, Nulgar-St. Pantaleon, Rodersdorf, Bärschwil, Büsserach 
++ Patroziniumsfeste:
+	+ St.-Antonius-Tag (17. Januar): Aedermannsdorf
+	+ Priskatag (18. Januar): Büsserach
+	+ Fabian- und Sebastianstag (20. Januar): Deitingen, Hochwald, Kienberg, Neuendorf, Rodersdorf
+	+ Vinzenztag (22. Januar): Beinwil
+	+ St. Blasius (3. Februar): Gempen
+	+ Agathatag (5. Februar): Hauenstein-Ifenthal, Neuendorf
+	+ Germanstag (21. Februar): Lommiswil
+	+ St. Urs und Viktor (5. März und 30. September): Kestenholz
+	+ Benediktustag (21. März): Beinwil
+	+ Mariä Verkündigung (25. März): Wolfwil
+	+ St.-Georgen-Tag (23. April): Oensingen
+	+ 1\. Mai (auch vormittags): Aedermannsdorf
+	+ Pankratiustag (12. Mai): Matzendorf
+	+ St.-Johannes-Tag (24. Juni): Herbetswil
+	+ St. Peter und Paul (29. Juni): Flumenthal
+	+ Mariä Heimsuchung (2. Juli): Neuendorf
+	+ St.-Pantaleons-Tag (27. Juli): Nuglar-St. Pantaleon
+	+ St. Germanstag (31 Juli): Seewen
+	+ Laurentiustag (10. August): Rodersdorf
+	+ Mariä Geburt (8. September): Matzendorf
+	+ St.-Mauritius-Tag (22. September): Dornach, Kleinlützel
+	+ St.-Ursen-Tag (30. September): Nunningen, Ramiswil, Solothurn
+	+ Remigiustag (1. Oktober): Metzerlen
+	+ Gallustag (16. Oktober): Hochwald
+	+ Herz-Jesu-Fest, Lukastag (18. Oktober): Bärschwil 
+	+ Wendelinstag (20. Oktober): Beinwil, Mümliswil-Ramiswil, Nunningen
+	+ Martinstag (11. November): Büren, Mümliswil
+	+ Klemenztag (23. November): Bettlach
+	+ Katharinatag (25. November): Bättwi, Hauenstein-Ifenthal
+	+ Franz-Xaver-Tag (3. Dezember): Himmelried
+	+ Barbaratag (4. Dezember): Kappel
+	+ St.-Johannes-Tag (27. Dezember): Härkingen
+	+ St.-Margrethen-Tag (1. Samstag im Juli): Breitenbach 
 
 Quelle:
 
@@ -935,6 +1009,10 @@ Im Kanton St. Gallen gelten folgende zusätzliche Ruhetage bzw. Feiertage:
 + Eidgenössischer Dank-, Buss- und Bettag
 + Allerheiligen (1. November)
 + Stephanstag (26. Dezember)
+
+Tage, die wie gesetzliche Feiertage behandelt werden:
+
++ Berchtoldstag (2. Januar)
 
 Quelle:
 
@@ -1022,6 +1100,13 @@ Im Kanton Wallis gelten folgende zusätzliche Ruhetage bzw. Feiertage:
 + Maria Himmelfahrt (15. August)
 + Allerheiligen (1. November)
 + Mariä Empfängnis (8. Dezember)
+
+Tage, die wie gesetzliche Feiertage behandelt werden:
+
++ Berchtoldstag (2. Januar)
++ Ostermontag
++ Pfingstmontag
++ Stephanstag (26. Dezember)
 	
 Quelle:
 
@@ -1036,6 +1121,13 @@ Im Kanton Zug gelten folgende zusätzliche Ruhetage bzw. Feiertage:
 + Maria Himmelfahrt (15. August)
 + Allerheiligen (1. November)
 + Mariä Empfängnis (8. Dezember)
+
+Tage, die wie gesetzliche Feiertage behandelt werden:
+
++ Berchtoldstag (2. Januar)
++ Ostermontag
++ Pfingstmontag
++ Stephanstag (26. Dezember)
 	
 Quellen:
 
@@ -1080,14 +1172,37 @@ Quellen:
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2020 (PDF)](https://edudoc.ch/record/131016/files/Schulferien_2020_def.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2019 (PDF)](https://edudoc.ch/record/126296/files/Schulferien_2019_def.pdf)
 
+<h4>Kanton Basel-Landschaft<small>- CH-BL</small></h4>
+
+Die Schulferien im Kanton Basel-Landschaft sind für alle Volksschulen, Musikschulen, weiterführenden Schulen und Berufsfachschulen gleich. Eine Ausnahme bildet lediglich das Regionale Gymnasiums Laufental-Thierstein.
+
++ [Schulferien](https://www.baselland.ch/politik-und-behorden/direktionen/bildungs-kultur-und-sportdirektion/schulferien)
+
+<h4>Kanton Basel-Stadt<small>- CH-BS</small></h4>
+
+Die Schulferien im Kanton Basel-Stadt sind für alle öffentlichen Schulen gleich.
+
++ [Schulferien](https://www.bs.ch/themen/bildung-und-kinderbetreuung/schulferien)
+
 <h4>Kanton Jura <small>- CH-JU</small></h4>
 
-Die Schulferien im Kanton Jura sind für alle öffentlichen Schulen gleich:
+Die Schulferien im Kanton Jura sind für alle öffentlichen Schulen gleich.
 
 + [Vacances scolaires](https://www.jura.ch/DFC/SEN/Vacances-scolaires.html)
 + [Dates des vacances scolaires 2023 à 2028 (PDF)](https://www.jura.ch/Htdocs/Files/v/40088.pdf/Departements/DFCS/SEN/Vacances/220531_Arrete_Vacances_scolaires-2023---2028_Decision-GVT.pdf?download=1)
 + [Dates des vacances scolaires 2018 à 2023 (PDF)](https://www.jura.ch/Htdocs/Files/v/24641.pdf/Departements/DFCS/SEN/Vacances/1819_2324_Arrete_Vacances_scolaires.pdf?download=1)
 
+<h4>Kanton Solothurn <small>- CH-SO</small></h4>
+
+Die Schulferien im Kanton Solothurn sind für alle Mittel- und Berufsfachschulen gleich. Die Feriendaten der Volkschulen unterscheiden sich nach Gemeinde und Region.
+
++ Ferienpläne für die Mittel- und Berufsfachschulen
+    
+	+ [Ferienpläne für die kantonalen Mittel- und Berufsfachschulen](https://so.ch/verwaltung/departement-fuer-bildung-und-kultur/amt-fuer-berufsbildung-mittel-und-hochschulen/aktuell/ferienplaene/)
+
++ Ferienpläne der Volkschulen
+
+    + [Feriendaten der Volkschule](https://so.ch/verwaltung/departement-fuer-bildung-und-kultur/volksschulamt/aktuell/ferienplan/)
 
 ## Serbien
 
@@ -1165,6 +1280,7 @@ Quellen:
 
 + Andalusien <small>- ES-AN</small>
 
+    + [CALENDARIO DE FIESTAS LABORALES PARA ANDALUCÍA 2025](https://www.juntadeandalucia.es/boja/2024/100/35)
     + [CALENDARIO DE FIESTAS LABORALES PARA ANDALUCÍA 2024](https://www.juntadeandalucia.es/boja/2023/67/36)
     + [CALENDARIO DE FIESTAS LABORALES PARA ANDALUCÍA 2023](https://www.juntadeandalucia.es/boja/2022/87/1)
     + [CALENDARIO DE FIESTAS LABORALES PARA ANDALUCÍA 2022](https://www.juntadeandalucia.es/boja/2021/82/2)
@@ -1173,7 +1289,7 @@ Quellen:
 
 + Aragon <small>- ES-AR</small>
 
-    + [Las festas laborales retribuidas, no recuperables e inhábiles para el año 2024 (PDF)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1283256050505)
+    + [Las festas laborales retribuidas, no recuperables e inhábiles para el año 2025 (PDF)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1340337220606)
     + [Las festas laborales retribuidas, no recuperables e inhábiles para el año 2023 (PDF)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1225783324646)
     + [Las festas laborales retribuidas, no recuperables e inhábiles para el año 2022 (PDF)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1175493805252)
     + [Las festas laborales retribuidas, no recuperables e inhábiles para el año 2021 (PDF)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1124058485555)
@@ -1181,6 +1297,8 @@ Quellen:
 
 + Asturien <small>- ES-AS</small>
 
+    + Calendario 2025: Noch nicht veröffentlicht
+	
     + [Calendario 2024 (PDF)](https://sede.asturias.es/bopa/2023/11/29/2023-10431.pdf)
     + [Calendario 2023 (PDF)](https://sede.asturias.es/bopa/2022/12/01/2022-08887.pdf)
     + [Calendario 2022 (PDF)](https://sede.asturias.es/bopa/2021/11/24/2021-09934.pdf)
@@ -1189,6 +1307,7 @@ Quellen:
 
 + Kantabrien <small>- ES-CB</small>	
 
+    + [El calendario de fi estas laborales para el año 2025 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=407917)
     + [El calendario de fi estas laborales para el año 2024 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=392673)
     + [El calendario de fi estas laborales para el año 2023 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=374704)
     + [El calendario de fi estas laborales para el año 2022 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=364257)
@@ -1201,6 +1320,7 @@ Quellen:
 
 + Castile and León <small>- ES-CL</small>	
 
+    + [La fiestas laborales 2025 (PDF)](https://bocyl.jcyl.es/boletines/2024/09/23/pdf/BOCYL-D-23092024-2.pdf)
     + [La fiestas laborales 2024 (PDF)](https://bocyl.jcyl.es/boletines/2023/10/09/pdf/BOCYL-D-09102023-15.pdf)
     + [La fiestas laborales 2023 (PDF)](https://bocyl.jcyl.es/boletines/2022/10/27/pdf/BOCYL-D-27102022-11.pdf)
     + [La fiestas laborales 2022 (PDF)](https://bocyl.jcyl.es/boletines/2021/10/13/pdf/BOCYL-D-13102021-10.pdf)
@@ -1209,6 +1329,7 @@ Quellen:
 
 + Castilla-La Mancha <small>- ES-CM</small>	
 
+    + [Calendario laboral para el año 2025 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2024/07/03/pdf/2024_5245.pdf&tipo=rutaDocm)
     + [Calendario laboral para el año 2024 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2023/05/19/pdf/2023_4631.pdf&tipo=rutaDocm)
     + [Calendario laboral para el año 2023 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2022/04/26/pdf/2022_3614.pdf&tipo=rutaDocm)
     + [Calendario laboral para el año 2022 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2021/06/29/pdf/2021_7619.pdf&tipo=rutaDocm)
@@ -1217,6 +1338,7 @@ Quellen:
 
 + Kanarische Inseln <small>- ES-CN</small>	
 
+    + [Calendario de fiestas laborales para el año 2025](https://www.gobiernodecanarias.org/boc/2024/187/3013.html)
     + [Calendario de fiestas laborales para el año 2024](https://www.gobiernodecanarias.org/boc/2023/184/001.html)
 	+ [Calendario de fiestas laborales para el año 2023](https://www.gobiernodecanarias.org/boc/2022/137/001.html)
 	+ [Calendario de fiestas laborales para el año 2022](https://www.gobiernodecanarias.org/boc/2021/136/001.html)
@@ -1225,20 +1347,24 @@ Quellen:
 
 + Katalonien <small>- ES-CT</small>	
 
+    + [Calendari de festes laborals a Catalunya per a l'any 2025](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=984281)
     + [Calendari de festes laborals a Catalunya per a l'any 2024](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=962684)
     + [Calendari de festes laborals a Catalunya per a l'any 2023](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=926365)
     + [Calendari de festes laborals a Catalunya per a l'any 2022](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=905013)
-    + [Calendari de festes laborals a Catalunya per a l'any 2021 (PDF)](https://portaljuridic.gencat.cat/ca/document-del-pjur/?documentId=875393)
-    + [Calendari de festes laborals a Catalunya per a l'any 2020 (PDF)](https://www.ccoo-servicios.es/archivos/catalunya/calen2020-fl.pdf)
+    + [Calendari de festes laborals a Catalunya per a l'any 2021](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=875393)
+    + [Calendari de festes laborals a Catalunya per a l'any 2020](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=851832)
 
 + Extremadura <small>- ES-EX</small>	
 
+    + [Las fiestas laborales para el año 2025 (PDF)](https://doe.juntaex.es/pdfs/doe/2024/960o/24040062.pdf)
 	+ [Las fiestas laborales para el año 2024 (PDF)](https://doe.juntaex.es/pdfs/doe/2023/1070o/23040116.pdf)
 	+ [Las fiestas laborales para el año 2023 (PDF)](https://doe.juntaex.es/pdfs/doe/2022/1720o/22040168.pdf)
 	+ [Las fiestas laborales para el año 2022 (PDF)](https://doe.juntaex.es/pdfs/doe/2021/1480o/21040122.pdf)
+	+ [Las fiestas laborales para el año 2021 (PDF)](https://doe.juntaex.es/pdfs/doe/2020/1700o/20040061.pdf)
 
 + Galicien <small>- ES-GA</small>	
 
+    + [Fiestas laborales para 2025](https://www.xunta.gal/dog/Publicados/2024/20240724/AnuncioG0767-170724-0001_es.html)
     + [Fiestas laborales para 2024](https://www.xunta.gal/dog/Publicados/2023/20230717/AnuncioG0656-070723-0002_es.html)
 	+ [Fiestas laborales para 2023](https://www.xunta.gal/dog/Publicados/2022/20220805/AnuncioG0656-010822-0001_es.html)
 	+ [Fiestas laborales para 2022](https://www.xunta.gal/dog/Publicados/2021/20210707/AnuncioG0599-300621-0003_es.html)
@@ -1247,12 +1373,15 @@ Quellen:
 
 + Balearische Inseln <small>- ES-IB</small>
 
+    + Calendario 2025: Noch nicht veröffentlicht
+
     + [Calendario oficial](https://www.caib.es/seucaib/es/fichainformativa/2802776)
-	+ [Calendario de días inhábiles 2024 (PDF)](https://intranet.caib.es/eboibfront/es/2023/11839/680620/decreto-89-2023-de-1-de-diciembre-por-el-que-se-fi)
-	+ [Calendario de días inhábiles 2023 (PDF](https://intranet.caib.es/eboibfront/es/2022/11662/667546/decreto-48-2022-de-5-de-diciembre-por-el-que-se-fi)
+	+ [Calendario de días inhábiles 2024](https://intranet.caib.es/eboibfront/es/2023/11839/680620/decreto-89-2023-de-1-de-diciembre-por-el-que-se-fi)
+	+ [Calendario de días inhábiles 2023](https://intranet.caib.es/eboibfront/es/2022/11662/667546/decreto-48-2022-de-5-de-diciembre-por-el-que-se-fi)
 
 + Region Madrid <small>- ES-MD</small>
 
+    + [Las fiestas laborales para el año 2025 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/26/BOCM-20240926-13.PDF)
     + [Las fiestas laborales para el año 2024 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/28/BOCM-20230928-17.PDF)
     + [Las fiestas laborales para el año 2023 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/22/BOCM-20220922-18.PDF)
     + [Las fiestas laborales para el año 2022 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/23/BOCM-20210923-12.PDF)
@@ -1261,13 +1390,18 @@ Quellen:
 
 + Region Murcia <small>- ES-MC</small>	
 
+    + Calendario 2025: Noch nicht veröffentlicht
+    
+	+ [Calendario oficial de días inhábiles](https://sede.carm.es/web/pagina?IDCONTENIDO=40292&IDTIPO=100&RASTRO=c$m40267) 
     + [Días inhábiles en los municipios, año 2024 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=Publicacion%20BORM.pdf&ALIAS=ARCH&IDCONTENIDO=186074&RASTRO=c$m40267,40292)
     + [Días inhábiles en los municipios, año 2023 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=RESOLUCION%20D%C3%8DAS%20INHABILES%20%28BORM%29.pdf&ALIAS=ARCH&IDCONTENIDO=179351&RASTRO=c$m40267,40292)
+	+ [Días inhábiles en los municipios, año 2022 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=RESOLUCION%20CALENDARIO%20DIAS%20INHABILES%202022-BORM.pdf&ALIAS=ARCH&IDCONTENIDO=173315&RASTRO=c$m40267,40292)
     + [Días inhábiles en los municipios, año 2021 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=Resolucion%20Calendario%20dias%20inhabiles-BORM.pdf&ALIAS=ARCH&IDCONTENIDO=167491&RASTRO=c$m40267,40292) 
     + [Días inhábiles en los municipios, año 2020 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=Publicaci%C3%B3n%20BORM.pdf&ALIAS=ARCH&IDCONTENIDO=165621&RASTRO=c$m40267,40292)
 
 + Melilla <small>- ES-ML</small>	
 
+    + [Calendario Laboral 2025](https://www.melilla.es/melillaportal/contenedor.jsp?seccion=s_fact_d4_v1.jsp&contenido=37491&nivel=1400&tipo=2)
     + [Calendario Laboral 2024](https://www.melilla.es/melillaportal/contenedor.jsp?seccion=s_fact_d4_v1.jsp&contenido=34997&nivel=1400&tipo=2)
     + [Calendario Laboral 2023](https://www.melilla.es/melillaportal/contenedor.jsp?seccion=s_fact_d4_v1.jsp&contenido=33685&nivel=1400&tipo=2)
     + [Calendario Laboral 2022](https://www.melilla.es/melillaportal/contenedor.jsp?seccion=s_fact_d4_v1.jsp&contenido=32051&nivel=1400&tipo=2)
@@ -1276,6 +1410,7 @@ Quellen:
 
 + Region Navarra <small>- ES-NC</small>	
 
+    + [Calendario Oficial de Fiestas Laborales para el año 2025](https://www.lexnavarra.navarra.es/detalle.asp?r=57122)
     + [Calendario Oficial de Fiestas Laborales para el año 2024](https://www.lexnavarra.navarra.es/detalle.asp?r=56116)
     + [Calendario Oficial de Fiestas Laborales para el año 2023](https://www.lexnavarra.navarra.es/detalle.asp?r=55481)
     + [Calendario Oficial de Fiestas Laborales para el año 2022](https://www.lexnavarra.navarra.es/detalle.asp?r=53763)
@@ -1284,10 +1419,10 @@ Quellen:
 
 + Baskenland <small>- ES-PV</small>	
 
-    + [Calendario laboral de la Comunidad Autónoma de Euskadi y de sus Territorios Históricos](https://www.euskadi.eus/gobierno-vasco/-/calendario-laboral/)
-    
 	+ Comunidad Autónoma de Euskadi
 
+        + [Calendario laboral de la Comunidad Autónoma de Euskadi y de sus Territorios Históricos](https://www.euskadi.eus/gobierno-vasco/-/calendario-laboral/)
+		+ [Calendario Oficial de Fiestas Laborales para el año 2025 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/24.05.08-PUBLICACION-BOPV-num.-89.pdf)
         + [Calendario Oficial de Fiestas Laborales para el año 2024 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/BOPV-114-Decreto-71-2023-Calendario-Oficial-Fiestas-Laborales-CAE-2024-.pdf)
         + [Calendario Oficial de Fiestas Laborales para el año 2023 (PDF)](https://www.euskadi.eus/bopv2/datos/2022/05/2202038a.pdf)
         + [Calendario Oficial de Fiestas Laborales para el año 2022 (PDF)](https://www.euskadi.eus/bopv2/datos/2021/05/2102878a.pdf)
@@ -1296,6 +1431,7 @@ Quellen:
 
     + Álava <small>- ES-PV-AA</small> 
 
+        + [Calendario de fiestas laborales 2025 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/2024_080_02306_C.pdf)
         + [Calendario de fiestas laborales 2024 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Calendario-de-fiestas-laborales-2024-2023_087_02269_C.pdf)
         + [Calendario de fiestas laborales 2023 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/adjuntos/22.07.20-ALAVA-CALENDARIO-LABORAL.pdf)
         + [Calendario de fiestas laborales 2022 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/adjuntos/21.07.19-CALENDARIO-LABORAL-ALAVA.pdf)
@@ -1304,14 +1440,16 @@ Quellen:
 
     + Gipuzkoa <small>- ES-PV-GP</small> 
 
-        + [Calendario de las fiestas locales para el año 2024 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/c2307192.pdf)
+        + [Calendario de las fiestas locales para el año 2025 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/BOG.pdf)
+        + [Calendario de las fiestas locales para el año 2024 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/c2307192.pdf) + [Modificación calendario (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Modificacion-BOG.pdf)
         + [Calendario de las fiestas locales para el año 2023 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/BOG-2022-09-22.pdf)
         + [Calendario de las fiestas locales para el año 2022 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/adjuntos/21.09.20-CALENDARIO-LABORAL-GIPUZKOA.pdf)
         + [Calendario de las fiestas locales para el año 2020 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/adjuntos/CALENDARIO%20LABORAL%20GIPUZKOA.pdf)
 
     + Bizkaia <small>- ES-PV-VZ</small> 
 
-        + [Calendario laboral 2024 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Calendario-laboral-Bizkaia-2024_cas.pdf)
+        + [Calendario laboral 2025 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Calendario-laboral-Bizkaia-2025-cas.pdf) + [Modificación calendario (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/modificacion-calendario-laboral-Bizkaia-2025-cas.pdf)
+        + [Calendario laboral 2024 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Calendario-laboral-Bizkaia-2024_cas.pdf) + [Modificación calendario (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Modif.-calendario-laboral-Bizkaia-2024-cas.pdf)
         + [Calendario laboral 2023 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Calendario-laboral-Bizkaia-2023-cas.pdf)
         + [Calendario laboral 2022 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/adjuntos/21.09.24-CALENDARIO-LABORAL-BIZKAIA.pdf)
         + [Calendario laboral 2021 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/adjuntos/20.10.07-CALENDARIO-LABORAL-BIZKAIA-cas.pdf)
@@ -1319,6 +1457,8 @@ Quellen:
 
 + La Rioja <small>- ES-RI</small>
 
+    + Calendario 2025: Noch nicht veröffentlicht
+	
     + [Calendario de días inhábiles para el año 2024](https://web.larioja.org/bor-portada/boranuncio?n=anu-558472)
     + [Calendario de días inhábiles para el año 2023](https://web.larioja.org/bor-portada/boranuncio?n=anu-550192)
     + [Calendario de días inhábiles para el año 2022](https://web.larioja.org/bor-portada/boranuncio?n=anu-542596)
@@ -1327,6 +1467,7 @@ Quellen:
 
 + Valencianische Gemeinschaft <small>- ES-VC</small>	
 
+    + [El Consell aprueba el calendario laboral de 2025](https://comunica.gva.es/es/detalle?id=385216814&site=373430869)
     + [El Consell aprueba el calendario laboral de 2024](https://comunica.gva.es/es/detalle?id=374879490&site=373430869)
     + [El Consell aprueba el calendario laboral de 2023](https://comunica.gva.es/es/detalle?id=364734111&site=174859740)
     + [El Consell aprueba el calendario laboral de 2022](https://comunica.gva.es/es/detalle?id=361443050&site=174859740)
@@ -1341,6 +1482,7 @@ Quellen:
 
 + Andalusien <small>- ES-AN</small>
 
+    + [Calendarios Escolares Provinciales 2024/25](https://educacion.ustea.org/calendarios-escolares-provinciales-2024-25-actualizacion-27-mayo-2024/)
 	+ [Calendarios Escolares Provinciales 2023/24](https://educacion.ustea.org/calendarios-escolares-provinciales-2023-24/)
 	+ [Calendarios Escolares Provinciales 2022/23](https://educacion.ustea.org/calendarios-escolares-provinciales-2022-23/)
 	+ [Calendarios Escolares Provinciales 2021/22](https://educacion.ustea.org/calendario-escolar-curso-2021-22/)
@@ -1356,6 +1498,7 @@ Quellen:
 
 + Asturien <small>- ES-AS</small>	
 
+	+ [Calendario escolar 2024-2025 (PDF)](https://sede.asturias.es/bopa/2024/05/30/2024-04412.pdf)
 	+ [Calendario escolar 2023-2024 (PDF)](https://sede.asturias.es/bopa/2023/05/10/2023-03661.pdf)
 	+ [Calendario escolar 2022-2023 (PDF)](https://sede.asturias.es/bopa/2022/04/25/2022-02717.pdf)
 	+ [Calendario escolar 2021-2022 (PDF)](https://sede.asturias.es/bopa/2021/06/01/2021-05208.pdf)
@@ -1364,6 +1507,7 @@ Quellen:
 
 + Kantabrien <small>- ES-CB</small>	
     
+	+ [Calendario escolar 2024-2025 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=400937)
 	+ [Calendario escolar 2023-2024 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=387183)
     + [Calendario escolar 2022-2023 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=371347)
 	+ [Calendario escolar 2021-2022 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=360271)
@@ -1372,6 +1516,7 @@ Quellen:
 
 + Ceuta <small>- ES-CE</small>	
 
+    + [Calendario escolar 2024-2025 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:5c637167-24cb-4319-a2d6-1dc45d9f6ada/24-060-01-calendario-escolar-2024-25.pdf)
     + [Calendario escolar 2023-2024 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:b6627354-9f08-4d20-ac89-dffca42feecb/23-057-01-calendario-escolar-2023-2024.pdf)
     + [Calendario escolar 2022-2023 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:90e51f6a-5751-4462-b826-2c0422f523b7/22-044-01-calendario-escolar-2022-2023.pdf)
     + [Calendario escolar 2021-2022 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:95fea70e-dbd0-4102-b73f-dda1632072ed/21-025-calendario-escolar-2021-2022.pdf)
@@ -1380,6 +1525,7 @@ Quellen:
 + Castile and León <small>- ES-CL</small>	
 
     + [Calendario escolar](https://www.educa.jcyl.es/es/calendario-escolar)
+	+ [Calendario escolar 2024-2025 (PDF)](https://bocyl.jcyl.es/boletines/2024/05/24/pdf/BOCYL-D-24052024-16.pdf)
     + [Calendario escolar 2023-2024 (PDF)](https://bocyl.jcyl.es/boletines/2023/05/09/pdf/BOCYL-D-09052023-20.pdf)
     + [Calendario escolar 2022-2023 (PDF)](https://bocyl.jcyl.es/boletines/2022/06/10/pdf/BOCYL-D-10062022-26.pdf)
     + [Calendario escolar 2021-2022 (PDF)](https://bocyl.jcyl.es/boletines/2021/05/05/pdf/BOCYL-D-05052021-21.pdf)
@@ -1389,6 +1535,7 @@ Quellen:
 + Castilla-La Mancha <small>- ES-CM</small>	
 
     + [Calendario escolar](https://www.educa.jccm.es/es/calendario-escolar)
+	+ [Calendario escolar 2024-2025 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2024/06/13/pdf/2024_4681.pdf&tipo=rutaDocm)
 	+ [Calendario escolar 2023-2024 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2023/06/23/pdf/2023_5538.pdf&tipo=rutaDocm)
 	+ [Calendario escolar 2022-2023 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2022/06/22/pdf/2022_5769.pdf&tipo=rutaDocm)
 	+ [Calendario escolar 2021-2022 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2021/06/08/pdf/2021_6785.pdf&tipo=rutaDocm)
@@ -1397,6 +1544,7 @@ Quellen:
 
 + Kanarische Inseln <small>- ES-CN</small>	
 
+    + [Calendario escolar 2024-2025](https://www.gobiernodecanarias.org/boc/2024/099/003.html)
     + [Calendario escolar 2023-2024](https://www.gobiernodecanarias.org/boc/2023/072/007.html)
 	+ [Calendario escolar 2022-2023](https://www.gobiernodecanarias.org/boc/2022/076/011.html)
 	+ [Calendario escolar 2021-2022](https://www.gobiernodecanarias.org/boc/2021/087/005.html)
@@ -1405,6 +1553,7 @@ Quellen:
 
 + Kantalonien <small>- ES-CT</small>	
     
+	+ [Calendario escolar 2024-2025](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=985703)
 	+ [Calendario escolar 2023-2024](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=961648)
     + [Calendario escolar 2022-2023](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=928355)
     + [Calendario escolar 2021-2022](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=902561)
@@ -1413,6 +1562,7 @@ Quellen:
 
 + Extremadura <small>- ES-EX</small>	
 
+    + [Calendario escolar 2024/2025 (PDF)](https://doe.juntaex.es/pdfs/doe/2024/1090o/24061895.pdf)
     + [Calendario escolar 2023/2024 (PDF)](https://doe.juntaex.es/pdfs/doe/2023/1150o/23062366.pdf)
     + [Calendario escolar 2022/2023 (PDF)](https://doe.juntaex.es/pdfs/doe/2022/1160o/22061970.pdf) + [Modificaciones (PDF)](https://doe.juntaex.es/pdfs/doe/2022/2090o/22063235.pdf)
     + [Calendario escolar 2021/2022 (PDF)](https://doe.juntaex.es/pdfs/doe/2021/1040o/21061623.pdf)
@@ -1421,7 +1571,8 @@ Quellen:
 
 + Galicien <small>- ES-GA</small>	
     
-	+ [Calendario escolar 2023/2024](https://www.edu.xunta.gal/portal/calendarioescolar)
+	+ [Calendario escolar 2024/2025](https://www.edu.xunta.gal/portal/node/42980)
+	+ [Calendario escolar 2023/2024](https://www.edu.xunta.gal/portal/node/39918)
     + [Calendario escolar 2022/2023](https://www.edu.xunta.gal/portal/node/37164)
     + [Calendario escolar 2021/2022](https://www.edu.xunta.gal/portal/node/34169)
     + [Calendario escolar 2020/2021](https://www.edu.xunta.gal/portal/node/31488)
@@ -1429,6 +1580,7 @@ Quellen:
 
 + Balearische Inseln <small>- ES-IB</small>	
 
+    + [Calendario escolar 2024-2025](https://www.caib.es/pidip2front/ficha_convocatoria.xhtml?lang=es&urlSemantica=10105041)
     + [Calendario escolar 2023-2024](https://www.caib.es/pidip2front/ficha_convocatoria.xhtml;jsessionid=NjpAFW5Q385Jp0CM0KcWiryDm0FXjLi8mj_xMiR0.sapplin24?lang=es&urlSemantica=el-curso-escolar-2023-2024-empezara-dia-11-de-septiembre-y-acabara-el-21-de-junio)
 	+ [Calendario escolar 2022-2023](https://www.caib.es/pidip2front/jsp/es/ficha-convocatoria/strongel-curso-escolar-2022-2023-empezaraacute-diacutea-12-de-septiembre-y-acabaraacute-el-23-de-juniostrong)
     + [Calendario escolar 2021-2022](https://www.caib.es/pidip2front/jsp/es/ficha-convocatoria/strongel-curso-escolar-2021-2022-empezaraacute-diacutea-10-de-septiembre-y-acabaraacute-el-23-de-juniostrong)
@@ -1437,6 +1589,7 @@ Quellen:
 
 + Region Murcia <small>- ES-MC</small>	
 
+	+ [Calendario escolar 2024-2025 (PDF)](https://www.borm.es/services/anuncio/ano/2024/numero/3039/pdf)
     + [Calendario escolar 2023-2024 (PDF)](https://www.borm.es/services/anuncio/ano/2023/numero/3658/pdf)
     + [Calendario escolar 2022-2023 (PDF)](https://www.borm.es/services/anuncio/ano/2022/numero/2756/pdf)
     + [Calendario escolar 2021-2022 (PDF)](https://www.borm.es/services/anuncio/ano/2021/numero/7571/pdf)
@@ -1445,6 +1598,8 @@ Quellen:
 
 + Region Madrid <small>- ES-MD</small>	
 
+    + [Calendario escolar](https://www.comunidad.madrid/servicios/educacion/calendario-escolar)
+    + [Calendario escolar 2024-2025 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/19/BOCM-20240419-18.PDF)
     + [Calendario escolar 2023-2024 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/12/BOCM-20230612-21.PDF)
     + [Calendario escolar 2022-2023 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/30/BOCM-20220630-16.PDF)
     + [Calendario escolar 2021-2022 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2021/06/24/BOCM-20210624-24.PDF)
@@ -1453,7 +1608,8 @@ Quellen:
 
 + Melilla <small>- ES-ML</small>	
 
-    + [Calendario escolar 2023-2024 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:87f9e058-aecd-4af9-9f5c-51cae3600507/calendario-escolar-23-24.pdf)
+    + [Calendario escolar 2024-2025 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:ffbc16ae-3897-49bd-bcee-c3526a29e17e/calendario-academico-24-25.pdf)
+	+ [Calendario escolar 2023-2024 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:87f9e058-aecd-4af9-9f5c-51cae3600507/calendario-escolar-23-24.pdf)
 	+ [Calendario escolar 2022-2023 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:cf731a95-d0c1-4410-a74d-ac01360d63ac/calendario-escolar-22-23.pdf)
 	+ [Calendario escolar 2021-2022 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:da6c62b0-1850-498a-9a2f-9f5d697aa249/nuevo-calendario-escolar2.pdf)
 	+ [Calendario escolar 2020-2021 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:17e71f24-aaab-46a7-bbcd-d340ffb6439e/calendario-escolar-20-21.pdf)
@@ -1462,6 +1618,7 @@ Quellen:
 + Region Navarra <small>- ES-NC</small>	
 
     + [Calendario escolar](https://www.educacion.navarra.es/web/dpto/calendario-escolar)
+	+ [Calendario escolar 2024-2025](https://bon.navarra.es/es/anuncio/-/texto/2024/104/8)
 	+ [Calendario escolar 2023-2024](https://bon.navarra.es/es/anuncio/-/texto/2023/110/15)
 	+ [Calendario escolar 2022-2023](https://bon.navarra.es/es/anuncio/-/texto/2022/109/6)
 	+ [Calendario escolar 2021-2022 (PDF)](https://www.educacion.navarra.es/documents/27590/0/RES+153+2021+Instrucciones+Calendario+2021+2022+WEB.pdf/4f00c393-6b72-31b7-ebf6-54d2699f153e)
@@ -1470,7 +1627,8 @@ Quellen:
 
 + Baskenland <small>- ES-PV</small>	
 
-    + [Calendario escolar 2023-2024 (PDF)](https://www.euskadi.eus/contenidos/informacion/cee_organizacioncentros_calend/es_def/adjuntos/Egutegiaren_ebazpena_HHLH_2023_2024_c.pdf)
+    + [Calendario escolar 2024-2025 (PDF)](https://www.euskadi.eus/contenidos/informacion/cee_organizacioncentros_calend/es_def/adjuntos/2024_2025/Primaria_2024_2025_c.pdf)
+	+ [Calendario escolar 2023-2024 (PDF)](https://www.euskadi.eus/contenidos/informacion/cee_organizacioncentros_calend/es_def/adjuntos/Egutegiaren_ebazpena_HHLH_2023_2024_c.pdf)
 	+ [Calendario escolar 2022-2023 (PDF)](https://www.euskadi.eus/contenidos/informacion/cee_organizacioncentros_calend/es_def/adjuntos/resolucion_calendario_Primaria_2022_2023_c.pdf)
 	+ [Calendario escolar 2021-2022 (PDF)](https://www.euskadi.eus/contenidos/informacion/legelabur/es_def/adjuntos/resolucion_calendario_CIFP_2021-2022_c-2.pdf)
 	+ [Calendario escolar 2020-2021 (PDF)](https://www.euskadi.eus/contenidos/informacion/legelabur/es_def/Resolucion-calendario-escolar-2020-21.pdf)
@@ -1487,6 +1645,7 @@ Quellen:
 
 + Valencianische Gemeinschaft <small>- ES-VC</small>	
 
+    + [Calendario escolar 2024-2025 (PDF)](https://dogv.gva.es/datos/2024/06/17/pdf/2024_5471.pdf)
     + [Calendario escolar 2023-2024 (PDF)](https://dogv.gva.es/datos/2023/06/20/pdf/2023_6827.pdf)
     + [Calendario escolar 2022-2023 (PDF)](https://dogv.gva.es/datos/2022/06/16/pdf/2022_5675.pdf)
     + [Calendario escolar 2021-2022 (PDF)](https://dogv.gva.es/datos/2021/06/04/pdf/2021_6190.pdf)

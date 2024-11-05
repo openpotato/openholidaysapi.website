@@ -86,5 +86,7 @@ nav:
   - Data Sources: sources.md
   - Client Libraries: libraries.md
   - Community: community.md
-  - Change Log: change-log.md
+  - Change Log:
+    - Data: change-log-data.md
+    - Web Service: change-log-webservice.md
   - API: api.md
