@@ -84,9 +84,9 @@ markdown_extensions:
 nav:
   - Welcome: index.md
   - Data Sources: sources.md
-  - Client Libraries: libraries.md
-  - Community: community.md
   - Change Log:
     - Data: change-log-data.md
     - Web Service: change-log-webservice.md
+  - Client Libraries: libraries.md
+  - Community: community.md
   - API: api.md
