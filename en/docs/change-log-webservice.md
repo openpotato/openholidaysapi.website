@@ -3,7 +3,7 @@ The detailed [commit history](https://github.com/openpotato/openholidaysapi/comm
 
 We largely adhere to the recommendations from the community project [Keep a Changelog](https://keepachangelog.com).
 
-## 0.1.0 <small>_ November 05, 2024</small>
+## 0.1.0 <small>_ November 06, 2024</small>
 
 **Added:**
 
@@ -13,9 +13,8 @@ We largely adhere to the recommendations from the community project [Keep a Chan
 
 + Breaking API change: New enumeration type `RegionalScope` with 3 values (`National`, `Regional`, `Local`) added
 + Breaking API change: New enumeration type `TemporalScope` with 2 values (`FullDay`, `HalfDay`) added
-+ Breaking API change: The enumeration type `HolidayType` now has (again) 3 values (`National`, `Regional`, `Local`) less
-+ Breaking API change: The enumeration type `HolidayQuality` renamed to `HolidayStatus` and with new values (`Optional` and `Recommended`)
-+ Breaking API change: The atttribute `quality` renamed to `status`
++ Breaking API change: The attribute `quality` (enumeration type `HolidayQuality`) removed
++ Breaking API change: The enumeration type `HolidayType` has now (again) 3 values (`National`, `Regional`, `Local`) less and at the same time one value (`Optional`) added.
 
 ## 0.0.9 <small>_ December 12, 2023</small>
 

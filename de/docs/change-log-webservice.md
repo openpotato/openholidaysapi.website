@@ -3,7 +3,7 @@ Dort kann die detailierte [Commit-Historie](https://github.com/openpotato/openho
 
 Wir halten uns dabei weitestgehend an die Empfehlungen aus dem Community-Projekt [Keep a Changelog](https://keepachangelog.com/de).
 
-## 0.1.0 <small>_ 05. November 2024</small>
+## 0.1.0 <small>_ 06. November 2024</small>
 
 **Hinzugefügt:**
 
@@ -13,9 +13,8 @@ Wir halten uns dabei weitestgehend an die Empfehlungen aus dem Community-Projekt
 
 + Breaking API change: Neuer Aufzählungstyp `RegionalScope` mit 3 Werten (`National`, `Regional`, `Local`) hinzugefügt
 + Breaking API change: Neuer Aufzählungstyp `TemporalScope` mit 2 Werten (`FullDay`, `HalfDay`) hinzugefügt
-+ Breaking API change: Der Aufzählungstyp `HolidayType` hat jetzt (wieder) 3 Werte (`National`, `Regional`, `Local`) weniger
-+ Breaking API change: Der Aufzählungstyp `HolidayQuality` heißt jetzt `HolidayStatus` und hat folgende Werte (`Optional` und `Recommended`)
-+ Breaking API change: Das Attribut `quality` heißt jetzt `status`
++ Breaking API change: Das Attribut `quality` (Aufzählungstyp `HolidayQuality`) gibt es nicht mehr
++ Breaking API change: Der Aufzählungstyp `HolidayType` hat jetzt (wieder) 3 Werte (`National`, `Regional`, `Local`) weniger und gleichzeitig einen Wert (`Optional`) hinzubekommen.
 
 ## 0.0.9 <small>_ 12. Dezember 2023</small>
 
