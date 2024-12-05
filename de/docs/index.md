@@ -178,3 +178,5 @@ Um die Bildschirmausgabe von `curl` in eine Datei zu schreiben, kann der Paramet
     ``` bash
     curl -X GET 'https://openholidaysapi.org/PublicHolidays?countryIsoCode=DE&validFrom=2022-01-01&validTo=2022-12-31' -H 'accept: text/calendar' -o 'kalendar.ics'
     ```
+
+

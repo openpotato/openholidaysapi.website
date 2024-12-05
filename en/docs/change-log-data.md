@@ -3,6 +3,16 @@ The detailed [Commit history](https://github.com/openpotato/openholidaysapi.data
 
 We largely adhere to the recommendations from the community project [Keep a Changelog](https://keepachangelog.com). However, the holiday data of the OpenHolidays API project is not subject to semantic versioning.
 
+## December 12, 2024
+
+**Added:**
+
++ Confirmed public holidays 2025 for Spain (regions Asturias, Murcia, La Rioja) added
+
+**Fixed:**
+
++ Bug fix for Polish public holidays
+
 ## November 05, 2024
 
 **Added:**

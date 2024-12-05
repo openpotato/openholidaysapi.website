@@ -3,6 +3,16 @@ Dort kann die detailierte [Commit-Historie](https://github.com/openpotato/openho
 
 Wir halten uns dabei weitestgehend an die Empfehlungen aus dem Community-Projekt [Keep a Changelog](https://keepachangelog.com/de). Allerdings unterliegen die Feriendaten des OpenHolidays API-Projekts keiner semantischen Versionierung.
 
+## 12. Dezember 2024
+
+**Hinzugefügt:**
+
++ Bestätigte Feiertage 2025 für Spanien (Regionen Asturien, Murcia, La Rioja) hinzugefügt
+
+**Korrigiert:**
+
++ Fehlerkorrektur für polnische Feiertage
+
 ## 05. November 2024
 
 **Hinzugefügt:**

@@ -726,8 +726,7 @@ Sources:
 
 + Asturias <small>- ES-AS</small>
 
-    + Calendario 2025: Not yet published
-	
+	+ [Calendario 2025 (PDF)](https://sede.asturias.es/bopa/2024/12/05/2024-10445.pdf)
     + [Calendario 2024 (PDF)](https://sede.asturias.es/bopa/2023/11/29/2023-10431.pdf)
     + [Calendario 2023 (PDF)](https://sede.asturias.es/bopa/2022/12/01/2022-08887.pdf)
     + [Calendario 2022 (PDF)](https://sede.asturias.es/bopa/2021/11/24/2021-09934.pdf)
@@ -819,14 +818,13 @@ Sources:
 
 + Region of Murcia <small>- ES-MC</small>	
 
-    + Calendario 2025: Not yet published
-    
 	+ [Calendario oficial de días inhábiles](https://sede.carm.es/web/pagina?IDCONTENIDO=40292&IDTIPO=100&RASTRO=c$m40267) 
-    + [Días inhábiles en los municipios, año 2024 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=Publicacion%20BORM.pdf&ALIAS=ARCH&IDCONTENIDO=186074&RASTRO=c$m40267,40292)
-    + [Días inhábiles en los municipios, año 2023 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=RESOLUCION%20D%C3%8DAS%20INHABILES%20%28BORM%29.pdf&ALIAS=ARCH&IDCONTENIDO=179351&RASTRO=c$m40267,40292)
-	+ [Días inhábiles en los municipios, año 2022 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=RESOLUCION%20CALENDARIO%20DIAS%20INHABILES%202022-BORM.pdf&ALIAS=ARCH&IDCONTENIDO=173315&RASTRO=c$m40267,40292)
-    + [Días inhábiles en los municipios, año 2021 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=Resolucion%20Calendario%20dias%20inhabiles-BORM.pdf&ALIAS=ARCH&IDCONTENIDO=167491&RASTRO=c$m40267,40292) 
-    + [Días inhábiles en los municipios, año 2020 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=Publicaci%C3%B3n%20BORM.pdf&ALIAS=ARCH&IDCONTENIDO=165621&RASTRO=c$m40267,40292)
+    + [Días inhábiles en los municipios, año 2025 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=Resoluci%C3%B3n%20Calendario%20D%C3%ADas%20Inh%C3%A1biles%202025.pdf&ALIAS=ARCH&IDCONTENIDO=194212)
+    + [Días inhábiles en los municipios, año 2024 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=Publicacion%20BORM.pdf&ALIAS=ARCH&IDCONTENIDO=186074)
+    + [Días inhábiles en los municipios, año 2023 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=RESOLUCION%20D%C3%8DAS%20INHABILES%20%28BORM%29.pdf&ALIAS=ARCH&IDCONTENIDO=179351)
+	+ [Días inhábiles en los municipios, año 2022 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=RESOLUCION%20CALENDARIO%20DIAS%20INHABILES%202022-BORM.pdf&ALIAS=ARCH&IDCONTENIDO=173315)
+    + [Días inhábiles en los municipios, año 2021 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=Resolucion%20Calendario%20dias%20inhabiles-BORM.pdf&ALIAS=ARCH&IDCONTENIDO=167491) 
+    + [Días inhábiles en los municipios, año 2020 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=Publicaci%C3%B3n%20BORM.pdf&ALIAS=ARCH&IDCONTENIDO=165621)
 
 + Melilla <small>- ES-ML</small>	
 
@@ -885,9 +883,8 @@ Sources:
         + [Calendario laboral 2020 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/adjuntos/Calendariolaboral%20Bizkaia%202020.pdf)
 
 + La Rioja <small>- ES-RI</small>
-
-    + Calendario 2025: Not yet published
 	
+	+ [Calendario de días inhábiles para el año 2025](https://web.larioja.org/bor-portada/boranuncio?n=anu-565921)
     + [Calendario de días inhábiles para el año 2024](https://web.larioja.org/bor-portada/boranuncio?n=anu-558472)
     + [Calendario de días inhábiles para el año 2023](https://web.larioja.org/bor-portada/boranuncio?n=anu-550192)
     + [Calendario de días inhábiles para el año 2022](https://web.larioja.org/bor-portada/boranuncio?n=anu-542596)
