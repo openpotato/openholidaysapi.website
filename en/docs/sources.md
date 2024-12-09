@@ -801,11 +801,7 @@ Sources:
 
 + Balearic Islands <small>- ES-IB</small>
 
-    + Calendario 2025: Not yet published
-
-    + [Calendario oficial](https://www.caib.es/seucaib/es/fichainformativa/2802776)
-	+ [Calendario de días inhábiles 2024](https://intranet.caib.es/eboibfront/es/2023/11839/680620/decreto-89-2023-de-1-de-diciembre-por-el-que-se-fi)
-	+ [Calendario de días inhábiles 2023](https://intranet.caib.es/eboibfront/es/2022/11662/667546/decreto-48-2022-de-5-de-diciembre-por-el-que-se-fi)
+    + [Calendario Laboral](https://www.caib.es/sites/calendarilaboral/es/aao_2025/)
 
 + Community of Madrid <small>- ES-MD</small>
 
