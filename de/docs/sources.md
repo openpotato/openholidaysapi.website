@@ -1141,13 +1141,17 @@ Im Kanton Zürich gelten folgende zusätzliche Ruhetage bzw. Feiertage:
 + Karfreitag
 + Ostersonntag
 + Ostermontag
-+ Sechseläuten (nur Stadt Zürich, halber Tag)
 + Tag der Arbeit (1. Mai)
 + Pfingstsonntag
 + Pfingstmontag
-+ Knabenschiessen (nur Stadt Zürich, halber Tag)
 + Eidgenössischer Dank-, Buss- und Bettag
 + Stephanstag (26. Dezember)
+
+Tage, die wie gesetzliche Feiertage behandelt werden:
+
++ Berchtoldstag (2. Januar)
++ Sechseläuten (nur Stadt Zürich, halber Tag)
++ Knabenschiessen (nur Stadt Zürich, halber Tag)
 
 Quellen:
 

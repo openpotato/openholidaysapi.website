@@ -6,7 +6,7 @@ site_url: 'https://www.openholidaysapi.org/'
 
 # Copyright
 copyright: 
-  '&copy; 2024 STÜBER SYSTEMS GmbH : <a href="https://legal.stueber.de/imprint.php">Impressum</a> : <a href="https://legal.stueber.de/privacy.php">Datenschutz</a>'
+  '&copy; 2025 STÜBER SYSTEMS GmbH : <a href="https://legal.stueber.de/imprint.php">Impressum</a> : <a href="https://legal.stueber.de/privacy.php">Datenschutz</a>'
 
 # Repository
 repo_name: 'Auf GitHub'
@@ -83,10 +83,13 @@ markdown_extensions:
 # Navigation
 nav:
   - Einführung: index.md
-  - Datenquellen: sources.md
+  - Referenz:
+    - Fehlermeldungen: errors.md
   - Änderungslog: 
     - Daten: change-log-data.md
     - Web-Service: change-log-webservice.md
+  - Datenquellen: sources.md
   - Client-Bibliotheken: libraries.md
   - Community: community.md
+  - FAQ: faq.md
   - API: api.md

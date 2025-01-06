@@ -1622,13 +1622,17 @@ The following additional rest days and public holidays apply in the canton of Zu
 + Good Friday
 + Easter Sunday
 + Easter Monday
-+ Sechseläuten (city of Zurich only, half day)
 + Labour Day (1 May)
 + Whit Sunday
 + Whit Monday
-+ Knabenschiessen (city of Zurich only, half day)
 + Federal Day of Thanksgiving, Repentance and Prayer
 + St Stephen's Day (26 December)
+
+Days that are treated as public holidays:
+
++ Berchtold's Day (2 January)
++ Sechseläuten (city of Zurich only, half day)
++ Knabenschiessen (city of Zurich only, half day)
 
 Sources:
 
