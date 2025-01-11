@@ -49,10 +49,10 @@ theme:
 # Social media & multi language
 extra:
   social:
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/openpotato.org
     - icon: fontawesome/brands/mastodon 
       link: https://fosstodon.org/@openpotato
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/openpotatis
   alternate:
     - name: Deutsch
       link: /de/
