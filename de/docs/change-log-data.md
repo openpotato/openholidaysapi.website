@@ -3,11 +3,22 @@ Dort kann die detailierte [Commit-Historie](https://github.com/openpotato/openho
 
 Wir halten uns dabei weitestgehend an die Empfehlungen aus dem Community-Projekt [Keep a Changelog](https://keepachangelog.com/de). Allerdings unterliegen die Feriendaten des OpenHolidays API-Projekts keiner semantischen Versionierung.
 
+## 05. Januar 2025
+
+**Hinzugefügt:**
+
++ Einmaliger Feiertag am 8. Mai 2025 (80. Jahrestags der Befreiung vom Nationalsozialismus und des Endes des Zweiten Weltkriegs) für Berlin hinzugefügt
+
+**Korrigiert:**
+
++ Anpassungen für Schweizer Feiertage
++ Fehlerkorrektur für rumänische Feiertage
+
 ## 12. Dezember 2024
 
 **Hinzugefügt:**
 
-+ Bestätigte Feiertage 2025 für Spanien (Regionen Asturien, Murcia, La Rioja) hinzugefügt
++ Weitere bestätigte Feiertage 2025 für Spanien (Regionen Asturien, Murcia, La Rioja) hinzugefügt
 
 **Korrigiert:**
 
@@ -26,9 +37,9 @@ Wir halten uns dabei weitestgehend an die Empfehlungen aus dem Community-Projekt
 
 **Geändert:**
 
-+ Alle Feiertage und Schulferien haben jetzt eine zusätzliche Spalte `RegionalScope`.
-+ Einige Feiertage und Schulferien haben jetzt eine zusätzliche Spalte `TemporalScope`.
-+ Die optionale Spalte `Quality` wurde in `Status` umbenannt.
++ Alle Feiertage und Schulferien haben jetzt eine zusätzliche Spalte `RegionalScope`
++ Einige Feiertage und Schulferien haben jetzt eine zusätzliche Spalte `TemporalScope`
++ Die optionale Spalte `Quality` wurde in `Status` umbenannt
 
 ## 14. Oktober 2024
 

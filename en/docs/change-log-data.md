@@ -3,11 +3,22 @@ The detailed [Commit history](https://github.com/openpotato/openholidaysapi.data
 
 We largely adhere to the recommendations from the community project [Keep a Changelog](https://keepachangelog.com). However, the holiday data of the OpenHolidays API project is not subject to semantic versioning.
 
+## January 05, 2025
+
+**Added:**
+
++ One-off public holiday added for Berlin (Germany) on 8 May 2025 (80th anniversary of the liberation from National Socialism and the end of the Second World War)
+
+**Fixed:**
+
++ Adjustments for Swiss public holidays
++ Bug fix for Romanian public holidays
+
 ## December 12, 2024
 
 **Added:**
 
-+ Confirmed public holidays 2025 for Spain (regions Asturias, Murcia, La Rioja) added
++ More confirmed public holidays 2025 for Spain (regions Asturias, Murcia, La Rioja) added
 
 **Fixed:**
 
