@@ -41,6 +41,7 @@ Die Schulferien werden alle zwei Jahre durch die Regierung auf Vorschlag des Bil
 
 Quellen:
 
++ [S'aproven els calendaris de vacances escolars per als propers cursos 2025-2026 i 2026-2027](https://www.govern.ad/educacio-i-ensenyament-superior/item/17220-s-aproven-els-calendaris-de-vacances-escolars-per-als-propers-cursos-2025-2026-i-2026-2027)
 + [S'aproven els calendaris de vacances escolars per als propers cursos 2023-2024 i 2024-2025](https://www.govern.ad/educacio-i-ensenyament-superior/item/15114-s-aproven-els-calendaris-de-vacances-escolars-per-als-propers-cursos-2023-2024-i-2024-2025)
 + [S'aproven els calendaris de vacances escolars per als propers cursos 2021-2022 i 2022-2023](https://www.govern.ad/educacio-i-ensenyament-superior/item/12245-s-aproven-els-calendaris-de-vacances-escolars-per-als-propers-cursos-2021-2022-i-2022-2023)
 + [S'aproven els calendaris de vacances escolars per als propers cursos 2019-2020 i 2020-2021](https://www.govern.ad/educacio-i-ensenyament-superior/item/9947-s-aproven-els-calendaris-de-vacances-escolars-per-als-propers-cursos-2019-2020-i-2020-2021)
@@ -299,11 +300,12 @@ Die Schulferien werden zentral vom Ministerium für Bildung und Wissenschaft fes
 
 Quellen:
 
-+ Izglītības un zinātnes ministrija: [Apstiprināti 2024./2025. mācību gada sākuma, beigu un brīvdienu laiki](https://www.izm.gov.lv/lv/jaunums/apstiprinati-20242025-macibu-gada-sakuma-beigu-un-brivdienu-laiki)
-+ Izglītības un zinātnes ministrija: [Apstiprināti 2023./2024. mācību gada sākuma, beigu un brīvdienu laiki](https://www.izm.gov.lv/lv/jaunums/apstiprinati-20232024-macibu-gada-sakuma-beigu-un-brivdienu-laiki)
-+ Izglītības un zinātnes ministrija: [Apstiprināti noteikumi par 2022./2023. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20222023-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
-+ Izglītības un zinātnes ministrija: [Apstiprināti noteikumi par 2021./2022. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20212022-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
-+ Izglītības un zinātnes ministrija: [Apstiprināti noteikumi par 2020./2021. mācību gada garumu, mācību semestriem un brīvlaikiem](https://www.mk.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20202021-macibu-gada-garumu-macibu-semestriem-un-brivlaikiem)
++ [Apstiprināti 2025./2026. mācību gada sākuma, beigu un brīvdienu laiki](https://www.izm.gov.lv/lv/jaunums/apstiprinati-20252026-macibu-gada-sakuma-beigu-un-brivdienu-laiki)
++ [Apstiprināti 2024./2025. mācību gada sākuma, beigu un brīvdienu laiki](https://www.izm.gov.lv/lv/jaunums/apstiprinati-20242025-macibu-gada-sakuma-beigu-un-brivdienu-laiki)
++ [Apstiprināti 2023./2024. mācību gada sākuma, beigu un brīvdienu laiki](https://www.izm.gov.lv/lv/jaunums/apstiprinati-20232024-macibu-gada-sakuma-beigu-un-brivdienu-laiki)
++ [Apstiprināti noteikumi par 2022./2023. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20222023-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
++ [Apstiprināti noteikumi par 2021./2022. mācību gada sākuma, beigu un brīvdienu laikiem](https://www.izm.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20212022-macibu-gada-sakuma-beigu-un-brivdienu-laikiem)
++ [Apstiprināti noteikumi par 2020./2021. mācību gada garumu, mācību semestriem un brīvlaikiem](https://www.mk.gov.lv/lv/jaunums/apstiprinati-noteikumi-par-20202021-macibu-gada-garumu-macibu-semestriem-un-brivlaikiem)
 
 ## Liechtenstein
 
@@ -471,7 +473,7 @@ Quellen:
 
 <h3>Feiertage</h3>
 
-Polen hat 13 gesetzliche Feiertage, die arbeits- und schulfrei sind.
+Polen hat 14 gesetzliche Feiertage, die arbeits- und schulfrei sind. Im Jahr 2025 ist Heiligabend als 14. Feiertage hinzugekommen.
 
 Quelle:
 
