@@ -3,6 +3,12 @@ The detailed [Commit history](https://github.com/openpotato/openholidaysapi.data
 
 We largely adhere to the recommendations from the community project [Keep a Changelog](https://keepachangelog.com). However, the holiday data of the OpenHolidays API project is not subject to semantic versioning.
 
+## January 12, 2025
+
+**Added:**
+
++ New Polish public holiday added for 24 December (Christmas Eve) from 2025
+
 ## January 05, 2025
 
 **Added:**
