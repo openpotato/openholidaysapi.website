@@ -561,6 +561,20 @@ Quellen:
 + [Decreto Delegato 9 luglio 2020 n.115 - Calendario Scolastico 2020-2021](https://www.consigliograndeegenerale.sm/on-line/home/scheda17169006.html)
 + [Decreto Delegato 22 maggio 2019 n.83 - Calendario Scolastico 2019-2020](https://www.consigliograndeegenerale.sm/on-line/home/scheda17163140.html)
 
+## Schweden
+
+<h3>Feiertage</h3>
+
+Schweden hat 13 gesetzliche Feiertage, die arbeits- und schulfrei sind.
+
+Quelle:
+
++ [Lag (1989:253) om allmänna helgdagar](https://rkrattsbaser.gov.se/sfst?bet=1989:253)
+
+<h3>Schulferien</h3>
+
+Die Schulferien in Schweden werden von den Gemeinden festgelegt. Die Daten sind noch nicht in der OpenHolidays API verfügbar. Wir freuen uns über jeden [Pull-Request](https://github.com/openpotato/openholidaysapi.data/pulls). 
+
 ## Schweiz
 
 <h3>Feiertage</h3>

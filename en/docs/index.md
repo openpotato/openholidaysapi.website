@@ -30,6 +30,7 @@
 + Slovakia (public holidays and school holidays from 2020)
 + Slovenia (public holidays and school holidays from 2020)
 + Spain (public holidays and school holidays from 2020)
++ Sweden (public holidays from 2020)
 + Switzerland (public holidays and school holidays from 2020)
 + Vatican City (public holidays from 2020)
 

@@ -1058,6 +1058,20 @@ Sources:
 	+ [Calendario escolar 2020-2021 (PDF)](https://dogv.gva.es/datos/2020/06/03/pdf/2020_3919.pdf)
 	+ [Calendario escolar 2019-2020 (PDF)](https://dogv.gva.es/datos/2019/06/13/pdf/2019_6051.pdf)
 
+## Sweden
+
+<h3>Public Holidays</h3>
+
+Sweden has 13 public holidays that are free from work and school.
+
+Source:
+
++ [Lag (1989:253) om allmänna helgdagar](https://rkrattsbaser.gov.se/sfst?bet=1989:253)
+
+<h3>School Holidays</h3>
+
+The school holidays in Sweden are determined by the municipalities. The data is not yet available in the OpenHolidays API. We are happy about every [pull request](https://github.com/openpotato/openholidaysapi.data/pulls). 
+
 ## Switzerland
 
 <h3>Public Holidays</h3>
