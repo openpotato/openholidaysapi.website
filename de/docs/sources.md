@@ -1764,10 +1764,11 @@ Die Herbstferien, Weihnachtsferien, Osterferien und Pfingstferien sind für alle
 
 Quellen:
 
-+ Bundesministerium für Bildung, Wissenschaft und Forschung: [Gesetzliche Feiertage, Allerseelentag, Festtage der Landespatrone](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/feiertage.html)
-+ Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2024/2025](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_24_25.html) 
-+ Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2023/2024](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_23_24.html) 
-+ Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2022/2023](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_22_23.html) 
-+ Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2021/2022](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_21_22.html) 
-+ Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2020/2021](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_20_21.html) 
-+ Bundesministerium für Bildung, Wissenschaft und Forschung: [Ferientermine 2019/2020](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_19_20.html)
++ [Gesetzliche Feiertage, Allerseelentag, Festtage der Landespatrone](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/feiertage.html)
++ [Ferientermine 2025/2026](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_25_26.html) 
++ [Ferientermine 2024/2025](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_24_25.html) 
++ [Ferientermine 2023/2024](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_23_24.html) 
++ [Ferientermine 2022/2023](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_22_23.html) 
++ [Ferientermine 2021/2022](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_21_22.html) 
++ [Ferientermine 2020/2021](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_20_21.html) 
++ [Ferientermine 2019/2020](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_19_20.html)
