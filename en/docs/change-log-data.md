@@ -3,6 +3,16 @@ The detailed [Commit history](https://github.com/openpotato/openholidaysapi.data
 
 We largely adhere to the recommendations from the community project [Keep a Changelog](https://keepachangelog.com). However, the holiday data of the OpenHolidays API project is not subject to semantic versioning.
 
+## February 11, 2025
+
+**Added:**
+
++ Added new school holidays for Belgium
+
+**Fixed:**
+
++ Bug fix for school holidays for the Flemish Community in Belgium
+
 ## February 05, 2025
 
 **Added:**
