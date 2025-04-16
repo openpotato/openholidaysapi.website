@@ -1,4 +1,4 @@
-The data basis for **OpenHolidays API** is completely based on public sources of the countries. The processed raw data is available in the GitHub repository [OpenHolidaysAPI.Data](https://github.com/openpotato/openholidaysapi.data). The sources of the individual countries are listed below.
+The data basis for **OpenHolidays API** is completely based on public sources of the countries. The processed raw data is available in the GitHub repository [OpenHolidaysAPI.Data](https://github.com/openpotato/openholidaysapi.data). The sources of the **European countries** are listed below.
 
 ## Albania
 
@@ -657,7 +657,7 @@ Source:
 
 <h3>Public Holidays</h3>
 
-Slovakia has 15 public holidays, which are considered non-working days in all regions (kraje).
+Slovakia has (since 2025) 14 public holidays, which are considered non-working days in all regions (kraje).
 
 Source:
 
@@ -1081,7 +1081,7 @@ In Switzerland, public holidays and the days that are treated as public holidays
 
 Days that are treated as public holidays are normal working days according to cantonal law. This means that their legal status is often unclear. In practice, however, most authorities and businesses are closed.
 
-<h4>Allgemein</h4>
+<h4>Overview</h4>
 
 The following sources provide a good overview of all cantons, but only partially cover local rest days and public holidays.
 

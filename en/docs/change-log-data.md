@@ -3,6 +3,22 @@ The detailed [Commit history](https://github.com/openpotato/openholidaysapi.data
 
 We largely adhere to the recommendations from the community project [Keep a Changelog](https://keepachangelog.com). However, the holiday data of the OpenHolidays API project is not subject to semantic versioning.
 
+## April 16, 2025
+
+**Added:**
+
++ Added public holidays for Brazil
+
+**Fixed:**
+
++ Slovakian Constitution Day will no longer be a non-working day from 2025.
+
+## April 7, 2025
+
+**Added:**
+
++ Added holidays for Mexico
+
 ## February 11, 2025
 
 **Added:**

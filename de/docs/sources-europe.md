@@ -1,4 +1,4 @@
-Die Datengrundlage für **OpenHolidays API** basiert komplett auf öffentlichen Quellen der Länder. Die aufbereiteten Rohdaten stehen im GitHub-Repository [OpenHolidaysAPI.Data](https://github.com/openpotato/openholidaysapi.data) zur Verfügung. Im folgenden werden die Quellen der einzelnen Länder aufgeführt.
+Die Datengrundlage für **OpenHolidays API** basiert komplett auf öffentlichen Quellen der Länder. Die aufbereiteten Rohdaten stehen im GitHub-Repository [OpenHolidaysAPI.Data](https://github.com/openpotato/openholidaysapi.data) zur Verfügung. Im folgenden werden die Quellen der **europäischen Länder** aufgeführt.
 
 ## Albanien
 
@@ -574,7 +574,6 @@ Quelle:
 <h3>Schulferien</h3>
 
 Die Schulferien in Schweden werden von den Gemeinden festgelegt. Die Daten sind noch nicht in der OpenHolidays API verfügbar. Wir freuen uns über jeden [Pull-Request](https://github.com/openpotato/openholidaysapi.data/pulls). 
-
 ## Schweiz
 
 <h3>Feiertage</h3>
@@ -1246,7 +1245,7 @@ Quelle:
 
 <h3>Feiertage</h3>
 
-Die Slowakei hat 15 Feiertage, die in allen Regionen (kraje) als arbeitsfrei gelten.
+Die Slowakei hat (seit 2025) 14 Feiertage, die in allen Regionen (kraje) als arbeitsfrei gelten.
 
 Quelle:
 

@@ -88,7 +88,9 @@ nav:
   - Change Log:
     - Data: change-log-data.md
     - Web Service: change-log-webservice.md
-  - Data Sources: sources.md
+  - Data Sources: 
+    - Americas: sources-americas.md
+    - Europe: sources-europe.md
   - Client Libraries: libraries.md
   - Community: community.md
   - FAQ: faq.md
