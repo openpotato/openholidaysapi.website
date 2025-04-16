@@ -1,6 +1,6 @@
 The data basis for **OpenHolidays API** is completely based on public sources of the countries. The processed raw data is available in the GitHub repository [OpenHolidaysAPI.Data](https://github.com/openpotato/openholidaysapi.data). The sources of the **countries of the American continent** are listed below.
 
-## Barzil
+## Brazil
 
 <h3>Public Holidays</h3>
 
