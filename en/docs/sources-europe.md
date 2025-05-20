@@ -661,7 +661,7 @@ Slovakia has (since 2025) 14 public holidays, which are considered non-working d
 
 Source:
 
-+ Úrad vlády Slovenskej republiky: [Štátne sviatky](https://www.vlada.gov.sk/statne-sviatky/)
++ Úrad vlády Slovenskej republiky: [Štátne sviatky](https://mzv.sk/web/en/slovakia/public-holidays)
 
 <h3>School Holidays</h3>
 

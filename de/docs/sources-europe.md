@@ -1249,7 +1249,7 @@ Die Slowakei hat (seit 2025) 14 Feiertage, die in allen Regionen (kraje) als arb
 
 Quelle:
 
-+ Úrad vlády Slovenskej republiky: [Štátne sviatky](https://www.vlada.gov.sk/statne-sviatky/)
++ Úrad vlády Slovenskej republiky: [Štátne sviatky](https://mzv.sk/web/en/slovakia/public-holidays)
 
 <h3>Schulferien</h3>
 
