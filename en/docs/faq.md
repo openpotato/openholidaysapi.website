@@ -12,11 +12,11 @@ The OpenHolidays API web service runs on a Linux server operated by the German i
 
 ## Where does the data come from?
 
-All data from the OpenHolidays API project comes from public sources and is documented *Data Sources* (divided into [Americas](sources-americas.md), [Europe](sources-europe.md)). The processed data is available under the [ODC Open Database Licence (ODbL)](https://raw.githubusercontent.com/openpotato/openholidaysapi.data/refs/heads/main/LICENSE).
+All data from the OpenHolidays API project comes from public sources and is documented under *Data Sources* (divided into [Americas](sources-americas.md), [Europe](sources-europe.md)). The processed data is available under the [ODC Open Database Licence (ODbL)](https://raw.githubusercontent.com/openpotato/openholidaysapi.data/refs/heads/main/LICENSE).
 
 ## How often is the data updated?
 
-The data from the OpenHolidays API project is updated on an ongoing basis. The current status of the data is always documented in the [change log](change-log.md).
+The data from the OpenHolidays API project is updated on an ongoing basis. The current status of the data is always documented in the [change log](change-log-data.md).
 
 ## I have found an error!
 
