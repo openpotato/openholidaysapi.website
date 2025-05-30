@@ -1736,7 +1736,7 @@ Quellen:
 
 <h3>Feiertage</h3>
 
-Vatikanstadt hat laut Vorschriften für das dortige Personal 26 Feiertage. Der Jahrestag der Amtseinführung des Papstes sowie dessen (bürgerlicher) Namenstag hängen vom jeweils aktuellen Pontifikat (momentan Papst Franziskus) ab.
+Vatikanstadt hat laut Vorschriften für das dortige Personal 26 Feiertage. Der Jahrestag der Amtseinführung des Papstes sowie dessen (bürgerlicher) Namenstag hängen vom jeweils aktuellen Pontifikat (momentan Papst Leo XIV) ab.
 
 Quellen:
 

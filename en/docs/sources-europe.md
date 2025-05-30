@@ -1705,7 +1705,7 @@ The school holidays in the canton of Solothurn are the same for all secondary an
 
 <h3>Public Holidays</h3>
 
-According to the regulations, Vatican City has 26 public holidays for its personnel. Anniversary of the election of the Holy Father and his (civil) name day depend on the current pontificate (currently Pope Francis).
+According to the regulations, Vatican City has 26 public holidays for its personnel. Anniversary of the election of the Holy Father and his (civil) name day depend on the current pontificate (currently Pope Leo XIV).
 
 Sources:
 
