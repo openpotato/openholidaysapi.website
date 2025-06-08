@@ -8,7 +8,7 @@ Albania has 16 public holidays that are free of work and school.
 
 Sources:
 
-+ [LIGJ Nr.7651, datë 21.12.1992: Për festat zyrtare e ditët përkujtimore](https://tirana.al/uploads/publications/ligje/ligjNr.7651date21.12.docx)
++ [LIGJ Nr.7651, datë 21.12.1992: Për festat zyrtare e ditët përkujtimore (DOCX)](https://tirana.al/uploads/publications/ligje/ligjNr.7651date21.12.docx)
 + [Wikipedia: Eid al-Fitr](https://en.wikipedia.org/wiki/Eid_al-Fitr)
 + [Wikipedia: Eid al-Adha](https://en.wikipedia.org/wiki/Eid_al-Adha)
 
@@ -41,10 +41,10 @@ The school holidays are approved every two years by the government on the recomm
 
 Sources:
 
-+ [S'aproven els calendaris de vacances escolars per als propers cursos 2025-2026 i 2026-2027](https://www.govern.ad/educacio-i-ensenyament-superior/item/17220-s-aproven-els-calendaris-de-vacances-escolars-per-als-propers-cursos-2025-2026-i-2026-2027)
-+ [S'aproven els calendaris de vacances escolars per als propers cursos 2023-2024 i 2024-2025](https://www.govern.ad/educacio-i-ensenyament-superior/item/15114-s-aproven-els-calendaris-de-vacances-escolars-per-als-propers-cursos-2023-2024-i-2024-2025)
-+ [S'aproven els calendaris de vacances escolars per als propers cursos 2021-2022 i 2022-2023](https://www.govern.ad/educacio-i-ensenyament-superior/item/12245-s-aproven-els-calendaris-de-vacances-escolars-per-als-propers-cursos-2021-2022-i-2022-2023)
-+ [S'aproven els calendaris de vacances escolars per als propers cursos 2019-2020 i 2020-2021](https://www.govern.ad/educacio-i-ensenyament-superior/item/9947-s-aproven-els-calendaris-de-vacances-escolars-per-als-propers-cursos-2019-2020-i-2020-2021)
++ [S'aproven els calendaris de vacances escolars per als propers cursos 2025-2026 i 2026-2027](https://www.bopa.ad/Documents/Detall?doc=GD_2024_12_20_08_56_06)
++ [S'aproven els calendaris de vacances escolars per als propers cursos 2023-2024 i 2024-2025](https://www.bopa.ad/Documents/Detall?doc=GD20221209_09_34_57)
++ [S'aproven els calendaris de vacances escolars per als propers cursos 2021-2022 i 2022-2023](https://www.bopa.ad/bopa/032153/Pagines/GD20201218_10_01_56.aspx)
++ [S'aproven els calendaris de vacances escolars per als propers cursos 2019-2020 i 2020-2021](https://www.bopa.ad/bopa/030079/Pagines/GH20181220_08_01_32.aspx)
 
 ## Austria
 
