@@ -89,6 +89,7 @@ nav:
     - Daten: change-log-data.md
     - Web-Service: change-log-webservice.md
   - Datenquellen: 
+    - Afrika: sources-africa.md
     - Amerikas: sources-americas.md
     - Europa: sources-europe.md
   - Client-Bibliotheken: libraries.md

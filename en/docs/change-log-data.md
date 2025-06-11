@@ -3,6 +3,16 @@ The detailed [Commit history](https://github.com/openpotato/openholidaysapi.data
 
 We largely adhere to the recommendations from the community project [Keep a Changelog](https://keepachangelog.com). However, the holiday data of the OpenHolidays API project is not subject to semantic versioning.
 
+## June 11, 2025
+
+**Added:**
+
++ Added holidays for South Africa
+
+**Fixed:**
+
++ Many bug fixes for German holidays.
+
 ## April 16, 2025
 
 **Added:**

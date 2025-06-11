@@ -4,7 +4,7 @@ Is the OpenHolidays API really free? Where does all the data come from? In our F
 
 ## Can I use the OpenHolidays API free of charge?
 
-Yes, the OpenHolidays API project is open data, its use is free of charge and also permitted in commercial projects. All data comes from public sources and is documented under *Data Sources* (divided into [Americas](sources-americas.md), [Europe](sources-europe.md)). The processed data is licensed under the [ODC Open Database Licence (ODbL)](https://raw.githubusercontent.com/openpotato/openholidaysapi.data/refs/heads/main/LICENSE).
+Yes, the OpenHolidays API project is open data, its use is free of charge and also permitted in commercial projects. All data comes from public sources and is documented under *Data Sources* (divided into [Africa](sources-africa.md), [Americas](sources-americas.md), [Europe](sources-europe.md)). The processed data is licensed under the [ODC Open Database Licence (ODbL)](https://raw.githubusercontent.com/openpotato/openholidaysapi.data/refs/heads/main/LICENSE).
 
 ## Where is the OpenHolidays API hosted?
 
@@ -12,7 +12,7 @@ The OpenHolidays API web service runs on a Linux server operated by the German i
 
 ## Where does the data come from?
 
-All data from the OpenHolidays API project comes from public sources and is documented under *Data Sources* (divided into [Americas](sources-americas.md), [Europe](sources-europe.md)). The processed data is available under the [ODC Open Database Licence (ODbL)](https://raw.githubusercontent.com/openpotato/openholidaysapi.data/refs/heads/main/LICENSE).
+All data from the OpenHolidays API project comes from public sources and is documented under *Data Sources* (divided into [Africa](sources-africa.md), [Americas](sources-americas.md), [Europe](sources-europe.md)). The processed data is available under the [ODC Open Database Licence (ODbL)](https://raw.githubusercontent.com/openpotato/openholidaysapi.data/refs/heads/main/LICENSE).
 
 ## How often is the data updated?
 

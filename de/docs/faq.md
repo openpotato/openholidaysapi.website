@@ -4,7 +4,7 @@ Ist die OpenHolidays API wirklich kostenlos? Woher stammen die ganzen Daten? In 
 
 ## Kann ich die OpenHolidays API kostenfrei nutzen?
 
-Ja, das OpenHolidays API-Projekt ist Open Data, die Nutzung ist kostenfrei und auch in kommerziellen Projekten erlaubt. Alle Daten stammen aus öffentlichen Quellen und sind unter *Datenquellen* (unterteilt in [Amerikas](sources-americas.md), [Europa](sources-europe.md)) dokumentiert. Die aufbereiteten Daten sind unter der [ODC Open Database License (ODbL)](https://raw.githubusercontent.com/openpotato/openholidaysapi.data/refs/heads/main/LICENSE) lizenziert.
+Ja, das OpenHolidays API-Projekt ist Open Data, die Nutzung ist kostenfrei und auch in kommerziellen Projekten erlaubt. Alle Daten stammen aus öffentlichen Quellen und sind unter *Datenquellen* (unterteilt in [Afrika](sources-africa.md), [Amerikas](sources-americas.md), [Europa](sources-europe.md)) dokumentiert. Die aufbereiteten Daten sind unter der [ODC Open Database License (ODbL)](https://raw.githubusercontent.com/openpotato/openholidaysapi.data/refs/heads/main/LICENSE) lizenziert.
 
 ## Wo ist die OpenHolidays API gehostet?
 
@@ -12,7 +12,7 @@ Der OpenHolidays API-Webservice läuft auf einem Linux-Server, der vom deutschen
 
 ## Woher stammen die Daten?
 
-Alle Daten des OpenHolidays API-Projekts stammen aus öffentlichen Quellen und sind unter *Datenquellen* (unterteilt in [Amerikas](sources-americas.md), [Europa](sources-europe.md)) dokumentiert. Die aufbereiteten Daten stehen unter der [ODC Open Database License (ODbL)](https://raw.githubusercontent.com/openpotato/openholidaysapi.data/refs/heads/main/LICENSE) zur Verfügung.
+Alle Daten des OpenHolidays API-Projekts stammen aus öffentlichen Quellen und sind unter *Datenquellen* (unterteilt in [Afrika](sources-africa.md), [Amerikas](sources-americas.md), [Europa](sources-europe.md)) dokumentiert. Die aufbereiteten Daten stehen unter der [ODC Open Database License (ODbL)](https://raw.githubusercontent.com/openpotato/openholidaysapi.data/refs/heads/main/LICENSE) zur Verfügung.
 
 ## Wie oft wird aktualisiert?
 
