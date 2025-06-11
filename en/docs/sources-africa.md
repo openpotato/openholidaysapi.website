@@ -1,21 +1,21 @@
-Die Datengrundlage für **OpenHolidays API** basiert komplett auf öffentlichen Quellen der Länder. Die aufbereiteten Rohdaten stehen im GitHub-Repository [OpenHolidaysAPI.Data](https://github.com/openpotato/openholidaysapi.data) zur Verfügung. Im folgenden werden die Quellen der **Länder des afrikanischen Kontinents** aufgeführt.
+The data basis for **OpenHolidays API** is completely based on public sources of the countries. The processed raw data is available in the GitHub repository [OpenHolidaysAPI.Data](https://github.com/openpotato/openholidaysapi.data). The sources of the **countries of the African continent** are listed below.
 
-## Südafrika
+## South Africa
 
-<h3>Feiertage</h3>
+<h3>Public Holidays</h3>
 
-Südafrika hat standardmäßig 12 nationale Feiertage, die arbeits- und schulfrei sind. Fällt ein Feiertag auf einen Sonntag, dann ist der folgende Montag ebenfalls ein Feiertag.
+South Africa has 12 national public holidays as standard, which are free from work and school. If a public holiday falls on a Sunday, the following Monday is also a public holiday.
 
-Quellen:
+Sources:
 
 + [Public holidays in South Africa](https://www.gov.za/about-sa/public-holidays)
 + [Public Holidays Act 36 of 1994](https://www.gov.za/documents/public-holidays-act)
 
-<h3>Schulferien</h3>
+<h3>School Holidays</h3>
 
-Die Schulferien werden zentral durch das [Department of Basic Education](http://www.education.gov.za) festgelegt. 
+The school holidays are determined centrally by the [Department of Basic Education](http://www.education.gov.za).
 
-Quellen:
+Sources:
 
 + [National Education Policy Act: Proposed 2027 Calendar for Public Schools (PDF)](https://www.gov.za/sites/default/files/gcis_document/202410/51399gon5428.pdf)
 + [National Education Policy Act: Proposed 2026 Calendar for Public Schools (PDF)](https://www.gov.za/sites/default/files/gcis_document/202410/51399gon5428.pdf)
