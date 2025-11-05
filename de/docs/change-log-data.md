@@ -3,6 +3,25 @@ Dort kann die detailierte [Commit-Historie](https://github.com/openpotato/openho
 
 Wir halten uns dabei weitestgehend an die Empfehlungen aus dem Community-Projekt [Keep a Changelog](https://keepachangelog.com/de). Allerdings unterliegen die Feriendaten des OpenHolidays API-Projekts keiner semantischen Versionierung.
 
+## 05. November 2025
+
+**Hinzugefügt:**
+
++ Neue Schulferien 2025/2026 für Bulgarien hinzugefügt.
++ Neue Schulferien 2025/2026 und 206/2027 für Litauen hinzugefügt.
++ Neue Schulferien 2026/2027 für Österreich hinzugefügt. Einige Angaben sind mit dem Tag `Provisional` gekennzeichnet.
++ Schulferien für Schleswig-Hostein (Deutschland) erweitert um die friesischen Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen. Die Daten für diese Inseln wurden mit dem Tag `Exception` gekennzeichnet..
+
+**Geändert:**
+
++ Breaking change: Die Schulferien für die Niederlande sind jetzt in Gruppen (Ferienregionen) und Verwaltungseinheiten (Gemeinden) unterteilt.
++ Breaking change: Die Schulferien für Belgien sind jetzt in Gruppen (Sprachgemeinschaften) und nicht mehr Verwaltungseinheiten unterteilt.
++ Breaking change: Die Schulferien für Mecklenburg-Vorpommern (Deutschland) sind jetzt in Gruppen (Schularten) und nicht mehr Verwaltungseinheiten unterteilt.
+
+**Korrigiert:**
+
++ Fehlerkorrekturen für Schulferien in Mecklenburg-Vorpommern (Deutschland).
+
 ## 11. Juni 2025
 
 **Hinzugefügt:**

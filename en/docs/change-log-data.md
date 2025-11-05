@@ -3,6 +3,25 @@ The detailed [Commit history](https://github.com/openpotato/openholidaysapi.data
 
 We largely adhere to the recommendations from the community project [Keep a Changelog](https://keepachangelog.com). However, the holiday data of the OpenHolidays API project is not subject to semantic versioning.
 
+## November 05, 2025
+
+**Added:**
+
++ New school holidays for Bulgaria for 2025/2026 added.
++ New school holidays for Lithuania for 2025/2026 and 206/2027 added.
++ New school holidays for Austria for 2026/2027 added. Some information is marked with the tag `Provisional`.
++ School holidays for Schleswig-Holstein (Germany) extended to include the Frisian islands of Sylt, Föhr, Amrum, Helgoland and the Halligen. The data for these islands has been marked with the tag `Exception`.
+
+**Changed:**
+
++ Breaking change: School holidays for the Netherlands are now divided into groups (holiday regions) and administrative units (municipalities).
++ Breaking change: School holidays for Belgium are now divided into groups (language communities) and no longer into subdivisions.
++ Breaking change: School holidays for Mecklenburg-Western Pomerania (Germany) are now divided into groups (school types) and no longer into subdivisions.
+
+**Fixed:**
+
++ Error corrections for school holidays in Mecklenburg-Western Pomerania (Germany).
+
 ## June 11, 2025
 
 **Added:**

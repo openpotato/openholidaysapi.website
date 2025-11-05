@@ -106,6 +106,7 @@ Die Schulferien werden zentral vom Ministerium für Bildung und Wissenschaft fes
 Quellen:
 
 + Министерство на образованието и науката: [Ваканции](https://www.mon.bg/dyasno-menyu/vakantsii/)
++ Заповед № РД09-2069/26.08.2025 г.: [Ваканции 2025/2026 (PDF)](https://www.mon.bg/nfs/2025/08/zap2069-grafik-uchebno-vreme_26082025.pdf)
 + Заповед № РД09-2469/30.08.2024 г.: [Ваканции 2024/2025 (PDF)](https://www.mon.bg/nfs/2024/08/zap2469_uchebno-vreme_30082024.pdf)
 + Заповед № РД09-2047/28.08.2023 г.: [Ваканции 2023/2024 (PDF)](https://www.mon.bg/nfs/2023/09/zap2047_uchebno-vreme_01092023.pdf)
 + Заповед № РД09-4066/30.08.2022 г.: [Ваканции 2022/2023 (PDF)](https://www.mon.bg/nfs/2022/09/zap4066_grafik_01092022.pdf)
@@ -341,6 +342,7 @@ Die Schulferien werden zentral vom Ministerium für Bildung, Wissenschaft und Sp
 
 Quellen:
 
++ [Dėl 2025–2026 ir 2026–2027 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrųjų ugdymo planų patvirtinimo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/d286b943367a11f0a19dcea0bcc863ad/asr)
 + [Dėl 2023–2024 ir 2024–2025 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrųjų ugdymo planų patvirtinimo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/ca29f721e2d611eda305cb3bdf2af4d8/asr)
 + [Dėl 2021–2022 ir 2022–2023 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrųjų ugdymo planų patvirtinimo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/fbb37630ac4711eba6328c92adabc234/asr)
 + [Dėl 2019–2020 ir 2020–2021 mokslo metų pradinio, pagrindinio ir vidurinio ugdymo programų bendrųjų ugdymo planų patvirtinimo](https://e-seimas.lrs.lt/portal/legalAct/lt/TAD/de64d4615fb511e99684a7f33a9827ac/asr)
@@ -1764,6 +1766,7 @@ Die Herbstferien, Weihnachtsferien, Osterferien und Pfingstferien sind für alle
 Quellen:
 
 + [Gesetzliche Feiertage, Allerseelentag, Festtage der Landespatrone](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/feiertage.html)
++ [Ferientermine 2026/2027](https://www.oesterreich.gv.at/de/themen/bildung_und_ausbildung/schulen/3/Seite.1100114)
 + [Ferientermine 2025/2026](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_25_26.html) 
 + [Ferientermine 2024/2025](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_24_25.html) 
 + [Ferientermine 2023/2024](https://www.bmbwf.gv.at/Themen/schule/schulpraxis/termine/ferientermine_23_24.html) 
