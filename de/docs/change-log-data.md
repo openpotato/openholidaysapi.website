@@ -8,9 +8,11 @@ Wir halten uns dabei weitestgehend an die Empfehlungen aus dem Community-Projekt
 **Hinzugefügt:**
 
 + Neue Schulferien 2025/2026 für Bulgarien hinzugefügt.
-+ Neue Schulferien 2025/2026 und 206/2027 für Litauen hinzugefügt.
++ Neue Schulferien 2025/2026 und 2026/2027 für Litauen hinzugefügt.
++ Neue Schulferien 2025/2026 für Rumänien hinzugefügt.
++ Neue Schulferien 2026/2027 und 2027/2028 für Slowakei hinzugefügt.
 + Neue Schulferien 2026/2027 für Österreich hinzugefügt. Einige Angaben sind mit dem Tag `Provisional` gekennzeichnet.
-+ Schulferien für Schleswig-Hostein (Deutschland) erweitert um die friesischen Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen. Die Daten für diese Inseln wurden mit dem Tag `Exception` gekennzeichnet..
++ Schulferien für Schleswig-Hostein (Deutschland) erweitert um die friesischen Inseln Sylt, Föhr, Amrum, Helgoland und die Halligen. Die Daten für diese Inseln wurden mit dem Tag `Exception` gekennzeichnet.
 
 **Geändert:**
 

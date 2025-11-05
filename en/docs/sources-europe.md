@@ -607,6 +607,7 @@ The holiday dates are set annually by the Ministry of National Education. Howeve
 
 Sources:
 
++ [Privind structura anului școlar 2025-2026 (PDF)](https://www.edu.ro/sites/default/files/_fi%C8%99iere/Legislatie/2025/OMEC_3463_2025.pdf)
 + [Privind structura anului școlar 2024-2025 (PDF)](https://www.edu.ro/sites/default/files/proiect_ordin_structura_an_scolar_24_25.pdf)
 + [Privind structura anului școlar 2023-2024 (PDF)](https://www.edu.ro/sites/default/files/Proiect_ordin_structura_an_scolar_2023_2024.pdf)
 + [Privind structura anului școlar 2022-2023 (PDF)](https://cdn.edupedu.ro/wp-content/uploads/2022/04/ordin_structura-an-scolar-2022-2023.pdf)

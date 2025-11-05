@@ -7,10 +7,12 @@ We largely adhere to the recommendations from the community project [Keep a Chan
 
 **Added:**
 
-+ New school holidays for Bulgaria for 2025/2026 added.
-+ New school holidays for Lithuania for 2025/2026 and 206/2027 added.
-+ New school holidays for Austria for 2026/2027 added. Some information is marked with the tag `Provisional`.
-+ School holidays for Schleswig-Holstein (Germany) extended to include the Frisian islands of Sylt, Föhr, Amrum, Helgoland and the Halligen. The data for these islands has been marked with the tag `Exception`.
++ Added school holidays 2025/2026 for Bulgaria.
++ Added school holidays 2025/2026 and 2026/2027 for Lithuania.
++ Added school holidays 2025/2026 for Romania.
++ Added school holidays 2026/2027 and 2027/2028 for Slovakia.
++ Added school holidays 2026/2027 for Austria. Some information is marked with the tag `Provisional`.
++ Extended school holidays for Schleswig-Holstein (Germany) to include the Frisian islands of Sylt, Föhr, Amrum, Helgoland and the Halligen. The data for these islands has been marked with the tag `Exception`.
 
 **Changed:**
 
