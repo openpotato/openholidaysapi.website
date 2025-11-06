@@ -3,6 +3,16 @@ The detailed [Commit history](https://github.com/openpotato/openholidaysapi.data
 
 We largely adhere to the recommendations from the community project [Keep a Changelog](https://keepachangelog.com). However, the holiday data of the OpenHolidays API project is not subject to semantic versioning.
 
+## November 06, 2025
+
+**Added:**
+
++ Added school holidays 2025/2026 for Albania.
++ Added school holidays 2025/2026 for Belarus.
++ Added school holidays 2025/2026 for Croatia.
++ Added school holidays 2025/2026 for Hungary.
++ Added school holidays 2025/2026 for San Marino.
+
 ## November 05, 2025
 
 **Added:**

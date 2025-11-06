@@ -3,6 +3,16 @@ Dort kann die detailierte [Commit-Historie](https://github.com/openpotato/openho
 
 Wir halten uns dabei weitestgehend an die Empfehlungen aus dem Community-Projekt [Keep a Changelog](https://keepachangelog.com/de). Allerdings unterliegen die Feriendaten des OpenHolidays API-Projekts keiner semantischen Versionierung.
 
+## 06. November 2025
+
+**Hinzugefügt:**
+
++ Neue Schulferien 2025/2026 für Albanien hinzugefügt.
++ Neue Schulferien 2025/2026 für Belarus hinzugefügt.
++ Neue Schulferien 2025/2026 für Kroatien hinzugefügt.
++ Neue Schulferien 2025/2026 für Ungarn hinzugefügt.
++ Neue Schulferien 2025/2026 für San Marino hinzugefügt.
+
 ## 05. November 2025
 
 **Hinzugefügt:**

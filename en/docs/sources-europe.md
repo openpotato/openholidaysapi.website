@@ -18,12 +18,13 @@ The school holidays for the respective next school year are announced by the Min
 
 Sources:
 
-+ [Miratimi i strukturës së vitit shkollor 2024-2025 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdhrin-e-perbashket-nr-193-date-30-04-2024-te-ministrit-te-arsimit-dhe-sportit-dhe-ministrit-te-financave-dhe-ekonomise-per-miratimin-e-struktures-se-vitit-shkollor-2024-2025-ne-sistemin/)
-+ [Miratimi i strukturës së vitit shkollor 2023-2024 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-191-date-20-4-2023-per-miratimin-e-struktures-se-vitit-shkollor-2023-2024-ne-sistemin-arsimor-parauniversitar/)
-+ [Miratimi i strukturës së vitit shkollor 2022-2023 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-227-date-28-04-2022-per-miratimin-e-struktures-se-vitit-shkollor-2022-2023-ne-sistemin-arsimor-parauniversitar/)
-+ [Miratimi i strukturës së vitit shkollor 2021-2022 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-300-date-25-08-2021-per-miratimin-e-struktures-se-vitit-shkollor-2021-2022-ne-sistemin-arsimor-parauniversitar/)
-+ [Miratimi i strukturës së vitit shkollor 2020-2021 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-71-date-25-02-2020-per-miratimin-e-struktures-se-vitit-shkollor-2020-2021-ne-sistemin-arsimor-parauniversitar/)
-+ [Miratimi i strukturës së vitit shkollor 2019-2020 në sistemin arsimor parauniversitar](https://arsimi.gov.al/urdher-i-perbashket-nr-220-date-11-04-2019-per-miratimin-e-struktures-se-vitit-shkollorn2019-2020-ne-sistemin-arsimor-parauniversitar/)
++ [Urdhër i përbashkët Nr.156, datë 24.04.2025 për miratimin e strukturës së vitit shkollor 2024-2025](https://arsimiparauniversitar.gov.al/urdher-nr-156-per-miratimin-e-struktures-se-vitit-shkollor-2025-2026-ne-sistemin-arsimor-parauniversitar/)
++ [Urdhër i përbashkët Nr.13, datë 10.07.2024 për miratimin e strukturës së vitit shkollor 2024-2025](https://arsimiparauniversitar.gov.al/udhezim-i-perbashket-nr-13-date-10-07-2024-per-vitin-shkollor-2024-2025-ne-sistemin-arsimor-parauniversitar/)
++ [Urdhër i përbashkët Nr.191, datë 20.04.2023 për miratimin e strukturës së vitit shkollor 2023-2024](https://arsimiparauniversitar.gov.al/urdher-i-perbashket-mbi-miratimin-e-struktures-se-vitit-shkollor-2023-2024-ne-sistemin-arsimor-parauniversitar/)
++ [Urdhër i përbashkët Nr.227, datë 28.04.2022 për miratimin e strukturës së vitit shkollor 2022-2023](https://arsimiparauniversitar.gov.al/2222-2/)
++ [Urdhër i përbashkët Nr.300, datë 25.08.2021 për miratimin e strukturës së vitit shkollor 2021-2022](https://arsimiparauniversitar.gov.al/urdher-i-perbashket-nr-300-date-25-08-2021-per-miratimn-e-struktures-se-vitit-shkollor-2021-2022-ne-sistemin-arsimor-parauniversitar/)
++ [Urdhër i përbashkët Nr.71, datë 25.02.2020 për miratimin e strukturës së vitit shkollor 2020-2021](https://lezhe.arsimiparauniversitar.gov.al/urdher-i-perbashket-nr-71-date-25-02-2020-miratimin-e-struktures-se-vitit-shkollor-2020-2021-ne-sistemin-arsimor-parauniversitar/)
++ [Urdhër i përbashkët Nr.220, datë 11.04.2019 për miratimin e strukturës së vitit shkollor 2019-2020](https://arsimi.gov.al/urdher-i-perbashket-nr-220-date-11-04-2019-per-miratimin-e-struktures-se-vitit-shkollorn2019-2020-ne-sistemin-arsimor-parauniversitar/)
 
 ## Andorra
 
@@ -88,12 +89,13 @@ The school holidays are determined centrally by the Ministry of Education. The s
 
 Sources:
 
-+ Министерство образования Республики: [2024/2025 учебный год](https://edu.gov.by/urovni-obrazovaniya/srenee-obr/srenee-obr/informatsiya/2024-2025-uchebnyy-god/)
-+ BelTA [Школьные каникулы в 2023/2024 учебном году](https://www.belta.by/infographica/view/20232024-uchebnyj-god-grafik-organizatsii-uchebnogo-protsessa-i-kanikul-34915/)
-+ BelTA [Школьные каникулы в 2022/2023 учебном году](https://www.belta.by/infographica/view/20222023-uchebnyj-god-grafik-organizatsii-uchebnogo-protsessa-i-kanikul-30248)
-+ BelTA [Школьные каникулы в 2021/2022 учебном году](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20212022-uchebnom-godu-26083/)
-+ BelTA [Школьные каникулы в 2020/2021 учебном году](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20202021-uchebnom-godu-22004)
-+ BelTA [Школьные каникулы в 2019/2020 учебном году](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20192020-uchebnom-godu-20479)
++ BelTA [Школьные каникулы в 2025/2026](https://belta.by/society/view/stali-izvestny-daty-shkolnyh-kanikul-v-20252026-uchebnom-godu-698232-2025/)
++ BelTA [Школьные каникулы в 2024/2025](https://belta.by/amp/socium/view/kanikuly-2024-2025-v-belarusi-663570-2024/)
++ BelTA [Школьные каникулы в 2023/2024](https://www.belta.by/infographica/view/20232024-uchebnyj-god-grafik-organizatsii-uchebnogo-protsessa-i-kanikul-34915/)
++ BelTA [Школьные каникулы в 2022/2023](https://www.belta.by/infographica/view/20222023-uchebnyj-god-grafik-organizatsii-uchebnogo-protsessa-i-kanikul-30248)
++ BelTA [Школьные каникулы в 2021/2022](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20212022-uchebnom-godu-26083/)
++ BelTA [Школьные каникулы в 2020/2021](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20202021-uchebnom-godu-22004)
++ BelTA [Школьные каникулы в 2019/2020](https://www.belta.by/infographica/view/shkolnye-kanikuly-v-20192020-uchebnom-godu-20479)
 
 ## Belgium
 
@@ -158,6 +160,7 @@ School holidays are determined centrally by the Ministry of Science and Educatio
 
 Sources:
 
++ Ministarstvo znanosti i obrazovanja: [školsku godinu 2025/2026](https://narodne-novine.nn.hr/eli/sluzbeni/2025/88/1222)
 + Ministarstvo znanosti i obrazovanja: [školsku godinu 2024/2025](https://narodne-novine.nn.hr/eli/sluzbeni/2024/55/968)
 + Ministarstvo znanosti i obrazovanja: [školsku godinu 2023/2024](https://narodne-novine.nn.hr/eli/sluzbeni/2023/50/833)
 + Ministarstvo znanosti i obrazovanja: [školsku godinu 2022/2023](https://narodne-novine.nn.hr/eli/sluzbeni/2022/54/715)
@@ -309,6 +312,8 @@ School holidays are determined centrally by government regulations.
 
 Sources:
 
+
++ [27/2025. (VII. 24.) BM rendelet a 2025/2026. tanév rendjéről](https://njt.hu/eli/R/2025/BM/27)
 + [32/2024. (VIII. 8.) BM rendelet a 2024/2025. tanév rendjéről](https://njt.hu/eli/R/2024/BM/32)
 + [30/2023. (VIII. 22.) BM rendelet a 2023/2024. tanév rendjéről](https://njt.hu/eli/R/2023/BM/30)
 + [22/2022. (VII. 29.) BM rendelet a 2022/2023. tanév rendjéről](https://njt.hu/eli/R/2022/BM/22)
@@ -632,6 +637,7 @@ The school holidays for the respective next school year are determined annually 
 
 Sources:
 
++ [Decreto Delegato 20 febbraio 2025 n.25 - Calendario Scolastico 2025-2026](https://www.congressodistato.sm/pub2/CongressoSM/dettaglio_notizia.html?idItem=ad2d44ee-0e15-452e-ac86-7c7c04ae69bb)
 + [Decreto Delegato 21 marzo 2024 n.70 - Calendario Scolastico 2024-2025](https://www.congressodistato.sm/pub1/CongressoSM/dettaglio_notizia.html?idItem=3aaf1018-27be-4ccd-a8f5-5dd41f56aec0)
 + [Decreto Delegato 17 marzo 2023 n.47 - Calendario Scolastico 2023-2024](https://www.congressodistato.sm/pub1/CongressoSM/dettaglio_notizia.html?idItem=586ac2b7-8255-465c-a8af-c8747dde7924)
 + [Decreto Delegato 23 marzo 2022 n.48 - Calendario Scolastico 2022-2023](https://www.consigliograndeegenerale.sm/on-line/home/streaming-video-consiglio/scheda17176133.html)
