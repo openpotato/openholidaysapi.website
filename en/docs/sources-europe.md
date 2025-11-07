@@ -465,6 +465,7 @@ Sources:
 
 + [Agreement between the Government of Malta and the Malta Union of Teachers](https://upe.mt/wp-content/uploads/2021/03/Sectoral-Agreement.pdf)
 + [Clarification regarding public holidays falling during a weekend](https://mut.org.mt/clarification-regarding-public-holidays-falling-during-a-weekend/)
++ [SCHOOL CALENDAR 2025/2026](https://upe.mt/2025-2026-academic-year-calendar/)
 + [SCHOOL CALENDAR 2024/2025](https://upe.mt/school-calendar-2024-2025/)
 + [SCHOOL CALENDAR 2023/2024](https://upe.mt/school-calendar-2023-2024/)
 + [SCHOOL CALENDAR 2022/2023](https://upe.mt/school-calendar-2022-2023/)
@@ -486,6 +487,7 @@ The holiday dates are set annually by the Ministry of Education and Research.
 
 Sources:
 
++ [Planul-cadru 2025-2026 (PDF)](https://mecc.gov.md/sites/default/files/ordin_repartizare_etapa_a_ii-a_12.08.2025.pdf)
 + [Planul-cadru 2024-2025 (PDF)](https://mecc.gov.md/sites/default/files/ordinul_mec_cu_privire_la_planul_cadru_pentru_2024-2025ro.pdf)
 + [Planul-cadru 2023-2024 (PDF)](https://mecc.gov.md/sites/default/files/ordin_si_plan_cadru_2023-2024_aprobat_si_plasat_pe_site.pdf)
 + [Planul-cadru 2022-2023 (PDF)](https://mecc.gov.md/sites/default/files/ordin_mec_nr_123_din_28.02.2022_plan-cadru_2022-2023.pdf)

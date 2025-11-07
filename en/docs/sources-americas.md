@@ -36,6 +36,7 @@ The school holidays are determined centrally by the [Secretaría de Educación P
 
 Sources:
 
++ [Calendario Escolar 2025-2026](https://calendarioescolar.sep.gob.mx/2025-2026)
 + [Calendario Escolar 2024-2025](https://calendarioescolar.sep.gob.mx/2024-2025)
 + [Calendario Escolar 2023-2024](https://calendarioescolar.sep.gob.mx/2023-2024)
 + [Calendario Escolar 2022-2023](https://calendarioescolar.sep.gob.mx/2022-2023)
