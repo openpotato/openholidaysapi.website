@@ -18,7 +18,7 @@ Die Schulferien für das jeweils nächste Schuljahr werden durch das Ministerium
 
 Quellen:
 
-+ [Urdhër i përbashkët Nr.156, datë 24.04.2025 për miratimin e strukturës së vitit shkollor 2024-2025](https://arsimiparauniversitar.gov.al/urdher-nr-156-per-miratimin-e-struktures-se-vitit-shkollor-2025-2026-ne-sistemin-arsimor-parauniversitar/)
++ [Urdhër i përbashkët Nr.156, datë 24.04.2025 për miratimin e strukturës së vitit shkollor 2025-2026](https://arsimiparauniversitar.gov.al/urdher-nr-156-per-miratimin-e-struktures-se-vitit-shkollor-2025-2026-ne-sistemin-arsimor-parauniversitar/)
 + [Urdhër i përbashkët Nr.13, datë 10.07.2024 për miratimin e strukturës së vitit shkollor 2024-2025](https://arsimiparauniversitar.gov.al/udhezim-i-perbashket-nr-13-date-10-07-2024-per-vitin-shkollor-2024-2025-ne-sistemin-arsimor-parauniversitar/)
 + [Urdhër i përbashkët Nr.191, datë 20.04.2023 për miratimin e strukturës së vitit shkollor 2023-2024](https://arsimiparauniversitar.gov.al/urdher-i-perbashket-mbi-miratimin-e-struktures-se-vitit-shkollor-2023-2024-ne-sistemin-arsimor-parauniversitar/)
 + [Urdhër i përbashkët Nr.227, datë 28.04.2022 për miratimin e strukturës së vitit shkollor 2022-2023](https://arsimiparauniversitar.gov.al/2222-2/)
