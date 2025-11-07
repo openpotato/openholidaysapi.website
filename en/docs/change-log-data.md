@@ -44,6 +44,12 @@ We largely adhere to the recommendations from the community project [Keep a Chan
 
 + Many bug fixes for German holidays.
 
+## May 30, 2025
+
+**Changed:**
+
++ Vatican holidays due to the appointment of Pope Leo XIV.
+
 ## April 16, 2025
 
 **Added:**

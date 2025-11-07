@@ -34,21 +34,27 @@ Wir halten uns dabei weitestgehend an die Empfehlungen aus dem Community-Projekt
 
 + Fehlerkorrekturen für Schulferien in Mecklenburg-Vorpommern (Deutschland).
 
+## 30. Mai 2025
+
+**Korrigiert:**
+
++ Feiertage des Vatikans aufgrund der Ernennung von Papst Leo XIV.
+
 ## 11. Juni 2025
 
 **Hinzugefügt:**
 
-+ Feiertage/Schulferien für Südafrika hinzugefügt
++ Feiertage/Schulferien für Südafrika hinzugefügt.
 
 **Korrigiert:**
 
-+ Fehlerkorrekturen für deutsche Ferien
++ Fehlerkorrekturen für deutsche Ferien.
 
 ## 16. April 2025
 
 **Hinzugefügt:**
 
-+ Feiertage für Brasilien hinzugefügt
++ Feiertage für Brasilien hinzugefügt.
 
 **Korrigiert:**
 
