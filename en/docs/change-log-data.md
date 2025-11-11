@@ -3,6 +3,12 @@ The detailed [Commit history](https://github.com/openpotato/openholidaysapi.data
 
 We largely adhere to the recommendations from the community project [Keep a Changelog](https://keepachangelog.com). However, the holiday data of the OpenHolidays API project is not subject to semantic versioning.
 
+## November 11, 2025
+
+**Added:**
+
++ Added school holidays 2025/2026 for Italy and Whit Monday as an additional public holiday in South Tyrol.
+
 ## November 07, 2025
 
 **Added:**

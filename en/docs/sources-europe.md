@@ -346,7 +346,7 @@ Sources:
 
 <h3>Public Holidays</h3>
 
-Italy has 11 public holidays. There is also the local feast of the patron saint.
+Italy has 11 public holidays, with the exception of Whit Monday for the South Tyrol region. There is also the local feast of the patron saint.
 
 Source:
 

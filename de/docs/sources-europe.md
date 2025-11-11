@@ -245,7 +245,7 @@ Quellen:
 
 <h3>Feiertage</h3>
 
-Italien hat 11 gesetzliche Feiertage. Hinzu kommt das örtliche Fest des Schutzpatrons.
+Italien hat 11 gesetzliche Feiertage sowie als Ausnahme Pfingstmontag für die Region Südtirol. Hinzu kommt das örtliche Fest des Schutzpatrons.
 
 Quelle:
 
