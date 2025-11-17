@@ -34,7 +34,7 @@ Andorra has 14 official public holidays that are free from work and school. Each
 
 Sources:
 
-+ [Salari mínim i festius nacionals i parroquials](https://www.treball.ad/salari-minim-i-festius)
++ [Salaris i festius](https://www.govern.ad/ca/tematiques/ocupacio-i-treball/relacions-laborals-i-seguretat/salaris-i-festius)
 
 <h3>School Holidays</h3>
 
@@ -42,6 +42,7 @@ The school holidays are approved every two years by the government on the recomm
 
 Sources:
 
++ [Calendaris de dies festius i de vacances escolars](https://www.govern.ad/ca/ministeris-i-secretaries-d-estat/ministeri-de-relacions-institucionals-educacio-i-universitats/convenis-i-normativa/calendari-escolar)
 + [S'aproven els calendaris de vacances escolars per als propers cursos 2025-2026 i 2026-2027](https://www.bopa.ad/Documents/Detall?doc=GD_2024_12_20_08_56_06)
 + [S'aproven els calendaris de vacances escolars per als propers cursos 2023-2024 i 2024-2025](https://www.bopa.ad/Documents/Detall?doc=GD20221209_09_34_57)
 + [S'aproven els calendaris de vacances escolars per als propers cursos 2021-2022 i 2022-2023](https://www.bopa.ad/bopa/032153/Pagines/GD20201218_10_01_56.aspx)
@@ -227,13 +228,14 @@ Source:
 
 <h3>School Holidays</h3>
 
-School holidays are determined centrally by the French Ministry of Education. France is divided into three holiday zones A, B and C, which are not based on administrative boundaries but rather on population density. A fourth zone is formed by the Mediterranean island of Corsica, whose local administration can adjust the school holidays by decree.
+School holidays are determined centrally by the French Ministry of Education. France is divided into three holiday zones A, B and C, which are not based on administrative boundaries but rather on population density. A fourth zone is formed by the Mediterranean island of Corsica, whose local administration can adjust the school holidays by decree. This also applies to the French overseas territories.
 
 Sources:
 
 + Ministère de l'Education Nationale et de la Jeunesse
 
     + [Calendrier scolaire](https://www.education.gouv.fr/calendrier-scolaire)
+    + [Calendrier scolaire 2026-2027 (PDF)](https://www.education.gouv.fr/media/230080/download)
     + [Calendrier scolaire 2025-2026 (PDF)](https://www.education.gouv.fr/media/119770/download)
     + [Calendrier scolaire 2024-2025 (PDF)](https://www.education.gouv.fr/media/119767/download)
     + [Calendrier scolaire 2023-2024 (PDF)](https://www.education.gouv.fr/media/119692/download)
@@ -242,9 +244,46 @@ Sources:
     + [Calendrier scolaire 2020-2021 (PDF)](https://www.education.gouv.fr/media/51786/download)
     + [Calendrier scolaire 2019-2020 (PDF)](https://www.education.gouv.fr/media/44402/download)
 
-+ Académie de Corse
++ Académie de Corse <small>- FR-20R</small>
 
     + [Calendrier scolaire](https://www.ac-corse.fr/calendrier-scolaire-122048)
+
++ Académie de la Guadeloupe <small>- FR-971</small>
+
+    + [Calendriers des vacances scolaires](https://www.ac-guadeloupe.fr/calendriers/calendrier_vacances_scolaires)
+
++ Académie de Guyane <small>- FR-973</small>  
+
+    + [Le calendrier scolaire](https://www.ac-guyane.fr/le-calendrier-scolaire-121444)
+
++ Académie de Martinique <small>- FR-972</small>  
+
+    + [Le calendrier scolaire](https://www.ac-martinique.fr/le-calendrier-scolaire-121727    )
+
++ Académie de Mayotte <small>- FR-976</small>  
+
+    + [Calendriers scolaires](https://www.ac-mayotte.fr/calendriers-scolaires-121778)
+
++ Vice-rectorat de Nouvelle-Calédonie <small>- FR-NC</small>   
+
+    + [Le calendrier scolaire](https://www.ac-noumea.nc/spip.php?article24=)
+
++ Vice-rectorat de Polynésie française <small>- FR-PF</small>
+
+    + [Calendriers scolaires](https://www.ac-polynesie.pf/calendriers-scolaires)
+
++ Académie de La Réunion <small>- FR-974</small>  
+
+    + [Calendrier scolaire](https://www.ac-reunion.fr/le-calendrier-scolaire)
+    + [Calendrier scolaire des années précédentes](https://www.ac-reunion.fr/calendrier-scolaire-des-annees-precedentes-121515)
+
++ Service de l’éducation nationale de Saint-Pierre-et-Miquelon <small>- FR-PM</small>
+
+    + [Calendrier scolaire](https://www.ac-spm.fr/spip.php?rubrique43=)
+
++ Vice-rectorat de Wallis-et-Futuna <small>- FR-WF</small>
+   
+    + [Calendrier des vacances scolaires](https://www.wallis-et-futuna.gouv.fr/Actualites/Presentation-de-Wallis-et-Futuna/Calendrier-des-vacances-scolaires)
 
 ## Germany
 
@@ -1673,6 +1712,7 @@ The cantons and their municipalities are responsible for determining the school 
 
 Sources:
 
++ Schweizerische Dokumentenserver Bildung: [Schulferien 2026 (PDF)](https://edudoc.ch/record/235166/files/Schulferien_2026.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2025 (PDF)](https://edudoc.ch/record/230469/files/Schulferien_2025.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2024 (PDF)](https://edudoc.ch/record/224765/files/Schulferien_2024.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2023 (PDF)](https://edudoc.ch/record/218325/files/Schulferien_2023.pdf)
@@ -1681,17 +1721,69 @@ Sources:
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2020 (PDF)](https://edudoc.ch/record/131016/files/Schulferien_2020_def.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2019 (PDF)](https://edudoc.ch/record/126296/files/Schulferien_2019_def.pdf)
 
-<h4>Kanton Basel-Landschaft<small>- CH-BL</small></h4>
+<h4>Canton of Aargau<small>- CH-AG</small></h4>
+
+School holidays in the canton of Basel-Stadt are the same for all public schools.
+
++ [Ferienplanung](https://www.schulen-aargau.ch/regelschule/schulorganisation/planung-ressourcen/stunden-ferienplanung)
+
+<h4>Canton of Appenzell Innerrhoden<small>- CH-AI</small></h4>
+
+School holidays in the canton of Appenzell Innerrhoden are always fixed for a period of three school years. A distinction is made between the inner part of the canton and the outer part (Oberegg district).
+
++ [Ferienplan und schulfreie Tage](https://www.ai.ch/themen/bildung/eltern-und-schule/ferienplan)
+
+<h4>Canton of Appenzell Ausserrhoden<small>- CH-AR</small></h4>
+
+In the canton of Appenzell Ausserrhoden, school holidays for primary schools are set annually. The aim is to coordinate with neighbouring cantons. The municipalities have the option of setting two of the 13 holiday weeks independently. The only [cantonal school](https://kanti-trogen.ch/) and the only [vocational training centre](https://www.berufsschule.ch/) each have their own holiday schedules.
+
++ [Regelungen für Volksschulen](https://ar.ch/verwaltung/departement-bildung-und-kultur/amt-fuer-volksschule-und-sport/ehandbuch-volksschule/schulbetrieb/regelungen/)
++ [Ferienplan Kantonsschule Trogen](https://kanti-trogen.ch/aktuelles/ferienplan/)
++ [Ferienplan BBZ Herisau](https://www.berufsschule.ch/ueber-uns/informationen/schuldaten/)
+
+<h4>Canton of Basel-Landschaft<small>- CH-BL</small></h4>
 
 The school holidays in the canton of Basel-Landschaft are the same for all primary schools, music schools, secondary schools and vocational schools. The only exception is the regional grammar school Laufental-Thierstein.
 
 + [Schulferien](https://www.baselland.ch/politik-und-behorden/direktionen/bildungs-kultur-und-sportdirektion/schulferien)
 
-<h4>Kanton Basel-Stadt<small>- CH-BS</small></h4>
+<h4>Canton of Basel-Stadt<small>- CH-BS</small></h4>
 
 The school holidays in the canton of Basel-Stadt are the same for all public schools.
 
 + [Schulferien](https://www.bs.ch/themen/bildung-und-kinderbetreuung/schulferien)
+
+<h4>Canton of Bern<small>- CH-BE</small></h4>
+
+School holidays in the canton of Bern are the same for all public schools.
+
++ [Schulferien](https://www.bern.ch/themen/bildung/schule/schulferien)
+
+<h4>Canton of Fribourg<small>- CH-FR</small></h4>
+
+School holidays in the canton of Fribourg vary depending on the type of school: compulsory schools (with the exception of the municipalities of Murten/Morat and Kerzers), secondary schools and vocational schools. 
+
++ [Schulferien](https://www.fr.ch/de/bkad/schulferien)
+
+<h4>Canton of Geneva <small>- CH-GE</small></h4>
+
+School holidays in the canton of Geneva are the same for all public schools.
+
++ [Vacances scolaires et jours fériés](https://www.ge.ch/vacances-scolaires-jours-feries)
+
+<h4>Canton of Glarus <small>- CH-GL</small></h4>
+
+School holidays in the canton of Glarus are the same for all public schools.
+
++ [Ferienpläne und Brückentage (PDF)](https://www.gl.ch/public/upload/assets/59471/Ferienpl%C3%A4ne_2025-2028.pdf?fp=1)
+
+<h4>Canton of Graubünden <small>- CH-GR</small></h4>
+
+In the canton of Graubünden, the autumn and Christmas holidays and the start of the school year for all primary schools are determined by the Graubünden Department of Education, Culture and Environmental Protection. The Moesano region is listed separately. All other holidays are determined by the school authorities. Secondary schools and the Graubünden Cantonal School set their own holidays.
+
++ [Schulbetrieb](https://www.gr.ch/DE/institutionen/verwaltung/ekud/avs/Schulbetrieb/schulorganisation/Seiten/Schulbetrieb.aspx)
++ [Ferienplan Bündner Kantonsschule](https://www.gr.ch/DE/institutionen/verwaltung/ekud/ahb/bks/uberuns/ferienplan/Seiten/default.aspx)
++ [Verzeichnis und Adressen der Mittelschulen](https://www.gr.ch/DE/institutionen/verwaltung/ekud/ahb/mittelschulen/uberuns/mittelschulen/Seiten/default.aspx)
 
 <h4>Canton Jura <small>- CH-JU</small></h4>
 
@@ -1701,7 +1793,31 @@ The school holidays in the canton of Jura are the same for all public schools.
 + [Dates des vacances scolaires 2023 à 2028 (PDF)](https://www.jura.ch/Htdocs/Files/v/40088.pdf/Departements/DFCS/SEN/Vacances/220531_Arrete_Vacances_scolaires-2023---2028_Decision-GVT.pdf?download=1)
 + [Dates des vacances scolaires 2018 à 2023 (PDF)](https://www.jura.ch/Htdocs/Files/v/24641.pdf/Departements/DFCS/SEN/Vacances/1819_2324_Arrete_Vacances_scolaires.pdf?download=1)
 
-<h4>Kanton Solothurn <small>- CH-SO</small></h4>
+<h4>Canton Luzern <small>- CH-LU</small></h4>
+
++ [Schulferien](https://www.lu.ch/verwaltung/BKD/bkd_publikationen/Schulferien)
+
+<h4>Canton Neuenburg <small>- CH-NE</small></h4>
+
++ [Calendrier scolaire](https://www.ne.ch/themes/enseignement-formation/pages/calendrier-scolaire.aspx)
+
+<h4>Canton Nidwalden <small>- CH-NW</small></h4>
+
++ [Schulferienplan](https://www.nw.ch/biddirektionssekrpub/266)
+
+<h4>Canton Obwalden <small>- CH-OW</small></h4>
+
++ [Schulferienplan](https://www.ow.ch/dienstleistungen/5276)
+
+<h4>Canton Schaffhausen <small>- CH-SH</small></h4>
+
++ [Schulferien](https://schule.sh.ch/CMS/Webseite/Schulportal-Kanton-Schaffhausen/Schulorganisation/Schuljahresplanung-1280144-DE.html)
+
+<h4>Canton Schwyz <small>- CH-SZ</small></h4>
+
++ [Schulorganisation - Ferien und Schulhalbtage](https://www.sz.ch/behoerden/verwaltung/bildungsdepartement/amt-fuer-volksschulen-und-sport/schulorganisation.html/8756-8758-8802-9466-9467-12773#js-cms-accordion-header--0-1)
+
+<h4>Canton Solothurn <small>- CH-SO</small></h4>
 
 The school holidays in the canton of Solothurn are the same for all secondary and vocational schools. The holiday dates for primary schools vary by municipality and region.
 
@@ -1712,6 +1828,42 @@ The school holidays in the canton of Solothurn are the same for all secondary an
 + Holiday plans for primary schools:
 
     + [Feriendaten der Volkschule](https://so.ch/verwaltung/departement-fuer-bildung-und-kultur/volksschulamt/aktuell/ferienplan/)
+
+<h4>Canton St. Gallen <small>- CH-SG</small></h4>
+
++ [Ferienplan](https://www.sg.ch/bildung-sport/volksschule/aus-dem-amt/ferienplan.html)
+
+<h4>Canton Tessin <small>- CH-TI</small></h4>
+
++ [Calendario scolastico](https://www4.ti.ch/decs/cosa-facciamo/calendario-scolastico/)
+
+<h4>Canton Thurgau <small>- CH-TG</small></h4>
+
++ [Ferienplan](https://av.tg.ch/themen/ferienplan.html/13415)
+
+<h4>Canton Uri <small>- CH-UR</small></h4>
+
++ [Ferienplan](https://www.ur.ch/dienstleistungen/3125)
+
+<h4>Canton Waadt <small>- CH-VD</small></h4>
+
++ [Jours fériés et vacances scolaires](https://www.vd.ch/formation/jours-feries-et-vacances-scolaires/)
+
+<h4>Canton Wallis <small>- CH-VS</small></h4>
+
++ [Schul- und Ferienplan](https://www.vs.ch/de/web/se/plans-de-scolarite)
+
+<h4>Canton Zug <small>- CH-ZG</small></h4>
+
+In the canton of Zug, the same school holiday dates apply to all public schools.
+
++ [Schulferien](https://zg.ch/de/bildung/bildungssystem/schulferien)
+
+<h4>Kanton Zürich <small>- CH-ZH</small></h4>
+
+In the canton of Zurich, primary schools determine their own holidays and days off. Only the start of the school year and the Christmas holidays are binding. For secondary schools and vocational schools, the Department of Education sets the holiday dates.
+
++ [Schulferien](https://www.zh.ch/de/bildung/bildungssystem/schulferien.html)
 
 ## Vatican City
 

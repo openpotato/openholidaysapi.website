@@ -3,6 +3,16 @@ The detailed [Commit history](https://github.com/openpotato/openholidaysapi.data
 
 We largely adhere to the recommendations from the community project [Keep a Changelog](https://keepachangelog.com). However, the holiday data of the OpenHolidays API project is not subject to semantic versioning.
 
+## November 17, 2025
+
+**Added:**
+
++ Added school holidays 2026/2027 for France (mainland).
+
+**Changed:**
+
++ School holidays for La Réunion (France) fully updated.
+
 ## November 11, 2025
 
 **Added:**

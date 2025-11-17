@@ -34,7 +34,7 @@ Andorra hat 14 offizielle Feiertage, die arbeits- und schulfrei sind. Zudem hat 
 
 Quelle:
 
-+ [Salari mínim i festius nacionals i parroquials](https://www.treball.ad/salari-minim-i-festius)
++ [Salaris i festius](https://www.govern.ad/ca/tematiques/ocupacio-i-treball/relacions-laborals-i-seguretat/salaris-i-festius)
 
 <h3>Schulferien</h3>
 
@@ -42,6 +42,7 @@ Die Schulferien werden alle zwei Jahre durch die Regierung auf Vorschlag des Bil
 
 Quellen:
 
++ [Calendaris de dies festius i de vacances escolars](https://www.govern.ad/ca/ministeris-i-secretaries-d-estat/ministeri-de-relacions-institucionals-educacio-i-universitats/convenis-i-normativa/calendari-escolar)
 + [S'aproven els calendaris de vacances escolars per als propers cursos 2025-2026 i 2026-2027](https://www.bopa.ad/Documents/Detall?doc=GD_2024_12_20_08_56_06)
 + [S'aproven els calendaris de vacances escolars per als propers cursos 2023-2024 i 2024-2025](https://www.bopa.ad/Documents/Detall?doc=GD20221209_09_34_57)
 + [S'aproven els calendaris de vacances escolars per als propers cursos 2021-2022 i 2022-2023](https://www.bopa.ad/bopa/032153/Pagines/GD20201218_10_01_56.aspx)
@@ -201,13 +202,14 @@ Quelle:
 
 <h3>Schulferien</h3>
 
-Die Schulferien werden zentral durch das französische Erziehungsministerium festgelegt. Dabei wird Frankreich in drei Ferienzonen A, B und C aufgeteilt, die sich nicht an administrativen Grenzen sondern vielmehr an der Bevölkerungsdichte orientieren. Eine vierte Zone bildet die Mittelmeerinsel Korsika, deren lokale Verwaltung die Schulferien per Dekret anpassen darf.
+Die Schulferien werden zentral durch das französische Erziehungsministerium festgelegt. Dabei wird Frankreich in drei Ferienzonen A, B und C aufgeteilt, die sich nicht an administrativen Grenzen sondern vielmehr an der Bevölkerungsdichte orientieren. Eine vierte Zone bildet die Mittelmeerinsel Korsika, deren lokale Verwaltung die Schulferien per Dekret anpassen darf. Dies gilt auch für die französischen Überseegebiete.
 
 Quellen:
 
 + Ministère de l'Education Nationale et de la Jeunesse
 
     + [Calendrier scolaire](https://www.education.gouv.fr/calendrier-scolaire)
+    + [Calendrier scolaire 2026-2027 (PDF)](https://www.education.gouv.fr/media/230080/download)
     + [Calendrier scolaire 2025-2026 (PDF)](https://www.education.gouv.fr/media/119770/download)
     + [Calendrier scolaire 2024-2025 (PDF)](https://www.education.gouv.fr/media/119767/download)
     + [Calendrier scolaire 2023-2024 (PDF)](https://www.education.gouv.fr/media/119692/download)
@@ -216,9 +218,46 @@ Quellen:
     + [Calendrier scolaire 2020-2021 (PDF)](https://www.education.gouv.fr/media/51786/download)
     + [Calendrier scolaire 2019-2020 (PDF)](https://www.education.gouv.fr/media/44402/download)
 
-+ Académie de Corse
++ Académie de Corse <small>- FR-20R</small>
 
     + [Calendrier scolaire](https://www.ac-corse.fr/calendrier-scolaire-122048)
+
++ Académie de la Guadeloupe <small>- FR-971</small>
+
+    + [Calendriers des vacances scolaires](https://www.ac-guadeloupe.fr/calendriers/calendrier_vacances_scolaires)
+
++ Académie de Guyane <small>- FR-973</small>  
+
+    + [Le calendrier scolaire](https://www.ac-guyane.fr/le-calendrier-scolaire-121444)
+
++ Académie de Martinique <small>- FR-972</small>  
+
+    + [Le calendrier scolaire](https://www.ac-martinique.fr/le-calendrier-scolaire-121727    )
+
++ Académie de Mayotte <small>- FR-976</small>  
+
+    + [Calendriers scolaires](https://www.ac-mayotte.fr/calendriers-scolaires-121778)
+
++ Vice-rectorat de Nouvelle-Calédonie <small>- FR-NC</small>   
+
+    + [Le calendrier scolaire](https://www.ac-noumea.nc/spip.php?article24=)
+
++ Vice-rectorat de Polynésie française <small>- FR-PF</small>
+
+    + [Calendriers scolaires](https://www.ac-polynesie.pf/calendriers-scolaires)
+
++ Académie de La Réunion <small>- FR-974</small>  
+
+    + [Calendrier scolaire](https://www.ac-reunion.fr/le-calendrier-scolaire)
+    + [Calendrier scolaire des années précédentes](https://www.ac-reunion.fr/calendrier-scolaire-des-annees-precedentes-121515)
+
++ Service de l’éducation nationale de Saint-Pierre-et-Miquelon <small>- FR-PM</small>
+
+    + [Calendrier scolaire](https://www.ac-spm.fr/spip.php?rubrique43=)
+
++ Vice-rectorat de Wallis-et-Futuna <small>- FR-WF</small>
+   
+    + [Calendrier des vacances scolaires](https://www.wallis-et-futuna.gouv.fr/Actualites/Presentation-de-Wallis-et-Futuna/Calendrier-des-vacances-scolaires)
 
 ## Irland
 
@@ -1157,7 +1196,7 @@ Tage, die wie gesetzliche Feiertage behandelt werden:
 Quellen:
 
 + [942.31 - Ruhetags- und Ladenöffnungsgesetz](https://bgs.zg.ch/app/de/texts_of_law/942.31)
-+ [Feiertage im Kanton Zug (PDF)](https://zg.ch/dam/jcr:073de1a2-a2ed-4b8a-a640-87951354b1d5/Feiertage_2022_2025_Kt-ZG_Daten.pdf)
++ [Arbeits- und Ruhezeiten / Feiertage](https://zg.ch/de/wirtschaft-arbeit/arbeitsbedingungen/arbeits-und-ruhezeiten)
 
 <h4>Kanton Zürich <small>- CH-ZH</small></h4>
 
@@ -1193,6 +1232,7 @@ Auf dem [Schweizerische Dokumentenserver Bildung](https://edudoc.ch) werden jede
 
 Quellen:
 
++ Schweizerische Dokumentenserver Bildung: [Schulferien 2026 (PDF)](https://edudoc.ch/record/235166/files/Schulferien_2026.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2025 (PDF)](https://edudoc.ch/record/230469/files/Schulferien_2025.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2024 (PDF)](https://edudoc.ch/record/224765/files/Schulferien_2024.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2023 (PDF)](https://edudoc.ch/record/218325/files/Schulferien_2023.pdf)
@@ -1200,6 +1240,26 @@ Quellen:
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2021 (PDF)](https://edudoc.ch/record/204064/files/Schulferien_2021.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2020 (PDF)](https://edudoc.ch/record/131016/files/Schulferien_2020_def.pdf)
 + Schweizerische Dokumentenserver Bildung: [Schulferien 2019 (PDF)](https://edudoc.ch/record/126296/files/Schulferien_2019_def.pdf)
+
+<h4>Kanton Aargau<small>- CH-AG</small></h4>
+
+Die Schulferien im Kanton Basel-Stadt sind für alle öffentlichen Schulen gleich.
+
++ [Ferienplanung](https://www.schulen-aargau.ch/regelschule/schulorganisation/planung-ressourcen/stunden-ferienplanung)
+
+<h4>Kanton Appenzell Innerrhoden<small>- CH-AI</small></h4>
+
+Die Schulferien im Kanton Appenzell Innerrhoden werden immer über einen Zeitraum von drei Schuljahren fixiert. Es wird zwischen dem inneren Landesteil und dem äußeren Landesteil (Bezirk Oberegg) unterschieden.
+
++ [Ferienplan und schulfreie Tage](https://www.ai.ch/themen/bildung/eltern-und-schule/ferienplan)
+
+<h4>Kanton Appenzell Ausserrhoden<small>- CH-AR</small></h4>
+
+Im Kanton Appenzell Ausserrhoden werden die Schulferien für Volksschulen jährlich festgelegt. Dabei wird eine Koordination mit den Nachbarkantonen angestrebt. Die Gemeinden haben die Möglichkeit zwei der 13 Ferienwochen selbstständig festzulegen. Die einzige [Kantonsschule](https://kanti-trogen.ch/) und das eimzige [Berufsbildungszentrum](https://www.berufsschule.ch/) besitzen jeweils eigene Ferienpläne.
+
++ [Regelungen für Volksschulen](https://ar.ch/verwaltung/departement-bildung-und-kultur/amt-fuer-volksschule-und-sport/ehandbuch-volksschule/schulbetrieb/regelungen/)
++ [Ferienplan Kantonsschule Trogen](https://kanti-trogen.ch/aktuelles/ferienplan/)
++ [Ferienplan BBZ Herisau](https://www.berufsschule.ch/ueber-uns/informationen/schuldaten/)
 
 <h4>Kanton Basel-Landschaft<small>- CH-BL</small></h4>
 
@@ -1213,6 +1273,38 @@ Die Schulferien im Kanton Basel-Stadt sind für alle öffentlichen Schulen gleic
 
 + [Schulferien](https://www.bs.ch/themen/bildung-und-kinderbetreuung/schulferien)
 
+<h4>Kanton Bern<small>- CH-BE</small></h4>
+
+Die Schulferien im Kanton Bern sind für alle öffentlichen Schulen gleich.
+
++ [Schulferien](https://www.bern.ch/themen/bildung/schule/schulferien)
+
+<h4>Kanton Freiburg<small>- CH-FR</small></h4>
+
+Die Schulferien im Kanton Freiburg unterscheiden sich je nach Schulart: Obilgatorsiche Schulen (mit Ausnahme der Gemeinden Murten/Morat und Kerzers), Mittelschulen und berufliche Schulen. 
+
++ [Schulferien](https://www.fr.ch/de/bkad/schulferien)
+
+<h4>Kanton Genf <small>- CH-GE</small></h4>
+
+Die Schulferien im Kanton Genf sind für alle öffentlichen Schulen gleich.
+
++ [Vacances scolaires et jours fériés](https://www.ge.ch/vacances-scolaires-jours-feries)
+
+<h4>Kanton Glarus <small>- CH-GL</small></h4>
+
+Die Schulferien im Kanton Glarus sind für alle öffentlichen Schulen gleich.
+
++ [Ferienpläne und Brückentage (PDF)](https://www.gl.ch/public/upload/assets/59471/Ferienpl%C3%A4ne_2025-2028.pdf?fp=1)
+
+<h4>Kanton Graubünden <small>- CH-GR</small></h4>
+
+Im Kanton Graubünden werden die Herbst- und Weihnachtsferien sowie der Schuljahresbeginn für alle Volksschulen vom Erziehungs-, Kultur- und Umweltschutzdepartement Graubünden festgelegt. Die Region Moesano wird dabei gesondert ausgewiesen. Alle übrigen Ferien bestimmen die Schulträgerschaften. Mittelschulen und die Bündner Kantonsschule legen ihre Ferien individuell fest.
+
++ [Schulbetrieb](https://www.gr.ch/DE/institutionen/verwaltung/ekud/avs/Schulbetrieb/schulorganisation/Seiten/Schulbetrieb.aspx)
++ [Ferienplan Bündner Kantonsschule](https://www.gr.ch/DE/institutionen/verwaltung/ekud/ahb/bks/uberuns/ferienplan/Seiten/default.aspx)
++ [Verzeichnis und Adressen der Mittelschulen](https://www.gr.ch/DE/institutionen/verwaltung/ekud/ahb/mittelschulen/uberuns/mittelschulen/Seiten/default.aspx)
+
 <h4>Kanton Jura <small>- CH-JU</small></h4>
 
 Die Schulferien im Kanton Jura sind für alle öffentlichen Schulen gleich.
@@ -1221,17 +1313,77 @@ Die Schulferien im Kanton Jura sind für alle öffentlichen Schulen gleich.
 + [Dates des vacances scolaires 2023 à 2028 (PDF)](https://www.jura.ch/Htdocs/Files/v/40088.pdf/Departements/DFCS/SEN/Vacances/220531_Arrete_Vacances_scolaires-2023---2028_Decision-GVT.pdf?download=1)
 + [Dates des vacances scolaires 2018 à 2023 (PDF)](https://www.jura.ch/Htdocs/Files/v/24641.pdf/Departements/DFCS/SEN/Vacances/1819_2324_Arrete_Vacances_scolaires.pdf?download=1)
 
+<h4>Kanton Luzern <small>- CH-LU</small></h4>
+
++ [Schulferien](https://www.lu.ch/verwaltung/BKD/bkd_publikationen/Schulferien)
+
+<h4>Kanton Neuenburg <small>- CH-NE</small></h4>
+
++ [Calendrier scolaire](https://www.ne.ch/themes/enseignement-formation/pages/calendrier-scolaire.aspx)
+
+<h4>Kanton Nidwalden <small>- CH-NW</small></h4>
+
++ [Schulferienplan](https://www.nw.ch/biddirektionssekrpub/266)
+
+<h4>Kanton Obwalden <small>- CH-OW</small></h4>
+
++ [Schulferienplan](https://www.ow.ch/dienstleistungen/5276)
+
+<h4>Kanton Schaffhausen <small>- CH-SH</small></h4>
+
++ [Schulferien](https://schule.sh.ch/CMS/Webseite/Schulportal-Kanton-Schaffhausen/Schulorganisation/Schuljahresplanung-1280144-DE.html)
+
+<h4>Kanton Schwyz <small>- CH-SZ</small></h4>
+
++ [Schulorganisation - Ferien und Schulhalbtage](https://www.sz.ch/behoerden/verwaltung/bildungsdepartement/amt-fuer-volksschulen-und-sport/schulorganisation.html/8756-8758-8802-9466-9467-12773#js-cms-accordion-header--0-1)
+
 <h4>Kanton Solothurn <small>- CH-SO</small></h4>
 
 Die Schulferien im Kanton Solothurn sind für alle Mittel- und Berufsfachschulen gleich. Die Feriendaten der Volkschulen unterscheiden sich nach Gemeinde und Region.
+
++ Ferienpläne der Volkschulen
+
+    + [Feriendaten der Volkschule](https://so.ch/verwaltung/departement-fuer-bildung-und-kultur/volksschulamt/aktuell/ferienplan/)
 
 + Ferienpläne für die Mittel- und Berufsfachschulen
     
 	+ [Ferienpläne für die kantonalen Mittel- und Berufsfachschulen](https://so.ch/verwaltung/departement-fuer-bildung-und-kultur/amt-fuer-berufsbildung-mittel-und-hochschulen/aktuell/ferienplaene/)
 
-+ Ferienpläne der Volkschulen
+<h4>Kanton St. Gallen <small>- CH-SG</small></h4>
 
-    + [Feriendaten der Volkschule](https://so.ch/verwaltung/departement-fuer-bildung-und-kultur/volksschulamt/aktuell/ferienplan/)
++ [Ferienplan](https://www.sg.ch/bildung-sport/volksschule/aus-dem-amt/ferienplan.html)
+
+<h4>Kanton Tessin <small>- CH-TI</small></h4>
+
++ [Calendario scolastico](https://www4.ti.ch/decs/cosa-facciamo/calendario-scolastico/)
+
+<h4>Kanton Thurgau <small>- CH-TG</small></h4>
+
++ [Ferienplan](https://av.tg.ch/themen/ferienplan.html/13415)
+
+<h4>Kanton Uri <small>- CH-UR</small></h4>
+
++ [Ferienplan](https://www.ur.ch/dienstleistungen/3125)
+
+<h4>Kanton Waadt <small>- CH-VD</small></h4>
+
++ [Jours fériés et vacances scolaires](https://www.vd.ch/formation/jours-feries-et-vacances-scolaires/)
+
+<h4>Kanton Wallis <small>- CH-VS</small></h4>
+
++ [Schul- und Ferienplan](https://www.vs.ch/de/web/se/plans-de-scolarite)
+
+<h4>Kanton Zug <small>- CH-ZG</small></h4>
+
+Im Kanton Zug gelten für alle öffentlichen Schulen die gleichen Schulferiendaten.
+
++ [Schulferien](https://zg.ch/de/bildung/bildungssystem/schulferien)
+
+<h4>Kanton Zürich <small>- CH-ZH</small></h4>
+
+Im Kanton Zürich bestimmen die Volksschulen ihre Ferien und schulfreien Tage selbst. Nur der Schulbeginn und die Weihnachtsferien sind verbindlich. Für die Mittel- und Berufsfachschulen legt die Bildungsdirektion die Feriendaten fest.
+
++ [Schulferien](https://www.zh.ch/de/bildung/bildungssystem/schulferien.html)
 
 ## Serbien
 
