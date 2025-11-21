@@ -3,6 +3,12 @@ The detailed [Commit history](https://github.com/openpotato/openholidaysapi.data
 
 We largely adhere to the recommendations from the community project [Keep a Changelog](https://keepachangelog.com). However, the holiday data of the OpenHolidays API project is not subject to semantic versioning.
 
+## November 19, 2025
+
+**Added:**
+
++ Two one-off public holidays for Bulgaria on 31 December 2025 and 2 January 2026 (changeover from the national currency to the euro) 
+
 ## November 17, 2025
 
 **Added:**
