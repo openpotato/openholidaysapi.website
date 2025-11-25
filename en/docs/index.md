@@ -103,6 +103,24 @@ Here is an example query for Germany (DE):
 
 The codes of the subdivisions are based on the standard [ISO 3166-2](https://www.iso.org/iso-3166-country-codes.html) as well as the coding list [Hierarchical administrative subdivision codes (HASC)](http://www.statoids.com/ihasc.html).
 
+### Groups
+
+For school holidays, filters that cannot be mapped by administrative units of a country will be defined via groups. Groups can be anything, e.g. holiday zones, language boundaries or school types. Groups are not defined for every country.
+
+Here is an example query for Belgium (BE) that returns the language boundaries for school holidays: 
+
+=== ‘Powershell 7’
+
+    ``` powershell
+    curl -X GET “https://openholidaysapi.org/Groups?countryIsoCode=BE&languageIsoCode=de” -H “accept: text/json” | ConvertFrom-Json | ConvertTo-Json
+    ```
+
+=== ‘Bash’
+
+    ``` bash
+    curl -X GET “https://openholidaysapi.org/Groups?countryIsoCode=BE&languageIsoCode=de” -H “accept: text/json” | json_pp
+    ```
+
 ### Public holidays
 
 Public holidays can be queried per country and for any period (which must not be greater than three years). Optionally, the names of the public holidays can be restricted to a specific language. 

@@ -103,6 +103,24 @@ Hier eine Beispielabfrage für Deutschland (DE):
 
 Die Codes der Verwaltungseinheiten orientieren sich an dem Standard [ISO 3166-2](https://www.iso.org/iso-3166-country-codes.html) sowie an der Kodierliste [Hierarchical administrative subdivision codes (HASC)](http://www.statoids.com/ihasc.html).
 
+### Gruppen 
+
+Für Schulferien werden Filter, die nicht durch Verwaltungseinheiten eines Landes abgebildet werden können, via Gruppen definiert. Gruppen können alles Mögliche sein, z.B. Ferienzonen, Sprachgrenzen oder Schularten. Gruppen sind nicht für jedes Land definiert.
+
+Hier eine Beispielabfrage für Belgien (BE), welche die Sprachgrenzen für die Schulferien zurückliefert: 
+
+=== "Powershell 7"
+
+    ``` powershell
+    curl -X GET 'https://openholidaysapi.org/Groups?countryIsoCode=BE&languageIsoCode=de' -H 'accept: text/json' | ConvertFrom-Json | ConvertTo-Json
+    ```
+
+=== "Bash"
+
+    ``` bash
+    curl -X GET 'https://openholidaysapi.org/Groups?countryIsoCode=BE&languageIsoCode=de' -H 'accept: text/json' | json_pp
+    ```
+
 ### Feiertage
 
 Feiertage können pro Land und für einen beliebigen Zeitraum (der nicht größer als drei Jahre sein darf) abgefragt werden. Optional können die Namen der Feiertage auf eine bestimmte Sprache eingeschränkt werden. 
