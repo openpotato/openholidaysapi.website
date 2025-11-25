@@ -109,16 +109,16 @@ For school holidays, filters that cannot be mapped by administrative units of a 
 
 Here is an example query for Belgium (BE) that returns the language boundaries for school holidays: 
 
-=== ‘Powershell 7’
+=== "Powershell 7"
 
     ``` powershell
-    curl -X GET “https://openholidaysapi.org/Groups?countryIsoCode=BE&languageIsoCode=de” -H “accept: text/json” | ConvertFrom-Json | ConvertTo-Json
+    curl -X GET 'https://openholidaysapi.org/Subdivisions?countryIsoCode=DE' -H 'accept: text/json' | ConvertFrom-Json | ConvertTo-Json
     ```
 
-=== ‘Bash’
+=== "Bash"
 
     ``` bash
-    curl -X GET “https://openholidaysapi.org/Groups?countryIsoCode=BE&languageIsoCode=de” -H “accept: text/json” | json_pp
+    curl -X GET 'https://openholidaysapi.org/Subdivisions?countryIsoCode=DE' -H 'accept: text/json' | json_pp
     ```
 
 ### Public holidays
