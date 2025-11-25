@@ -10,3 +10,6 @@ The following libraries are available:
 
 - [noahnxt/laravel-open-holiday-api](https://github.com/NoahNxT/laravel-open-holiday-api): A Laravel wrapper for the OpenHolidays API.
 
+## Kotlin
+
+- [breezko/open-holiday-kotlin](https://github.com/breezko/open-holiday-kotlin): A Kotlin wrapper for the OpenHolidays API.

@@ -9,3 +9,7 @@ Die folgenden Bibliotheken sind verfügbar:
 ## PHP
 
 - [noahnxt/laravel-open-holiday-api](https://github.com/NoahNxT/laravel-open-holiday-api): Ein Laravel-Wrapper für die OpenHolidays API.
+
+## Kotlin
+
+- [breezko/open-holiday-kotlin](https://github.com/breezko/open-holiday-kotlin): Ein Kotlin wrapper für die OpenHolidays API.
