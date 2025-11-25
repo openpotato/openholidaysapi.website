@@ -1633,7 +1633,7 @@ The following additional rest days and public holidays apply in the canton of Va
 + Good Friday
 + Easter Monday
 + Whit Monday
-+ Whit Monday
++ Fast Monday
 
 Source:
 
@@ -1845,11 +1845,11 @@ The school holidays in the canton of Solothurn are the same for all secondary an
 
 + [Ferienplan](https://www.ur.ch/dienstleistungen/3125)
 
-<h4>Canton Waadt <small>- CH-VD</small></h4>
+<h4>Canton Vaud <small>- CH-VD</small></h4>
 
 + [Jours fériés et vacances scolaires](https://www.vd.ch/formation/jours-feries-et-vacances-scolaires/)
 
-<h4>Canton Wallis <small>- CH-VS</small></h4>
+<h4>Canton Valais <small>- CH-VS</small></h4>
 
 + [Schul- und Ferienplan](https://www.vs.ch/de/web/se/plans-de-scolarite)
 
