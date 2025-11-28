@@ -12,4 +12,4 @@ Die folgenden Bibliotheken sind verfügbar:
 
 ## Kotlin
 
-- [breezko/open-holiday-kotlin](https://github.com/breezko/open-holiday-kotlin): Ein Kotlin wrapper für die OpenHolidays API.
+- [breezko/open-holiday-kotlin](https://github.com/breezko/open-holiday-kotlin): Ein Kotlin-Wrapper für die OpenHolidays API.
