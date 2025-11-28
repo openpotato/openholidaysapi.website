@@ -1276,7 +1276,7 @@ The following additional public holidays apply in the canton of Geneva:
 + Good Friday
 + Easter Monday
 + Whit Monday
-+ 2. August, if the bank holidays (1 August) falls on a Sunday
++ 2 August, if the bank holidays (1 August) falls on a Sunday
 + Geneva Day of Prayer
 + St Stephen's Day (26 December): However, only if Christmas (25 December) falls on a Sunday
 + Restoration of the Republic (31 December)
@@ -1755,7 +1755,7 @@ The school holidays in the canton of Basel-Stadt are the same for all public sch
 
 <h4>Canton of Bern<small>- CH-BE</small></h4>
 
-School holidays in the canton of Bern are the same for all public schools.
+School holidays in the canton of Bern are determined centrally. A distinction is made between German-speaking schools (Volksschulen) and French-speaking schools (Écoles obligatoires).
 
 + [Schulferien](https://www.bern.ch/themen/bildung/schule/schulferien)
 
@@ -1795,6 +1795,8 @@ The school holidays in the canton of Jura are the same for all public schools.
 
 <h4>Canton Luzern <small>- CH-LU</small></h4>
 
+School holidays in the canton of Jura are the same for all public schools.
+
 + [Schulferien](https://www.lu.ch/verwaltung/BKD/bkd_publikationen/Schulferien)
 
 <h4>Canton Neuenburg <small>- CH-NE</small></h4>
@@ -1830,6 +1832,8 @@ The school holidays in the canton of Solothurn are the same for all secondary an
     + [Feriendaten der Volkschule](https://so.ch/verwaltung/departement-fuer-bildung-und-kultur/volksschulamt/aktuell/ferienplan/)
 
 <h4>Canton St. Gallen <small>- CH-SG</small></h4>
+
+School holidays for public primary schools and cantonal secondary schools are determined by the Education Council. However, sports and winter holidays are determined by the school authorities (communes) and vary depending on the school location.
 
 + [Ferienplan](https://www.sg.ch/bildung-sport/volksschule/aus-dem-amt/ferienplan.html)
 

@@ -1263,7 +1263,7 @@ Im Kanton Appenzell Ausserrhoden werden die Schulferien für Volksschulen jährl
 
 <h4>Kanton Basel-Landschaft<small>- CH-BL</small></h4>
 
-Die Schulferien im Kanton Basel-Landschaft sind für alle Volksschulen, Musikschulen, weiterführenden Schulen und Berufsfachschulen gleich. Eine Ausnahme bildet lediglich das Regionale Gymnasiums Laufental-Thierstein.
+Die Schulferien im Kanton Basel-Landschaft sind für alle Volksschulen, Musikschulen, weiterführenden Schulen und Berufsfachschulen gleich. Eine Ausnahme bildet lediglich das regionale Gymnasium Laufental-Thierstein.
 
 + [Schulferien](https://www.baselland.ch/politik-und-behorden/direktionen/bildungs-kultur-und-sportdirektion/schulferien)
 
@@ -1275,13 +1275,13 @@ Die Schulferien im Kanton Basel-Stadt sind für alle öffentlichen Schulen gleic
 
 <h4>Kanton Bern<small>- CH-BE</small></h4>
 
-Die Schulferien im Kanton Bern sind für alle öffentlichen Schulen gleich.
+Die Schulferien im Kanton Bern werden zentral festgelegt. Es wird zwischen den deutschsprachigen Schulen (Volksschulen) und den französischsprachigen Schulen (Écoles obligatoires) unterschieden.
 
 + [Schulferien](https://www.bern.ch/themen/bildung/schule/schulferien)
 
 <h4>Kanton Freiburg<small>- CH-FR</small></h4>
 
-Die Schulferien im Kanton Freiburg unterscheiden sich je nach Schulart: Obilgatorsiche Schulen (mit Ausnahme der Gemeinden Murten/Morat und Kerzers), Mittelschulen und berufliche Schulen. 
+Die Schulferien im Kanton Freiburg unterscheiden sich je nach Schulart: Obligatorische Schulen (mit Ausnahme der Gemeinden Murten/Morat und Kerzers), Mittelschulen und berufliche Schulen. 
 
 + [Schulferien](https://www.fr.ch/de/bkad/schulferien)
 
@@ -1314,6 +1314,8 @@ Die Schulferien im Kanton Jura sind für alle öffentlichen Schulen gleich.
 + [Dates des vacances scolaires 2018 à 2023 (PDF)](https://www.jura.ch/Htdocs/Files/v/24641.pdf/Departements/DFCS/SEN/Vacances/1819_2324_Arrete_Vacances_scolaires.pdf?download=1)
 
 <h4>Kanton Luzern <small>- CH-LU</small></h4>
+
+Die Schulferien im Kanton Jura sind für alle öffentlichen Schulen gleich.
 
 + [Schulferien](https://www.lu.ch/verwaltung/BKD/bkd_publikationen/Schulferien)
 
@@ -1351,6 +1353,8 @@ Die Schulferien im Kanton Solothurn sind für alle Mittel- und Berufsfachschulen
 
 <h4>Kanton St. Gallen <small>- CH-SG</small></h4>
 
+Die Schulferien der öffentlichen Volksschulen und der kantonalen Mittelschulen werden durch den Bildungsrat festgelegt. Aber: Die Sport- bzw. Winterferien werden durch die Schulträger (Gemeinde) festgelegt und unterscheiden sich je nach Schulort.
+
 + [Ferienplan](https://www.sg.ch/bildung-sport/volksschule/aus-dem-amt/ferienplan.html)
 
 <h4>Kanton Tessin <small>- CH-TI</small></h4>
@@ -1359,7 +1363,13 @@ Die Schulferien im Kanton Solothurn sind für alle Mittel- und Berufsfachschulen
 
 <h4>Kanton Thurgau <small>- CH-TG</small></h4>
 
-+ [Ferienplan](https://av.tg.ch/themen/ferienplan.html/13415)
++ Ferienpläne der Volkschulen
+
+    + [Ferienplan](https://av.tg.ch/themen/ferienplan.html/13415)
+
++ Ferienpläne der Mittelschulen
+
+    + [Schulferien Mittelschulen](https://mittelschulen.tg.ch/mittelschulen/schulferien-mittelschulen.html/4539)
 
 <h4>Kanton Uri <small>- CH-UR</small></h4>
 
