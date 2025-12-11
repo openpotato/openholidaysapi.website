@@ -2,7 +2,7 @@ Der CodeListHub API Web-Service ist [Open Source](https://github.com/openpotato/
 
 Wir halten uns dabei weitestgehend an die Empfehlungen aus dem Community-Projekt [Keep a Changelog](https://keepachangelog.com/de).
 
-## 0.2.0 <small>_ 05. November 2025</small>
+## 0.2.0 <small>_ 11. Dezember 2025</small>
 
 **Hinzugefügt:**:
 
@@ -11,7 +11,8 @@ Wir halten uns dabei weitestgehend an die Empfehlungen aus dem Community-Projekt
 
 **Geändert:**
 
-+ Umfangreiches internes Refactoring 
++ Update auf .NET 10.
++ Umfangreiches internes Refactoring .
 
 ## 0.1.0 <small>_ 06. November 2024</small>
 
@@ -25,4 +26,4 @@ Wir halten uns dabei weitestgehend an die Empfehlungen aus dem Community-Projekt
 
 ## 0.0.2 <small>_ 16. September 2022</small>
 
-+ Erste Veröffentlichung
++ Erste Veröffentlichung.
