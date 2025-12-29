@@ -1463,6 +1463,8 @@ Quellen:
 + Allgemein
 
     + [Calendarios de días inhábiles](https://administracion.gob.es/pag_Home/atencionCiudadana/calendarios/diasInhabiles.html)
+    + [Fiestas laborales para el año 2026](https://www.boe.es/eli/es/res/2025/11/18/(3))
+    + [Fiestas laborales para el año 2025](https://www.boe.es/eli/es/res/2024/12/16/(1))
     + [Fiestas laborales para el año 2024](https://www.boe.es/eli/es/res/2023/10/23/(1))
     + [Fiestas laborales para el año 2023](https://www.boe.es/eli/es/res/2022/10/07/(2))
     + [Fiestas laborales para el año 2022](https://www.boe.es/eli/es/res/2021/10/14/(3))
@@ -1471,6 +1473,7 @@ Quellen:
 
 + Andalusien <small>- ES-AN</small>
 
+    + [CALENDARIO DE FIESTAS LABORALES PARA ANDALUCÍA 2026](https://www.juntadeandalucia.es/boja/2025/93/1)
     + [CALENDARIO DE FIESTAS LABORALES PARA ANDALUCÍA 2025](https://www.juntadeandalucia.es/boja/2024/100/35)
     + [CALENDARIO DE FIESTAS LABORALES PARA ANDALUCÍA 2024](https://www.juntadeandalucia.es/boja/2023/67/36)
     + [CALENDARIO DE FIESTAS LABORALES PARA ANDALUCÍA 2023](https://www.juntadeandalucia.es/boja/2022/87/1)
@@ -1480,7 +1483,9 @@ Quellen:
 
 + Aragon <small>- ES-AR</small>
 
+    + [Las festas laborales retribuidas, no recuperables e inhábiles para el año 2026 (PDF)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1403827540808)
     + [Las festas laborales retribuidas, no recuperables e inhábiles para el año 2025 (PDF)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1340337220606)
+    + [Las festas laborales retribuidas, no recuperables e inhábiles para el año 2024 (PDF)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1283256050505)
     + [Las festas laborales retribuidas, no recuperables e inhábiles para el año 2023 (PDF)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1225783324646)
     + [Las festas laborales retribuidas, no recuperables e inhábiles para el año 2022 (PDF)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1175493805252)
     + [Las festas laborales retribuidas, no recuperables e inhábiles para el año 2021 (PDF)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1124058485555)
@@ -1488,15 +1493,17 @@ Quellen:
 
 + Asturien <small>- ES-AS</small>
 
-	+ [Calendario 2025 (PDF)](https://sede.asturias.es/bopa/2024/12/05/2024-10445.pdf)
-    + [Calendario 2024 (PDF)](https://sede.asturias.es/bopa/2023/11/29/2023-10431.pdf)
-    + [Calendario 2023 (PDF)](https://sede.asturias.es/bopa/2022/12/01/2022-08887.pdf)
-    + [Calendario 2022 (PDF)](https://sede.asturias.es/bopa/2021/11/24/2021-09934.pdf)
-    + [Calendario 2021 (PDF)](https://sede.asturias.es/bopa/2020/12/23/2020-10507.pdf)
-    + [Calendario 2020 (PDF)](https://sede.asturias.es/bopa/2019/12/13/2019-12962.pdf)
+    + [Calendario 2026 (PDF)](https://miprincipado.asturias.es/bopa/2025/11/26/2025-09582.pdf)
+	+ [Calendario 2025 (PDF)](https://miprincipado.asturias.es/bopa/2024/12/05/2024-10445.pdf)
+    + [Calendario 2024 (PDF)](https://miprincipado.asturias.es/bopa/2023/11/29/2023-10431.pdf)
+    + [Calendario 2023 (PDF)](https://miprincipado.asturias.es/bopa/2022/12/01/2022-08887.pdf)
+    + [Calendario 2022 (PDF)](https://miprincipado.asturias.es/bopa/2021/11/24/2021-09934.pdf)
+    + [Calendario 2021 (PDF)](https://miprincipado.asturias.es/bopa/2020/12/23/2020-10507.pdf)
+    + [Calendario 2020 (PDF)](https://miprincipado.asturias.es/bopa/2019/12/13/2019-12962.pdf)
 
 + Kantabrien <small>- ES-CB</small>	
 
+    + [El calendario de fi estas laborales para el año 2026 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=423185)
     + [El calendario de fi estas laborales para el año 2025 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=407917)
     + [El calendario de fi estas laborales para el año 2024 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=392673)
     + [El calendario de fi estas laborales para el año 2023 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=374704)
@@ -1510,6 +1517,7 @@ Quellen:
 
 + Castile and León <small>- ES-CL</small>	
 
+    + [La fiestas laborales 2026 (PDF)](https://bocyl.jcyl.es/boletines/2025/06/02/pdf/BOCYL-D-02062025-1.pdf)
     + [La fiestas laborales 2025 (PDF)](https://bocyl.jcyl.es/boletines/2024/09/23/pdf/BOCYL-D-23092024-2.pdf)
     + [La fiestas laborales 2024 (PDF)](https://bocyl.jcyl.es/boletines/2023/10/09/pdf/BOCYL-D-09102023-15.pdf)
     + [La fiestas laborales 2023 (PDF)](https://bocyl.jcyl.es/boletines/2022/10/27/pdf/BOCYL-D-27102022-11.pdf)
@@ -1519,6 +1527,7 @@ Quellen:
 
 + Castilla-La Mancha <small>- ES-CM</small>	
 
+    + [Calendario laboral para el año 2026 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2025/06/26/pdf/2025_5159.pdf&tipo=rutaDocm)
     + [Calendario laboral para el año 2025 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2024/07/03/pdf/2024_5245.pdf&tipo=rutaDocm)
     + [Calendario laboral para el año 2024 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2023/05/19/pdf/2023_4631.pdf&tipo=rutaDocm)
     + [Calendario laboral para el año 2023 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2022/04/26/pdf/2022_3614.pdf&tipo=rutaDocm)
@@ -1528,6 +1537,7 @@ Quellen:
 
 + Kanarische Inseln <small>- ES-CN</small>	
 
+    + [Calendario de fiestas laborales para el año 2026](https://www.gobiernodecanarias.org/boc/2025/088/1659.html)
     + [Calendario de fiestas laborales para el año 2025](https://www.gobiernodecanarias.org/boc/2024/187/3013.html)
     + [Calendario de fiestas laborales para el año 2024](https://www.gobiernodecanarias.org/boc/2023/184/001.html)
 	+ [Calendario de fiestas laborales para el año 2023](https://www.gobiernodecanarias.org/boc/2022/137/001.html)
@@ -1537,6 +1547,7 @@ Quellen:
 
 + Katalonien <small>- ES-CT</small>	
 
+    + [Calendari de festes laborals a Catalunya per a l'any 2026](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=1013204)
     + [Calendari de festes laborals a Catalunya per a l'any 2025](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=984281)
     + [Calendari de festes laborals a Catalunya per a l'any 2024](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=962684)
     + [Calendari de festes laborals a Catalunya per a l'any 2023](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=926365)
@@ -1546,14 +1557,17 @@ Quellen:
 
 + Extremadura <small>- ES-EX</small>	
 
+    + [Las fiestas laborales para el año 2026 (PDF)](https://doe.juntaex.es/pdfs/doe/2025/940o/25040070.pdf)
     + [Las fiestas laborales para el año 2025 (PDF)](https://doe.juntaex.es/pdfs/doe/2024/960o/24040062.pdf)
 	+ [Las fiestas laborales para el año 2024 (PDF)](https://doe.juntaex.es/pdfs/doe/2023/1070o/23040116.pdf)
 	+ [Las fiestas laborales para el año 2023 (PDF)](https://doe.juntaex.es/pdfs/doe/2022/1720o/22040168.pdf)
 	+ [Las fiestas laborales para el año 2022 (PDF)](https://doe.juntaex.es/pdfs/doe/2021/1480o/21040122.pdf)
 	+ [Las fiestas laborales para el año 2021 (PDF)](https://doe.juntaex.es/pdfs/doe/2020/1700o/20040061.pdf)
+    + [Las fiestas laborales para el año 2020 (PDF)](https://doe.juntaex.es/pdfs/doe/2019/2360o/19040197.pdf)
 
 + Galicien <small>- ES-GA</small>	
 
+    + [Fiestas laborales para 2026](https://www.xunta.gal/dog/Publicados/2025/20250620/AnuncioG0767-120625-0002_es.html)
     + [Fiestas laborales para 2025](https://www.xunta.gal/dog/Publicados/2024/20240724/AnuncioG0767-170724-0001_es.html)
     + [Fiestas laborales para 2024](https://www.xunta.gal/dog/Publicados/2023/20230717/AnuncioG0656-070723-0002_es.html)
 	+ [Fiestas laborales para 2023](https://www.xunta.gal/dog/Publicados/2022/20220805/AnuncioG0656-010822-0001_es.html)
@@ -1563,20 +1577,12 @@ Quellen:
 
 + Balearische Inseln <small>- ES-IB</small>
 
-    + [Calendario Laboral](https://www.caib.es/sites/calendarilaboral/es/aao_2025/)
-
-+ Region Madrid <small>- ES-MD</small>
-
-    + [Las fiestas laborales para el año 2025 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/26/BOCM-20240926-13.PDF)
-    + [Las fiestas laborales para el año 2024 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/28/BOCM-20230928-17.PDF)
-    + [Las fiestas laborales para el año 2023 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/22/BOCM-20220922-18.PDF)
-    + [Las fiestas laborales para el año 2022 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/23/BOCM-20210923-12.PDF)
-    + [Las fiestas laborales para el año 2021 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2020/09/25/BOCM-20200925-17.PDF)
-    + [Las fiestas laborales para el año 2020 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2019/09/26/BOCM-20190926-8.PDF)
+    + [Calendario Laboral](https://www.caib.es/sites/calendarilaboral/es/aao_2026/)
 
 + Region Murcia <small>- ES-MC</small>	
 
 	+ [Calendario oficial de días inhábiles](https://sede.carm.es/web/pagina?IDCONTENIDO=40292&IDTIPO=100&RASTRO=c$m40267) 
+    + [Días inhábiles en los municipios, año 2026 (PDF)](https://www.borm.es/services/anuncio/ano/2025/numero/3546/pdf?id=837607)
     + [Días inhábiles en los municipios, año 2025 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=Resoluci%C3%B3n%20Calendario%20D%C3%ADas%20Inh%C3%A1biles%202025.pdf&ALIAS=ARCH&IDCONTENIDO=194212)
     + [Días inhábiles en los municipios, año 2024 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=Publicacion%20BORM.pdf&ALIAS=ARCH&IDCONTENIDO=186074)
     + [Días inhábiles en los municipios, año 2023 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=RESOLUCION%20D%C3%8DAS%20INHABILES%20%28BORM%29.pdf&ALIAS=ARCH&IDCONTENIDO=179351)
@@ -1584,8 +1590,19 @@ Quellen:
     + [Días inhábiles en los municipios, año 2021 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=Resolucion%20Calendario%20dias%20inhabiles-BORM.pdf&ALIAS=ARCH&IDCONTENIDO=167491) 
     + [Días inhábiles en los municipios, año 2020 (PDF)](https://sede.carm.es/web/descarga?ARCHIVO=Publicaci%C3%B3n%20BORM.pdf&ALIAS=ARCH&IDCONTENIDO=165621)
 
++ Region Madrid <small>- ES-MD</small>
+
+    + [Las fiestas laborales para el año 2026 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2025/09/25/BOCM-20250925-16.PDF)
+    + [Las fiestas laborales para el año 2025 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2024/09/26/BOCM-20240926-13.PDF)
+    + [Las fiestas laborales para el año 2024 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2023/09/28/BOCM-20230928-17.PDF)
+    + [Las fiestas laborales para el año 2023 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2022/09/22/BOCM-20220922-18.PDF)
+    + [Las fiestas laborales para el año 2022 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2021/09/23/BOCM-20210923-12.PDF)
+    + [Las fiestas laborales para el año 2021 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2020/09/25/BOCM-20200925-17.PDF)
+    + [Las fiestas laborales para el año 2020 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2019/09/26/BOCM-20190926-8.PDF)
+
 + Melilla <small>- ES-ML</small>	
 
+    + [Calendario Laboral 2026](https://www.melilla.es/melillaportal/contenedor.jsp?seccion=s_fact_d4_v1.jsp&contenido=41767&nivel=1400&tipo=2)
     + [Calendario Laboral 2025](https://www.melilla.es/melillaportal/contenedor.jsp?seccion=s_fact_d4_v1.jsp&contenido=37491&nivel=1400&tipo=2)
     + [Calendario Laboral 2024](https://www.melilla.es/melillaportal/contenedor.jsp?seccion=s_fact_d4_v1.jsp&contenido=34997&nivel=1400&tipo=2)
     + [Calendario Laboral 2023](https://www.melilla.es/melillaportal/contenedor.jsp?seccion=s_fact_d4_v1.jsp&contenido=33685&nivel=1400&tipo=2)
@@ -1595,6 +1612,7 @@ Quellen:
 
 + Region Navarra <small>- ES-NC</small>	
 
+    + [Calendario Oficial de Fiestas Laborales para el año 2026](https://www.lexnavarra.navarra.es/detalle.asp?r=57937)
     + [Calendario Oficial de Fiestas Laborales para el año 2025](https://www.lexnavarra.navarra.es/detalle.asp?r=57122)
     + [Calendario Oficial de Fiestas Laborales para el año 2024](https://www.lexnavarra.navarra.es/detalle.asp?r=56116)
     + [Calendario Oficial de Fiestas Laborales para el año 2023](https://www.lexnavarra.navarra.es/detalle.asp?r=55481)
@@ -1607,6 +1625,7 @@ Quellen:
 	+ Comunidad Autónoma de Euskadi
 
         + [Calendario laboral de la Comunidad Autónoma de Euskadi y de sus Territorios Históricos](https://www.euskadi.eus/gobierno-vasco/-/calendario-laboral/)
+        + [Calendario Oficial de Fiestas Laborales para el año 2026 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Calendario-laboral-2026.pdf)
 		+ [Calendario Oficial de Fiestas Laborales para el año 2025 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/24.05.08-PUBLICACION-BOPV-num.-89.pdf)
         + [Calendario Oficial de Fiestas Laborales para el año 2024 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/BOPV-114-Decreto-71-2023-Calendario-Oficial-Fiestas-Laborales-CAE-2024-.pdf)
         + [Calendario Oficial de Fiestas Laborales para el año 2023 (PDF)](https://www.euskadi.eus/bopv2/datos/2022/05/2202038a.pdf)
@@ -1616,7 +1635,8 @@ Quellen:
 
     + Álava <small>- ES-PV-AA</small> 
 
-        + [Calendario de fiestas laborales 2025 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/2024_080_02306_C.pdf)
+        + [Calendario de fiestas laborales 2026 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/BOTHA_2025_082_02192_C.pdf)
+        + [Calendario de fiestas laborales 2025 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/2024_080_02306_C.pdf) + [Modificación calendario (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Araba-Modificacion.pdf)
         + [Calendario de fiestas laborales 2024 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Calendario-de-fiestas-laborales-2024-2023_087_02269_C.pdf)
         + [Calendario de fiestas laborales 2023 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/adjuntos/22.07.20-ALAVA-CALENDARIO-LABORAL.pdf)
         + [Calendario de fiestas laborales 2022 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/adjuntos/21.07.19-CALENDARIO-LABORAL-ALAVA.pdf)
@@ -1625,6 +1645,7 @@ Quellen:
 
     + Gipuzkoa <small>- ES-PV-GP</small> 
 
+        + [Calendario de las fiestas locales para el año 2026 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Calendario-Laboral-2026-de-Gipuzkoa.pdf)
         + [Calendario de las fiestas locales para el año 2025 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/BOG.pdf)
         + [Calendario de las fiestas locales para el año 2024 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/c2307192.pdf) + [Modificación calendario (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Modificacion-BOG.pdf)
         + [Calendario de las fiestas locales para el año 2023 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/BOG-2022-09-22.pdf)
@@ -1633,6 +1654,7 @@ Quellen:
 
     + Bizkaia <small>- ES-PV-VZ</small> 
 
+        + [Calendario laboral 2026 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Calendario-laboral-BIZKAIA-2026-cas.pdf) + [Modificación calendario (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/calendario-laboral-BIZKAIA-2026-modificacion-cas.pdf)
         + [Calendario laboral 2025 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Calendario-laboral-Bizkaia-2025-cas.pdf) + [Modificación calendario (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/modificacion-calendario-laboral-Bizkaia-2025-cas.pdf)
         + [Calendario laboral 2024 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Calendario-laboral-Bizkaia-2024_cas.pdf) + [Modificación calendario (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Modif.-calendario-laboral-Bizkaia-2024-cas.pdf)
         + [Calendario laboral 2023 (PDF)](https://www.euskadi.eus/contenidos/informacion/5907/es_2296/Calendario-laboral-Bizkaia-2023-cas.pdf)
@@ -1642,6 +1664,7 @@ Quellen:
 
 + La Rioja <small>- ES-RI</small>
 
+    + [Calendario de días inhábiles para el año 2026](https://web.larioja.org/bor-portada/boranuncio?n=anu-571942)
 	+ [Calendario de días inhábiles para el año 2025](https://web.larioja.org/bor-portada/boranuncio?n=anu-565921)
     + [Calendario de días inhábiles para el año 2024](https://web.larioja.org/bor-portada/boranuncio?n=anu-558472)
     + [Calendario de días inhábiles para el año 2023](https://web.larioja.org/bor-portada/boranuncio?n=anu-550192)
@@ -1651,6 +1674,7 @@ Quellen:
 
 + Valencianische Gemeinschaft <small>- ES-VC</small>	
 
+    + [El Consell aprueba el calendario laboral de 2026](https://comunica.gva.es/es/detalle?id=394003553&site=373430869)
     + [El Consell aprueba el calendario laboral de 2025](https://comunica.gva.es/es/detalle?id=385216814&site=373430869)
     + [El Consell aprueba el calendario laboral de 2024](https://comunica.gva.es/es/detalle?id=374879490&site=373430869)
     + [El Consell aprueba el calendario laboral de 2023](https://comunica.gva.es/es/detalle?id=364734111&site=174859740)

@@ -3,11 +3,17 @@ Dort kann die detailierte [Commit-Historie](https://github.com/openpotato/openho
 
 Wir halten uns dabei weitestgehend an die Empfehlungen aus dem Community-Projekt [Keep a Changelog](https://keepachangelog.com/de). Allerdings unterliegen die Feriendaten des OpenHolidays API-Projekts keiner semantischen Versionierung.
 
+## 29. Dezember 2025
+
+**Hinzugefügt:**
+
++ Feiertage 2026 für Spanien hinzugefügt.
+
 ## 19. November 2025
 
 **Hinzugefügt:**
 
-+ Zwei jeweils einmalige Feiertage für Bulgarien am 31.12.2025 und am 2.1.2026 (Umstellung der Landeswährung auf Euro) 
++ Zwei jeweils einmalige Feiertage für Bulgarien am 31.12.2025 und am 2.1.2026 (Umstellung der Landeswährung auf Euro) hinzugefügt. 
 
 ## 17. November 2025
 
