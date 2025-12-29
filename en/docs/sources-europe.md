@@ -755,6 +755,7 @@ Sources:
 
     + [Calendarios de días inhábiles](https://administracion.gob.es/pag_Home/atencionCiudadana/calendarios/diasInhabiles.html)
     + [Fiestas laborales para el año 2026](https://www.boe.es/eli/es/res/2025/11/18/(3))
+    + [Fiestas laborales para el año 2025](https://www.boe.es/eli/es/res/2024/12/16/(1))
     + [Fiestas laborales para el año 2024](https://www.boe.es/eli/es/res/2023/10/23/(1))
     + [Fiestas laborales para el año 2023](https://www.boe.es/eli/es/res/2022/10/07/(2))
     + [Fiestas laborales para el año 2022](https://www.boe.es/eli/es/res/2021/10/14/(3))
