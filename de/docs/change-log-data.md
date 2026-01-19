@@ -3,6 +3,13 @@ Dort kann die detailierte [Commit-Historie](https://github.com/openpotato/openho
 
 Wir halten uns dabei weitestgehend an die Empfehlungen aus dem Community-Projekt [Keep a Changelog](https://keepachangelog.com/de). Allerdings unterliegen die Feriendaten des OpenHolidays API-Projekts keiner semantischen Versionierung.
 
+## 19. Januar 2026
+
+**Hinzugefügt:**
+
++ Schulferien 2025/2026 für Spanien hinzugefügt.
++ Historische Schulferien für einige Länder (Deutschland, Österreich, etc.)
+
 ## 29. Dezember 2025
 
 **Hinzugefügt:**
