@@ -7,7 +7,7 @@ We largely adhere to the recommendations from the community project [Keep a Chan
 
 **Added:**
 
-+ Added school holidays 2025/2026 for Spanien.
++ Added school holidays 2025/2026 for Spain.
 + Added historical school holiday data for some countries (Germany, Austria, etc.)
 
 ## December 29, 2025
