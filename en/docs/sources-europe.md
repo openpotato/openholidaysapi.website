@@ -551,6 +551,7 @@ The school holidays are determined by decree of the acting Minister of State.
 Sources:
 
 + La Principauté de Monaco: [Vacances Scolaires](https://monservicepublic.gouv.mc/thematiques/education/enseignement/enseignement-primaire-et-secondaire/vacances-scolaires)
++ [Arrêté Ministériel n° 2025‑181 du 8 avril 2025 portant fixation du calendrier des vacances scolaires pour l'année 2025/2026.](https://journaldemonaco.gouv.mc/Journaux/2025/Journal-8742/Arrete-Ministeriel-n-2025-181-du-8-avril-2025-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2025-2026)
 + [Arrêté Ministériel n° 2023-222 du 18 avril 2023 portant fixation du calendrier des vacances scolaires pour l'année 2025/2026.](https://journaldemonaco.gouv.mc/Journaux/2023/Journal-8640/Arrete-Ministeriel-n-2023-222-du-18-avril-2023-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2025-2026)
 + [Arrêté Ministériel n° 2023-221 du 18 avril 2023 portant fixation du calendrier des vacances scolaires pour l'année scolaire 2024/2025.](https://journaldemonaco.gouv.mc/Journaux/2023/Journal-8640/Arrete-Ministeriel-n-2023-221-du-18-avril-2023-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-scolaire-2024-2025)
 + [Arrêté Ministériel n° 2023-50 du 23 janvier 2023 portant fixation du calendrier des vacances scolaires pour l'année 2023/2024.](https://journaldemonaco.gouv.mc/Journaux/2023/Journal-8627/Arrete-Ministeriel-n-2023-50-du-23-janvier-2023-portant-fixation-du-calendrier-des-vacances-scolaires-pour-l-annee-2023-2024)
@@ -981,6 +982,8 @@ Sources:
 
 + Andalusia <small>- ES-AN</small>
 
+    + [Calendarios Escolares Provinciales 2025/26](https://educacion.ustea.org/calendarios-provinciales-para-el-curso-2025-26/)
+    + [Calendarios Escolares Provinciales 2024/25](https://educacion.ustea.org/calendarios-escolares-provinciales-2024-25-actualizacion-27-mayo-2024/)
 	+ [Calendarios Escolares Provinciales 2023/24](https://educacion.ustea.org/calendarios-escolares-provinciales-2023-24/)
 	+ [Calendarios Escolares Provinciales 2022/23](https://educacion.ustea.org/calendarios-escolares-provinciales-2022-23/)
 	+ [Calendarios Escolares Provinciales 2021/22](https://educacion.ustea.org/calendario-escolar-curso-2021-22/)
@@ -989,6 +992,7 @@ Sources:
 
 + Aragon <small>- ES-AR</small>
 
+    + [Los calendarios escolares 2025-2026 y 2026-2027 (PDF)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1392479120808)
 	+ [Los calendarios escolares 2023-2024 y 2024-2025 (PDF)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1271188890909)
 	+ [Los calendarios escolares 2021-2022 y 2022-2023 (PDF)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1171272861313)
 	+ [Calendario escolar 2020-2021 (PDF)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1120728824141) + [Modificaciones (PDF)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1155784884949)
@@ -996,14 +1000,18 @@ Sources:
 
 + Asturia <small>- ES-AS</small>	
 
-	+ [Calendario escolar 2023-2024 (PDF)](https://sede.asturias.es/bopa/2023/05/10/2023-03661.pdf)
-	+ [Calendario escolar 2022-2023 (PDF)](https://sede.asturias.es/bopa/2022/04/25/2022-02717.pdf)
-	+ [Calendario escolar 2021-2022 (PDF)](https://sede.asturias.es/bopa/2021/06/01/2021-05208.pdf)
-	+ [Calendario escolar 2020-2021 (PDF)](https://sede.asturias.es/bopa/2020/06/18/2020-04087.pdf)
-	+ [Calendario escolar 2019-2020 (PDF)](https://sede.asturias.es/bopa/2019/05/06/2019-03967.pdf) + [Modificaciones (PDF)](https://sede.asturias.es/bopa/2020/03/05/2020-01766.pdf)
+    + [Calendario escolar 2025-2026 (PDF)](https://miprincipado.asturias.es/bopa/2025/05/21/2025-03852.pdf) + [Modificaciones (PDF)](https://miprincipado.asturias.es/bopa/2025/06/12/2025-05021.pdf)
+	+ [Calendario escolar 2024-2025 (PDF)](https://miprincipado.asturias.es/bopa/2024/05/30/2024-04412.pdf)
+	+ [Calendario escolar 2023-2024 (PDF)](https://miprincipado.asturias.es/bopa/2023/05/10/2023-03661.pdf)
+	+ [Calendario escolar 2022-2023 (PDF)](https://miprincipado.asturias.es/bopa/2022/04/25/2022-02717.pdf)
+	+ [Calendario escolar 2021-2022 (PDF)](https://miprincipado.asturias.es/bopa/2021/06/01/2021-05208.pdf)
+	+ [Calendario escolar 2020-2021 (PDF)](https://miprincipado.asturias.es/bopa/2020/06/18/2020-04087.pdf)
+	+ [Calendario escolar 2019-2020 (PDF)](https://miprincipado.asturias.es/bopa/2019/05/06/2019-03967.pdf) + [Modificaciones (PDF)](https://miprincipado.asturias.es/bopa/2020/03/05/2020-01766.pdf)
 
 + Cantabria <small>- ES-CB</small>	
     
+    + [Calendario escolar 2025-2026 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=417958)
+	+ [Calendario escolar 2024-2025 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=400937)
 	+ [Calendario escolar 2023-2024 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=387183)
     + [Calendario escolar 2022-2023 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=371347)
 	+ [Calendario escolar 2021-2022 (PDF)](https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=360271)
@@ -1012,14 +1020,19 @@ Sources:
 
 + Ceuta <small>- ES-CE</small>	
 
-    + [Calendario escolar 2023-2024 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:b6627354-9f08-4d20-ac89-dffca42feecb/23-057-01-calendario-escolar-2023-2024.pdf)
+    + [Calendario escolar 2025-2026 (PDF)](https://anpeceutaymelilla.es/openFile.php?link=notices/att/10/26-147-01-calendario-escolar-2025-2026-v2_t1761046559_10_1.pdf)
+    + [Calendario escolar 2024-2025 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:5c637167-24cb-4319-a2d6-1dc45d9f6ada/24-060-01-calendario-escolar-2024-25.pdf)
+    + [Calendario escolar 2023-2024 (PDF)](https://anpeceutaymelilla.es/openFile.php?link=notices/att/10/23-201-01-calendario-2023-24-modificado_t1698320875_10_1.pdf)
     + [Calendario escolar 2022-2023 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:90e51f6a-5751-4462-b826-2c0422f523b7/22-044-01-calendario-escolar-2022-2023.pdf)
-    + [Calendario escolar 2021-2022 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:95fea70e-dbd0-4102-b73f-dda1632072ed/21-025-calendario-escolar-2021-2022.pdf)
+    + [Calendario escolar 2021-2022 (PDF)](https://anpeceutaymelilla.es/openFile.php?link=notices/att/10/report_calendario-escolar-curso-2021-2022-ceuta_t1624628643_10_1.pdf)
+    
     + [Calendario escolar 2020-2021 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:9d195d96-5f86-4b96-ba29-e4d1472ae353/16-04-calendario-escolar-20-21.pdf)
 
 + Castile and León <small>- ES-CL</small>	
 
     + [Calendario escolar](https://www.educa.jcyl.es/es/calendario-escolar)
+    + [Calendario escolar 2025-2026 (PDF)](https://bocyl.jcyl.es/boletines/2025/05/29/pdf/BOCYL-D-29052025-27.pdf)
+	+ [Calendario escolar 2024-2025 (PDF)](https://bocyl.jcyl.es/boletines/2024/05/24/pdf/BOCYL-D-24052024-16.pdf)
     + [Calendario escolar 2023-2024 (PDF)](https://bocyl.jcyl.es/boletines/2023/05/09/pdf/BOCYL-D-09052023-20.pdf)
     + [Calendario escolar 2022-2023 (PDF)](https://bocyl.jcyl.es/boletines/2022/06/10/pdf/BOCYL-D-10062022-26.pdf)
     + [Calendario escolar 2021-2022 (PDF)](https://bocyl.jcyl.es/boletines/2021/05/05/pdf/BOCYL-D-05052021-21.pdf)
@@ -1028,7 +1041,9 @@ Sources:
 
 + Castilla-La Mancha <small>- ES-CM</small>	
 
-    + [Calendario escolar](https://www.educa.jccm.es/es/calendario-escolar)
+    + [Calendario escolar](https://educacion.castillalamancha.es/calendario-escolar)
+    + [Calendario escolar 2025-2026 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2025/06/11/pdf/2025_4740.pdf&tipo=rutaDocm)
+	+ [Calendario escolar 2024-2025 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2024/06/13/pdf/2024_4681.pdf&tipo=rutaDocm)
 	+ [Calendario escolar 2023-2024 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2023/06/23/pdf/2023_5538.pdf&tipo=rutaDocm)
 	+ [Calendario escolar 2022-2023 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2022/06/22/pdf/2022_5769.pdf&tipo=rutaDocm)
 	+ [Calendario escolar 2021-2022 (PDF)](https://docm.jccm.es/docm/descargarArchivo.do?ruta=2021/06/08/pdf/2021_6785.pdf&tipo=rutaDocm)
@@ -1037,6 +1052,8 @@ Sources:
 
 + Canary Islands <small>- ES-CN</small>	
 
+    + [Calendario escolar 2025-2026](https://www.gobiernodecanarias.org/boc/2025/061/1213.html)
+    + [Calendario escolar 2024-2025](https://www.gobiernodecanarias.org/boc/2024/099/003.html)
     + [Calendario escolar 2023-2024](https://www.gobiernodecanarias.org/boc/2023/072/007.html)
 	+ [Calendario escolar 2022-2023](https://www.gobiernodecanarias.org/boc/2022/076/011.html)
 	+ [Calendario escolar 2021-2022](https://www.gobiernodecanarias.org/boc/2021/087/005.html)
@@ -1045,14 +1062,18 @@ Sources:
 
 + Catalonia <small>- ES-CT</small>	
     
-	+ [Calendario escolar 2024-2024](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=961648)
-    + [Calendario escolar 2022-2023](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=928355)
-    + [Calendario escolar 2021-2022](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=902561)
+    + [Calendario escolar 2025-2026](https://dogc.gencat.cat/es/document-del-dogc/?documentId=1014471)
+	+ [Calendario escolar 2024-2025](https://dogc.gencat.cat/es/document-del-dogc/?documentId=985703)
+	+ [Calendario escolar 2023-2024](https://dogc.gencat.cat/es/document-del-dogc/?documentId=961648)
+    + [Calendario escolar 2022-2023](https://dogc.gencat.cat/es/document-del-dogc/?documentId=928355)
+    + [Calendario escolar 2021-2022](https://dogc.gencat.cat/es/document-del-dogc/?documentId=902561)
     + [Calendario escolar 2020-2021](https://dogc.gencat.cat/es/document-del-dogc/?documentId=877791)
-	+ [Calendario escolar 2019-2020](https://dogc.gencat.cat/ca/document-del-dogc/?documentId=845626)
+	+ [Calendario escolar 2019-2020](https://dogc.gencat.cat/es/document-del-dogc/?documentId=845626)
 
 + Extremadura <small>- ES-EX</small>	
 
+    + [Calendario escolar 2025/2026 (PDF)](https://doe.juntaex.es/pdfs/doe/2025/1120o/25062399.pdf)
+    + [Calendario escolar 2024/2025 (PDF)](https://doe.juntaex.es/pdfs/doe/2024/1090o/24061895.pdf)
     + [Calendario escolar 2023/2024 (PDF)](https://doe.juntaex.es/pdfs/doe/2023/1150o/23062366.pdf)
     + [Calendario escolar 2022/2023 (PDF)](https://doe.juntaex.es/pdfs/doe/2022/1160o/22061970.pdf) + [Modificaciones (PDF)](https://doe.juntaex.es/pdfs/doe/2022/2090o/22063235.pdf)
     + [Calendario escolar 2021/2022 (PDF)](https://doe.juntaex.es/pdfs/doe/2021/1040o/21061623.pdf)
@@ -1061,7 +1082,9 @@ Sources:
 
 + Galicia <small>- ES-GA</small>	
     
-	+ [Calendario escolar 2023/2024](https://www.edu.xunta.gal/portal/calendarioescolar)
+    + [Calendario escolar 2025/2026](https://www.edu.xunta.gal/portal/node/47518)
+	+ [Calendario escolar 2024/2025](https://www.edu.xunta.gal/portal/node/42980)
+	+ [Calendario escolar 2023/2024](https://www.edu.xunta.gal/portal/node/39918)
     + [Calendario escolar 2022/2023](https://www.edu.xunta.gal/portal/node/37164)
     + [Calendario escolar 2021/2022](https://www.edu.xunta.gal/portal/node/34169)
     + [Calendario escolar 2020/2021](https://www.edu.xunta.gal/portal/node/31488)
@@ -1069,6 +1092,8 @@ Sources:
 
 + Balearic Islands <small>- ES-IB</small>	
 
+    + [Calendario escolar 2025-2026](https://www.caib.es/pidip2front/jsp/es/ficha-convocatoria/el-curso-escolar-20252026-comenzara-el-10-de-septiembre-de-2025-y-terminara-el-19-de-junio-de-2026)
+    + [Calendario escolar 2024-2025](https://www.caib.es/pidip2front/ficha_convocatoria.xhtml?lang=es&urlSemantica=10105041)
     + [Calendario escolar 2023-2024](https://www.caib.es/pidip2front/ficha_convocatoria.xhtml;jsessionid=NjpAFW5Q385Jp0CM0KcWiryDm0FXjLi8mj_xMiR0.sapplin24?lang=es&urlSemantica=el-curso-escolar-2023-2024-empezara-dia-11-de-septiembre-y-acabara-el-21-de-junio)
 	+ [Calendario escolar 2022-2023](https://www.caib.es/pidip2front/jsp/es/ficha-convocatoria/strongel-curso-escolar-2022-2023-empezaraacute-diacutea-12-de-septiembre-y-acabaraacute-el-23-de-juniostrong)
     + [Calendario escolar 2021-2022](https://www.caib.es/pidip2front/jsp/es/ficha-convocatoria/strongel-curso-escolar-2021-2022-empezaraacute-diacutea-10-de-septiembre-y-acabaraacute-el-23-de-juniostrong)
@@ -1077,6 +1102,8 @@ Sources:
 
 + Region of Murcia <small>- ES-MC</small>	
 
+    + [Calendario escolar 2025-2026 (PDF)](https://www.borm.es/services/anuncio/ano/2025/numero/2695/pdf)
+	+ [Calendario escolar 2024-2025 (PDF)](https://www.borm.es/services/anuncio/ano/2024/numero/3039/pdf)
     + [Calendario escolar 2023-2024 (PDF)](https://www.borm.es/services/anuncio/ano/2023/numero/3658/pdf)
     + [Calendario escolar 2022-2023 (PDF)](https://www.borm.es/services/anuncio/ano/2022/numero/2756/pdf)
     + [Calendario escolar 2021-2022 (PDF)](https://www.borm.es/services/anuncio/ano/2021/numero/7571/pdf)
@@ -1086,6 +1113,7 @@ Sources:
 + Community of Madrid <small>- ES-MD</small>	
 
     + [Calendario escolar](https://www.comunidad.madrid/servicios/educacion/calendario-escolar)
+    + [Calendario escolar 2024-2025 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2024/04/19/BOCM-20240419-18.PDF)
     + [Calendario escolar 2023-2024 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2023/06/12/BOCM-20230612-21.PDF)
     + [Calendario escolar 2022-2023 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2022/06/30/BOCM-20220630-16.PDF)
     + [Calendario escolar 2021-2022 (PDF)](https://www.bocm.es/boletin/CM_Orden_BOCM/2021/06/24/BOCM-20210624-24.PDF)
@@ -1094,7 +1122,9 @@ Sources:
 
 + Melilla <small>- ES-ML</small>	
 
-    + [Calendario escolar 2023-2024 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:87f9e058-aecd-4af9-9f5c-51cae3600507/calendario-escolar-23-24.pdf)
+    + [Calendario escolar 2025-2026 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:125cffd0-f43e-4210-9d2d-c910c0c00012/calendario-escolar-25-26.pdf)
+    + [Calendario escolar 2024-2025 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:ffbc16ae-3897-49bd-bcee-c3526a29e17e/calendario-academico-24-25.pdf)
+	+ [Calendario escolar 2023-2024 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:87f9e058-aecd-4af9-9f5c-51cae3600507/calendario-escolar-23-24.pdf)
 	+ [Calendario escolar 2022-2023 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:cf731a95-d0c1-4410-a74d-ac01360d63ac/calendario-escolar-22-23.pdf)
 	+ [Calendario escolar 2021-2022 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:da6c62b0-1850-498a-9a2f-9f5d697aa249/nuevo-calendario-escolar2.pdf)
 	+ [Calendario escolar 2020-2021 (PDF)](https://www.educacionfpydeportes.gob.es/dam/jcr:17e71f24-aaab-46a7-bbcd-d340ffb6439e/calendario-escolar-20-21.pdf)
@@ -1103,6 +1133,8 @@ Sources:
 + Region of Navarra <small>- ES-NC</small>	
 
     + [Calendario escolar](https://www.educacion.navarra.es/web/dpto/calendario-escolar)
+    + [Calendario escolar 2025-2026](https://bon.navarra.es/es/anuncio/-/texto/2025/88/15)
+	+ [Calendario escolar 2024-2025](https://bon.navarra.es/es/anuncio/-/texto/2024/104/8)
 	+ [Calendario escolar 2023-2024](https://bon.navarra.es/es/anuncio/-/texto/2023/110/15)
 	+ [Calendario escolar 2022-2023](https://bon.navarra.es/es/anuncio/-/texto/2022/109/6)
 	+ [Calendario escolar 2021-2022 (PDF)](https://www.educacion.navarra.es/documents/27590/0/RES+153+2021+Instrucciones+Calendario+2021+2022+WEB.pdf/4f00c393-6b72-31b7-ebf6-54d2699f153e)
@@ -1111,7 +1143,10 @@ Sources:
 
 + Basque Country <small>- ES-PV</small>	
 
-    + [Calendario escolar 2023-2024 (PDF)](https://www.euskadi.eus/contenidos/informacion/cee_organizacioncentros_calend/es_def/adjuntos/Egutegiaren_ebazpena_HHLH_2023_2024_c.pdf)
+    + [Organización de centros docentes no universitarios. Calendario escolar](https://www.euskadi.eus/estructura-y-organizacion-de-los-centros-calendario-escolar-centros-publicos-y-privados/web01-a2hikast/es/)
+    + [Calendario escolar 2025-2026 (PDF)](https://www.euskadi.eus/contenidos/informacion/cee_organizacioncentros_calend/es_def/adjuntos/2025_2026/Resolucion-calendario-Primaria-2025_26-cast-.pdf)
+    + [Calendario escolar 2024-2025 (PDF)](https://www.euskadi.eus/contenidos/informacion/cee_organizacioncentros_calend/es_def/adjuntos/2024_2025/Primaria_2024_2025_c.pdf)
+	+ [Calendario escolar 2023-2024 (PDF)](https://www.euskadi.eus/contenidos/informacion/cee_organizacioncentros_calend/es_def/adjuntos/Egutegiaren_ebazpena_HHLH_2023_2024_c.pdf)
 	+ [Calendario escolar 2022-2023 (PDF)](https://www.euskadi.eus/contenidos/informacion/cee_organizacioncentros_calend/es_def/adjuntos/resolucion_calendario_Primaria_2022_2023_c.pdf)
 	+ [Calendario escolar 2021-2022 (PDF)](https://www.euskadi.eus/contenidos/informacion/legelabur/es_def/adjuntos/resolucion_calendario_CIFP_2021-2022_c-2.pdf)
 	+ [Calendario escolar 2020-2021 (PDF)](https://www.euskadi.eus/contenidos/informacion/legelabur/es_def/Resolucion-calendario-escolar-2020-21.pdf)
@@ -1119,6 +1154,7 @@ Sources:
 	
 + La Rioja <small>- ES-RI</small>
 
+    + [Calendario escolar 2025-2026](https://web.larioja.org/bor-portada/boranuncio?n=anu-568679)
     + [Calendario escolar 2024-2025](https://web.larioja.org/bor-portada/boranuncio?n=anu-560216)
 	+ [Calendario escolar 2023-2024](https://web.larioja.org/bor-portada/boranuncio?n=anu-552901)
 	+ [Calendario escolar 2022-2023](https://web.larioja.org/bor-portada/boranuncio?n=anu-545691)
@@ -1128,6 +1164,8 @@ Sources:
 
 + Valencian Community <small>- ES-VC</small>	
 
+    + [Calendario escolar 2025-2026 (PDF)](https://dogv.gva.es/datos/2025/06/03/pdf/2025_19821_es.pdf)
+    + [Calendario escolar 2024-2025 (PDF)](https://dogv.gva.es/datos/2024/06/17/pdf/2024_5471.pdf)
     + [Calendario escolar 2023-2024 (PDF)](https://dogv.gva.es/datos/2023/06/20/pdf/2023_6827.pdf)
     + [Calendario escolar 2022-2023 (PDF)](https://dogv.gva.es/datos/2022/06/16/pdf/2022_5675.pdf)
     + [Calendario escolar 2021-2022 (PDF)](https://dogv.gva.es/datos/2021/06/04/pdf/2021_6190.pdf)
