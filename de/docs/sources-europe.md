@@ -1942,13 +1942,20 @@ Die Schulferien werden zentral durch Regierungsverordnungen festgelegt.
 
 Quellen:
 
++ [1/2026. (VII. 31.) OGYM rendelet a 2026/2027. tanév rendjéről](https://njt.hu/eli/R/2026/OGYM/1)
 + [27/2025. (VII. 24.) BM rendelet a 2025/2026. tanév rendjéről](https://njt.hu/eli/R/2025/BM/27)
 + [32/2024. (VIII. 8.) BM rendelet a 2024/2025. tanév rendjéről](https://njt.hu/eli/R/2024/BM/32)
 + [30/2023. (VIII. 22.) BM rendelet a 2023/2024. tanév rendjéről](https://njt.hu/eli/R/2023/BM/30)
++ [368/2022. (IX. 29.) Korm. rendelet a 2022/2023. tanév rendjére alkalmazandó veszélyhelyzeti szabályokról](https://njt.hu/eli/R/2022/Korm/368)
 + [22/2022. (VII. 29.) BM rendelet a 2022/2023. tanév rendjéről](https://njt.hu/eli/R/2022/BM/22)
 + [20/2021. (VI. 8.) EMMI rendelet a 2021/2022. tanév rendjéről](https://njt.hu/eli/R/2021/EMMI/20)
 + [27/2020. (VIII. 11.) EMMI rendelet a 2020/2021. tanév rendjéről](https://njt.hu/eli/R/2020/EMMI/27)
 + [11/2019. (VII. 3.) EMMI rendelet a 2019/2020. tanév rendjéről](https://njt.hu/eli/R/2019/EMMI/11)
++ [13/2018. (VI. 14.) EMMI rendelet a 2018/2019. tanév rendjéről](https://njt.hu/eli/R/2018/EMMI/13)
++ [14/2017. (VI. 14.) EMMI rendelet a 2017/2018. tanév rendjéről](https://njt.hu/eli/R/2017/EMMI/14)
++ [12/2016. (VI. 27.) EMMI rendelet a 2016/2017. tanév rendjéről](https://njt.hu/eli/R/2016/EMMI/12)
++ [28/2015. (V. 28.) EMMI rendelet a 2015/2016. tanév rendjéről](https://njt.hu/eli/R/2015/EMMI/28)
++ [35/2014. (IV. 30.) EMMI rendelet a 2014/2015. tanév rendjéről és az egyes oktatást szabályozó miniszteri rendeletek módosításáról](https://njt.hu/eli/R/2014/EMMI/35)
 
 ## Vatikanstadt
 
